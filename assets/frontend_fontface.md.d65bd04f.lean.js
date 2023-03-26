@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,N as l}from"./chunks/framework.785a3a74.js";const A=JSON.parse('{"title":"FontFace","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/fontface.md"}'),p={name:"frontend/fontface.md"},o=l("",7),e=[o];function t(c,r,D,F,y,i){return n(),a("div",null,e)}const u=s(p,[["render",t]]);export{A as __pageData,u as default};
