@@ -9,12 +9,14 @@ https://www.ssqdoit.top/daily/Git_Submodules（Git子模块）.html
 https://www.ssqdoit.top/daily/Python使用Selenium抓取网页动态内容.html
 https://www.ssqdoit.top/daily/Python在多用户环境安装依赖.html
 https://www.ssqdoit.top/daily/index.html
+https://www.ssqdoit.top/daily/一套独立开发者免费使用的套件.html
 https://www.ssqdoit.top/daily/搭配Google_Gemini能力实现一个终端AI_CLI助手.html
 https://www.ssqdoit.top/daily/网络：17.0.0.1和localhost以及0.0.0.0的区别.html
 https://www.ssqdoit.top/daily/解析MSOffice_Word有序列表样式.html
 https://www.ssqdoit.top/daily/记录一次Docker服务部署.html
 https://www.ssqdoit.top/daily/记录一次Docker部署目标服务器脚本.html
 https://www.ssqdoit.top/daily/非常实用的26个Prompt小技巧.html
+https://www.ssqdoit.top/english/index.html
 https://www.ssqdoit.top/index.html
 https://www.ssqdoit.top/markdown-examples.html
 https://www.ssqdoit.top/marks/2024.html
