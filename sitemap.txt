@@ -19,6 +19,7 @@ https://ssqdoit.top/daily/2024/记录一次 Docker 部署目标服务器脚本.h
 https://ssqdoit.top/daily/2024/记录一次前端输入框引发的抖动 Bug 修复.html
 https://ssqdoit.top/daily/index.html
 https://ssqdoit.top/english/index.html
+https://ssqdoit.top/fun/index.html
 https://ssqdoit.top/index.html
 https://ssqdoit.top/markdown-examples.html
 https://ssqdoit.top/marks/2024.html
