@@ -11,6 +11,8 @@ https://ssqdoit.top/daily/2023/Python 在多用户环境安装依赖.html
 https://ssqdoit.top/daily/2023/搭配 Google Gemini 能力实现一个终端 AI CLI 助手.html
 https://ssqdoit.top/daily/2023/网络：17.0.0.1 和 localhost 以及 0.0.0.0 的区别.html
 https://ssqdoit.top/daily/2023/非常实用的 26 个 Prompt 小技巧.html
+https://ssqdoit.top/daily/2024/ESLint + Prettierrc 代码质量检查与格式化.html
+https://ssqdoit.top/daily/2024/Node + Typescript 搭建项目基础框架.html
 https://ssqdoit.top/daily/2024/一个有趣实用的 macOS APP 的 debug 技巧.html
 https://ssqdoit.top/daily/2024/一套独立开发者免费使用的套件.html
 https://ssqdoit.top/daily/2024/解析 MS Office Word 有序列表样式.html
