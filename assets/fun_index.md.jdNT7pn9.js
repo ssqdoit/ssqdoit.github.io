@@ -1,9 +1,9 @@
 import{j as r,o as i,c as s,l as e,t as n,F as u,E as h,a as c,I as p}from"./chunks/framework.Ce6iPXhF.js";const l=[{topic:"jan",describe:"Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",features:`Jan 是 ChatGPT 的替代品，可在您的设备上 100% 离线运行。我们的目标是让外行人能够轻松下载和运行LLMs ，并在完全控制和隐私的情况下使用人工智能。
 Jan 由Cortex提供支持，Cortex 是我们可在任何硬件上运行的嵌入式本地 AI 引擎。从 PC 到多 GPU 集群，Jan & Cortex 支持通用架构：
- NVIDIA GPUs (fast) 
-Apple M-series (fast) 
-Apple Intel  
-Linux Debian 
+NVIDIA GPUs (fast)
+Apple M-series (fast)
+Apple Intel
+Linux Debian
 Windows x64`,link:"https://github.com/janhq/jan?tab=readme-ov-file",type:"github"},{topic:"Docling",describe:"Get your documents ready for gen AI",features:`🗂️ 读取流行的文档格式（PDF、DOCX、PPTX、XLSX、图像、HTML、AsciiDoc 和 Markdown）并导出为 HTML、Markdown 和 JSON
 📑 高级 PDF 文档理解，包括页面布局、阅读顺序和表格结构 
 🧩 统一的、富有表现力的DolingDocument表示格式 
