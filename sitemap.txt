@@ -11,6 +11,7 @@ https://ssqdoit.top/daily/2023/Python 在多用户环境安装依赖.html
 https://ssqdoit.top/daily/2023/搭配 Google Gemini 能力实现一个终端 AI CLI 助手.html
 https://ssqdoit.top/daily/2023/网络：17.0.0.1 和 localhost 以及 0.0.0.0 的区别.html
 https://ssqdoit.top/daily/2023/非常实用的 26 个 Prompt 小技巧.html
+https://ssqdoit.top/daily/2024/AI - 结构化提示词.html
 https://ssqdoit.top/daily/2024/ESLint + Prettierrc 代码质量检查与格式化.html
 https://ssqdoit.top/daily/2024/Node + Typescript 搭建项目基础框架.html
 https://ssqdoit.top/daily/2024/一个有趣实用的 macOS APP 的 debug 技巧.html
@@ -19,6 +20,9 @@ https://ssqdoit.top/daily/2024/解析 MS Office Word 有序列表样式.html
 https://ssqdoit.top/daily/2024/记录一次 Docker 服务部署.html
 https://ssqdoit.top/daily/2024/记录一次 Docker 部署目标服务器脚本.html
 https://ssqdoit.top/daily/2024/记录一次前端输入框引发的抖动 Bug 修复.html
+https://ssqdoit.top/daily/2025/一个好的 Debugging：高效定位 Bug 的实用技巧.html
+https://ssqdoit.top/daily/2025/什么是知识蒸馏（Knowledge Distillation）.html
+https://ssqdoit.top/daily/2025/基于 MCP (Model Context Protocol) 构建 AI 对话发送邮件.html
 https://ssqdoit.top/daily/index.html
 https://ssqdoit.top/english/index.html
 https://ssqdoit.top/fun/index.html
