@@ -25,6 +25,7 @@ https://ssqdoit.top/daily/2025/一个好的 Debugging：高效定位 Bug 的实�
 https://ssqdoit.top/daily/2025/什么是知识蒸馏（Knowledge Distillation）.html
 https://ssqdoit.top/daily/2025/基于 MCP (Model Context Protocol) 构建 AI 对话发送邮件.html
 https://ssqdoit.top/daily/2026/Cursor Agent 编码最佳实践.html
+https://ssqdoit.top/daily/2026/Kimi Code 源码架构分析.html
 https://ssqdoit.top/daily/index.html
 https://ssqdoit.top/english/index.html
 https://ssqdoit.top/fun/index.html
