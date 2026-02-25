@@ -1,45 +1,45 @@
-https://ssqdoit.top/algorithms/index.html
-https://ssqdoit.top/algorithms/前端面试题：数组扁平化、去重、排序.html
-https://ssqdoit.top/algorithms/文档协同编辑能力 - OT 算法.html
-https://ssqdoit.top/api-examples.html
-https://ssqdoit.top/daily/2022/WKWebView - WKURLSchemeHandler 拦截图片请求并实现缓存.html
-https://ssqdoit.top/daily/2023/2023 年终总结.html
-https://ssqdoit.top/daily/2023/Font 和 Glyph 的关系.html
-https://ssqdoit.top/daily/2023/FontFace 的使用.html
-https://ssqdoit.top/daily/2023/Git Submodules（Git 子模块）.html
-https://ssqdoit.top/daily/2023/Python 使用 Selenium 抓取网页动态内容.html
-https://ssqdoit.top/daily/2023/Python 在多用户环境安装依赖.html
-https://ssqdoit.top/daily/2023/搭配 Google Gemini 能力实现一个终端 AI CLI 助手.html
-https://ssqdoit.top/daily/2023/网络：17.0.0.1 和 localhost 以及 0.0.0.0 的区别.html
-https://ssqdoit.top/daily/2023/非常实用的 26 个 Prompt 小技巧.html
-https://ssqdoit.top/daily/2024/AI - 结构化提示词.html
-https://ssqdoit.top/daily/2024/ESLint + Prettierrc 代码质量检查与格式化.html
-https://ssqdoit.top/daily/2024/Node + Typescript 搭建项目基础框架.html
-https://ssqdoit.top/daily/2024/一个有趣实用的 macOS APP 的 debug 技巧.html
-https://ssqdoit.top/daily/2024/一套独立开发者免费使用的套件.html
-https://ssqdoit.top/daily/2024/解析 MS Office Word 有序列表样式.html
-https://ssqdoit.top/daily/2024/记录一次 Docker 服务部署.html
-https://ssqdoit.top/daily/2024/记录一次 Docker 部署目标服务器脚本.html
-https://ssqdoit.top/daily/2024/记录一次前端输入框引发的抖动 Bug 修复.html
-https://ssqdoit.top/daily/2025/一个好的 Debugging：高效定位 Bug 的实用技巧.html
-https://ssqdoit.top/daily/2025/什么是知识蒸馏（Knowledge Distillation）.html
-https://ssqdoit.top/daily/2025/基于 MCP (Model Context Protocol) 构建 AI 对话发送邮件.html
-https://ssqdoit.top/daily/2025/开源 Agents - DeerFlow 源码解读.html
-https://ssqdoit.top/daily/2025/开源 Agents - Open Manus 源码解读.html
-https://ssqdoit.top/daily/2026/Cursor Agent 编码最佳实践.html
-https://ssqdoit.top/daily/2026/Kimi Code 源码架构分析.html
-https://ssqdoit.top/daily/index.html
-https://ssqdoit.top/english/index.html
-https://ssqdoit.top/fun/index.html
-https://ssqdoit.top/index.html
-https://ssqdoit.top/marks/2024.html
-https://ssqdoit.top/note/css/css-01.html
-https://ssqdoit.top/note/css/css-02.html
-https://ssqdoit.top/note/css/css-03.html
-https://ssqdoit.top/note/css/css-04.html
-https://ssqdoit.top/note/css/css-05.html
-https://ssqdoit.top/note/index.html
-https://ssqdoit.top/reader/index.html
-https://ssqdoit.top/reader/reader-2023.html
-https://ssqdoit.top/reader/reader-2024.html
-https://ssqdoit.top/todolist/2024.html
+https://ssqdoit.top/algorithms/index.
+https://ssqdoit.top/algorithms/前端面试题：数组扁平化、去重、排序.
+https://ssqdoit.top/algorithms/文档协同编辑能力 - OT 算法.
+https://ssqdoit.top/api-examples.
+https://ssqdoit.top/english/index.
+https://ssqdoit.top/fun/index.
+https://ssqdoit.top/index.
+https://ssqdoit.top/marks/2024.
+https://ssqdoit.top/note/css/css-01.
+https://ssqdoit.top/note/css/css-02.
+https://ssqdoit.top/note/css/css-03.
+https://ssqdoit.top/note/css/css-04.
+https://ssqdoit.top/note/css/css-05.
+https://ssqdoit.top/note/index.
+https://ssqdoit.top/post/2022/WKWebView - WKURLSchemeHandler 拦截图片请求并实现缓存.
+https://ssqdoit.top/post/2023/2023 年终总结.
+https://ssqdoit.top/post/2023/Font 和 Glyph 的关系.
+https://ssqdoit.top/post/2023/FontFace 的使用.
+https://ssqdoit.top/post/2023/Git Submodules（Git 子模块）.
+https://ssqdoit.top/post/2023/Python 使用 Selenium 抓取网页动态内容.
+https://ssqdoit.top/post/2023/Python 在多用户环境安装依赖.
+https://ssqdoit.top/post/2023/搭配 Google Gemini 能力实现一个终端 AI CLI 助手.
+https://ssqdoit.top/post/2023/网络：17.0.0.1 和 localhost 以及 0.0.0.0 的区别.
+https://ssqdoit.top/post/2023/非常实用的 26 个 Prompt 小技巧.
+https://ssqdoit.top/post/2024/AI - 结构化提示词.
+https://ssqdoit.top/post/2024/ESLint + Prettierrc 代码质量检查与格式化.
+https://ssqdoit.top/post/2024/Node + Typescript 搭建项目基础框架.
+https://ssqdoit.top/post/2024/一个有趣实用的 macOS APP 的 debug 技巧.
+https://ssqdoit.top/post/2024/一套独立开发者免费使用的套件.
+https://ssqdoit.top/post/2024/解析 MS Office Word 有序列表样式.
+https://ssqdoit.top/post/2024/记录一次 Docker 服务部署.
+https://ssqdoit.top/post/2024/记录一次 Docker 部署目标服务器脚本.
+https://ssqdoit.top/post/2024/记录一次前端输入框引发的抖动 Bug 修复.
+https://ssqdoit.top/post/2025/一个好的 Debugging：高效定位 Bug 的实用技巧.
+https://ssqdoit.top/post/2025/什么是知识蒸馏（Knowledge Distillation）.
+https://ssqdoit.top/post/2025/基于 MCP (Model Context Protocol) 构建 AI 对话发送邮件.
+https://ssqdoit.top/post/2025/开源 Agents - DeerFlow 源码解读.
+https://ssqdoit.top/post/2025/开源 Agents - Open Manus 源码解读.
+https://ssqdoit.top/post/2026/Cursor Agent 编码最佳实践.
+https://ssqdoit.top/post/2026/Kimi Code 源码架构分析.
+https://ssqdoit.top/post/index.
+https://ssqdoit.top/reader/index.
+https://ssqdoit.top/reader/reader-2023.
+https://ssqdoit.top/reader/reader-2024.
+https://ssqdoit.top/todolist/2024.
