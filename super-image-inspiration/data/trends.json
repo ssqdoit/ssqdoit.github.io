@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-10T19:54:16.208Z",
+  "generatedAt": "2026-07-10T21:29:24.301Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -40,7 +40,7 @@
       "label": "Reddit",
       "status": "live",
       "message": "公开社区日榜",
-      "count": 9,
+      "count": 10,
       "mode": "public-api"
     }
   ],
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2564062",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11745618,
-      "metric": "1174.6 万 热度",
+      "score": 12100424,
+      "metric": "1210.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
+      "collectedAt": "2026-07-10T21:29:24.301Z"
     },
     {
       "id": "douyin-2565342",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2565342",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11742158,
-      "metric": "1174.2 万 热度",
+      "score": 12096243,
+      "metric": "1209.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
+      "collectedAt": "2026-07-10T21:29:24.301Z"
     },
     {
       "id": "douyin-2566325",
@@ -82,13 +82,13 @@
       "url": "https://www.douyin.com/hot/2566325",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11317631,
-      "metric": "1131.8 万 热度",
+      "score": 11630120,
+      "metric": "1163.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
+      "collectedAt": "2026-07-10T21:29:24.301Z"
     },
     {
       "id": "douyin-2566372",
@@ -97,28 +97,13 @@
       "url": "https://www.douyin.com/hot/2566372",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11300276,
-      "metric": "1130.0 万 热度",
+      "score": 11539056,
+      "metric": "1153.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
-    },
-    {
-      "id": "douyin-2565691",
-      "platform": "douyin",
-      "title": "西班牙vs比利时",
-      "url": "https://www.douyin.com/hot/2565691",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10550163,
-      "metric": "1055.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
+      "collectedAt": "2026-07-10T21:29:24.301Z"
     },
     {
       "id": "douyin-2565573",
@@ -127,88 +112,13 @@
       "url": "https://www.douyin.com/hot/2565573",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10471409,
-      "metric": "1047.1 万 热度",
+      "score": 10439200,
+      "metric": "1043.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
-    },
-    {
-      "id": "douyin-2566457",
-      "platform": "douyin",
-      "title": "给朋友拍照时就这样变身机器人",
-      "url": "https://www.douyin.com/hot/2566457",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9164648,
-      "metric": "916.5 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
-    },
-    {
-      "id": "douyin-2564481",
-      "platform": "douyin",
-      "title": "这个夏天被确诊为“热怒症”",
-      "url": "https://www.douyin.com/hot/2564481",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9128799,
-      "metric": "912.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
-    },
-    {
-      "id": "douyin-2565387",
-      "platform": "douyin",
-      "title": "茶啊二中第六季定档暑期",
-      "url": "https://www.douyin.com/hot/2565387",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9078714,
-      "metric": "907.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
-    },
-    {
-      "id": "douyin-2564317",
-      "platform": "douyin",
-      "title": "就这样打开满级周五",
-      "url": "https://www.douyin.com/hot/2564317",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8841356,
-      "metric": "884.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
-    },
-    {
-      "id": "douyin-2565832",
-      "platform": "douyin",
-      "title": "姆巴佩回应受伤",
-      "url": "https://www.douyin.com/hot/2565832",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8598324,
-      "metric": "859.8 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
+      "collectedAt": "2026-07-10T21:29:24.301Z"
     },
     {
       "id": "douyin-2565205",
@@ -217,157 +127,263 @@
       "url": "https://www.douyin.com/hot/2565205",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8353936,
-      "metric": "835.4 万 热度",
+      "score": 9148661,
+      "metric": "914.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:16.208Z"
+      "collectedAt": "2026-07-10T21:29:24.301Z"
     },
     {
-      "id": "reddit-gxmi4c",
+      "id": "douyin-2566457",
+      "platform": "douyin",
+      "title": "给朋友拍照时就这样变身机器人",
+      "url": "https://www.douyin.com/hot/2566457",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9085181,
+      "metric": "908.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T21:29:24.301Z"
+    },
+    {
+      "id": "douyin-2564481",
+      "platform": "douyin",
+      "title": "这个夏天被确诊为“热怒症”",
+      "url": "https://www.douyin.com/hot/2564481",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9005750,
+      "metric": "900.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T21:29:24.301Z"
+    },
+    {
+      "id": "douyin-2565069",
+      "platform": "douyin",
+      "title": "贵港学生记录被救下全过程",
+      "url": "https://www.douyin.com/hot/2565069",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8792626,
+      "metric": "879.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T21:29:24.301Z"
+    },
+    {
+      "id": "douyin-2565832",
+      "platform": "douyin",
+      "title": "姆巴佩回应受伤",
+      "url": "https://www.douyin.com/hot/2565832",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8707117,
+      "metric": "870.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T21:29:24.301Z"
+    },
+    {
+      "id": "douyin-2565545",
+      "platform": "douyin",
+      "title": "大主宰2炎帝探访浮屠古族",
+      "url": "https://www.douyin.com/hot/2565545",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8602970,
+      "metric": "860.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T21:29:24.301Z"
+    },
+    {
+      "id": "douyin-2565813",
+      "platform": "douyin",
+      "title": "功夫女足预售总票房破6000万",
+      "url": "https://www.douyin.com/hot/2565813",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7946959,
+      "metric": "794.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T21:29:24.301Z"
+    },
+    {
+      "id": "reddit-11sqbom",
       "platform": "reddit",
-      "title": "Digital Arts by Aron Visuals/Me created in Photoshop. No AI",
-      "url": "https://www.reddit.com/r/photoshop/comments/1us22nz/digital_arts_by_aron_visualsme_created_in/",
-      "thumbnail": "https://preview.redd.it/flvd51d5k9ch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=018231350f2eec5517397cd8208ab606b06e6797",
-      "author": "r/photoshop · /u/aronvisuals",
+      "title": "some designs I made to bring back 2000's gaming ads (open to any feedback!)",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1us3s9r/some_designs_i_made_to_bring_back_2000s_gaming/",
+      "thumbnail": "https://preview.redd.it/rxfikxctv9ch1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ed9f26a10572bc80792efc5c4ed9cf4fe055d074",
+      "author": "r/graphic_design · /u/NeeDawker",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:15.156Z"
+      "collectedAt": "2026-07-10T21:29:22.601Z"
     },
     {
-      "id": "reddit-gwhvgb",
+      "id": "reddit-8xjwcg",
       "platform": "reddit",
-      "title": "Why can't I open NEF files in Photoshop?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uswq29/why_cant_i_open_nef_files_in_photoshop/",
-      "thumbnail": "https://preview.redd.it/1ipun06u8gch1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1a9d4a13b609bdc3a7ea81654b5cdc4fa43fe7a1",
-      "author": "r/photoshop · /u/stevew25",
+      "title": "Made a custom ’business card’ for giving to the local brewery",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1us4ay2/made_a_custom_business_card_for_giving_to_the/",
+      "thumbnail": "https://preview.redd.it/9440xyllz9ch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=073f887182a056faba1389623f4562543c9d86c4",
+      "author": "r/graphic_design · /u/laureidi",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:15.156Z"
+      "collectedAt": "2026-07-10T21:29:22.601Z"
     },
     {
-      "id": "reddit-14g9ssn",
+      "id": "reddit-1w1p0tk",
       "platform": "reddit",
-      "title": "Can't make my strokes opaque",
-      "url": "https://www.reddit.com/r/photoshop/comments/1usu4h9/cant_make_my_strokes_opaque/",
-      "thumbnail": "https://preview.redd.it/znqttofbrfch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3b02998a05499ea0dba1e3be91c70e04fe9c396",
-      "author": "r/photoshop · /u/HopDavid",
+      "title": "You need to include your country when asking for career / industry advice",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1us5109/you_need_to_include_your_country_when_asking_for/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Solid-Block-4459",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:15.156Z"
+      "collectedAt": "2026-07-10T21:29:22.601Z"
     },
     {
-      "id": "reddit-lf6psw",
+      "id": "reddit-1nhy0co",
       "platform": "reddit",
-      "title": "Help me to reduce PSD save file sizes",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uskpo4/help_me_to_reduce_psd_save_file_sizes/",
+      "title": "Advice needed",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1ustfa7/advice_needed/",
       "thumbnail": "",
-      "author": "r/photoshop · /u/Fashionhug",
+      "author": "r/graphic_design · /u/ICanHazWittyName",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:15.156Z"
+      "collectedAt": "2026-07-10T21:29:22.601Z"
     },
     {
-      "id": "reddit-1yb0u1g",
+      "id": "reddit-1e2h9gd",
       "platform": "reddit",
-      "title": "Photoshop to PDF only vectorizes some layers. Help",
-      "url": "https://www.reddit.com/r/photoshop/comments/1us4o5v/photoshop_to_pdf_only_vectorizes_some_layers_help/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/Patis12",
+      "title": "Catering menu trifold",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1usutf6/catering_menu_trifold/",
+      "thumbnail": "https://preview.redd.it/av8svytvwfch1.jpg?width=140&amp;height=108&amp;auto=webp&amp;s=5c716a50e0b47a53fb1f10e747f829b7149bdedd",
+      "author": "r/graphic_design · /u/barfbat",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:15.156Z"
+      "collectedAt": "2026-07-10T21:29:22.601Z"
     },
     {
-      "id": "reddit-1sskyuo",
+      "id": "reddit-15eoam2",
       "platform": "reddit",
-      "title": "Can't Export Artboards in Multipage PDf document",
-      "url": "https://www.reddit.com/r/photoshop/comments/1ustuhl/cant_export_artboards_in_multipage_pdf_document/",
-      "thumbnail": "https://preview.redd.it/7gmq6saypfch1.png?width=140&amp;height=126&amp;auto=webp&amp;s=10b024419fb92e9b62554c71c2038b673c6eee21",
-      "author": "r/photoshop · /u/rorymcmahon990",
+      "title": "trying to tackle my weakest skill. need some feedback",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1usoa5g/trying_to_tackle_my_weakest_skill_need_some/",
+      "thumbnail": "https://preview.redd.it/5baw4s66qech1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e9c4b21b1aaee068ba4e82f35201b703696a22c9",
+      "author": "r/graphic_design · /u/Even-Concert-5621",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:15.156Z"
+      "collectedAt": "2026-07-10T21:29:22.601Z"
     },
     {
-      "id": "reddit-1wmmek0",
+      "id": "reddit-y19wtc",
       "platform": "reddit",
-      "title": "color slider bug",
-      "url": "https://www.reddit.com/r/photoshop/comments/1usmfhv/color_slider_bug/",
-      "thumbnail": "https://preview.redd.it/sho6bgnrcech1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3cbaf7e9c1602cf18da0e85fb1d6de467c7ad743",
-      "author": "r/photoshop · /u/d3nce",
+      "title": "Help me find an image of the David Carson Magazine cover where the text is carved into him.",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1ustfac/help_me_find_an_image_of_the_david_carson/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/JohnsDesign",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:15.156Z"
+      "collectedAt": "2026-07-10T21:29:22.601Z"
     },
     {
-      "id": "reddit-11elh4y",
+      "id": "reddit-10dnaho",
       "platform": "reddit",
-      "title": "How to get brush to smear",
-      "url": "https://www.reddit.com/r/photoshop/comments/1ushqgl/how_to_get_brush_to_smear/",
-      "thumbnail": "https://preview.redd.it/c0k7ttfz4dch1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=0f7226ddeb863fa521a4580710909715b305d441",
-      "author": "r/photoshop · /u/ronkerner",
+      "title": "I was told i lack creativity because I rely too much on guidance",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uswxi9/i_was_told_i_lack_creativity_because_i_rely_too/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Stupid_Binch",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:15.156Z"
+      "collectedAt": "2026-07-10T21:29:22.601Z"
     },
     {
-      "id": "reddit-1dawkek",
+      "id": "reddit-1vc058j",
       "platform": "reddit",
-      "title": "How do I get rid of the colored dots",
-      "url": "https://www.reddit.com/r/photoshop/comments/1us693j/how_do_i_get_rid_of_the_colored_dots/",
-      "thumbnail": "https://preview.redd.it/js1e4d0dcach1.png?width=140&amp;height=80&amp;auto=webp&amp;s=193f93672f71fec1532fe8468e55ac4b0d99f1e3",
-      "author": "r/photoshop · /u/Rhye-Bread",
+      "title": "Portfolio",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1usq3c4/portfolio/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/ShoolTheDude",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T19:54:15.156Z"
+      "collectedAt": "2026-07-10T21:29:22.601Z"
+    },
+    {
+      "id": "reddit-1v5wtcl",
+      "platform": "reddit",
+      "title": "Created this Witcher poster in Photoshop. (Open to Feedback And Suggestions)",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1us45zd/created_this_witcher_poster_in_photoshop_open_to/",
+      "thumbnail": "https://preview.redd.it/mis0zbwmy9ch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=01d6a6df6f0fddc1d441aebc135ef4df69672897",
+      "author": "r/graphic_design · /u/Reasonable_Key_7781",
+      "score": 1,
+      "metric": "社区日榜",
+      "tags": [
+        "r/graphic_design",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T21:29:22.601Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
