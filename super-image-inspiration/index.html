@@ -8,19 +8,20 @@
   <meta property="og:description" content="图片灵感、视觉热点与可复用制图方法。">
   <title>超级制图灵感站｜找到下一张爆图的起点</title>
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="live.css">
   <script src="app.js" defer></script>
 </head>
 <body>
 <main>
   <header class="site-header">
     <a class="brand" href="#top" aria-label="超级制图灵感站首页"><span class="brand-mark">超</span><span>超级制图<span class="brand-light"> · 灵感站</span></span></a>
-    <nav class="nav-links" aria-label="主导航"><a href="#hot">今日爆点</a><a href="#library">灵感分类</a><a href="#methods">制图方法</a></nav>
-    <a class="app-button" href="#hot">开始找灵感 <span aria-hidden="true">↗</span></a>
+    <nav class="nav-links" aria-label="主导航"><a href="#radar">全网雷达</a><a href="#hot">编辑精选</a><a href="#library">灵感分类</a></nav>
+    <a class="app-button" href="#radar">查看实时热点 <span aria-hidden="true">↗</span></a>
   </header>
 
   <section class="hero" id="top">
     <div class="hero-copy">
-      <div class="eyebrow"><span class="live-dot"></span> 今日视觉温度 92° · 2026.07.10</div>
+      <div class="eyebrow"><span class="live-dot"></span> 全网创意热点持续更新</div>
       <h1>找到下一张<span>爆图</span>的起点</h1>
       <p>从全网热点到可复用的制图方法，把灵感变成你的下一次高光创作。</p>
       <form class="search-box" id="search-form" role="search">
@@ -41,8 +42,31 @@
     </aside>
   </section>
 
+  <section class="radar-section" id="radar">
+    <div class="section-heading radar-heading">
+      <div><div class="section-index">01 / LIVE RADAR</div><h2>全网实时热点雷达</h2><p>从社交平台提取可转化为海报、封面、商品图与 P 图玩法的真实话题</p></div>
+      <div class="live-refresh" id="live-refresh" aria-live="polite"><span class="live-dot"></span><span>正在读取最新数据</span></div>
+    </div>
+    <div class="source-strip" id="source-strip" aria-label="数据源状态">
+      <button class="source-chip active" type="button" data-platform="all"><span class="source-logo source-all">⌁</span><span><strong>全部平台</strong><small>聚合视图</small></span></button>
+      <button class="source-chip" type="button" data-platform="x"><span class="source-logo source-x">X</span><span><strong>X</strong><small>检测中</small></span></button>
+      <button class="source-chip" type="button" data-platform="tiktok"><span class="source-logo source-tiktok">♪</span><span><strong>TikTok</strong><small>检测中</small></span></button>
+      <button class="source-chip" type="button" data-platform="douyin"><span class="source-logo source-douyin">抖</span><span><strong>抖音</strong><small>检测中</small></span></button>
+      <button class="source-chip" type="button" data-platform="xiaohongshu"><span class="source-logo source-xhs">小</span><span><strong>小红书</strong><small>检测中</small></span></button>
+      <button class="source-chip" type="button" data-platform="reddit"><span class="source-logo source-reddit">R</span><span><strong>Reddit</strong><small>检测中</small></span></button>
+    </div>
+    <div class="live-grid" id="live-grid" aria-live="polite" aria-busy="true">
+      <div class="live-skeleton"></div><div class="live-skeleton"></div><div class="live-skeleton"></div>
+    </div>
+    <div class="live-empty" id="live-empty" hidden>
+      <strong>这个平台暂时没有可展示的数据</strong>
+      <p>可能正在更新，或尚未配置对应的数据授权。</p>
+    </div>
+    <p class="source-disclaimer">热点标题和数据归原平台及作者所有。本页仅聚合公开信息与授权 API 结果，点击卡片可前往原内容核实。</p>
+  </section>
+
   <section class="hot-section" id="hot">
-    <div class="section-heading"><div><div class="section-index">01 / HOT</div><h2>今日爆点</h2><p>编辑部从 2,408 个视觉样本中筛出的高潜玩法</p></div><div class="result-note" id="result-note" aria-live="polite">每 4 小时更新</div></div>
+    <div class="section-heading"><div><div class="section-index">02 / EDITOR'S PICK</div><h2>编辑精选</h2><p>把热点进一步拆解成可以直接复刻的制图方向</p></div><div class="result-note" id="result-note" aria-live="polite">6 个可复用玩法</div></div>
     <div class="filter-row" aria-label="筛选灵感分类"><button type="button" data-filter="全部灵感" class="active">全部灵感</button><button type="button" data-filter="热点雷达">热点雷达</button><button type="button" data-filter="海报灵感">海报灵感</button><button type="button" data-filter="电商视觉">电商视觉</button><button type="button" data-filter="AI玩法">AI玩法</button><button type="button" data-filter="P图技巧">P图技巧</button></div>
 
     <div class="inspiration-grid" id="inspiration-grid">
@@ -75,7 +99,7 @@
   </section>
 
   <section class="library-section" id="library">
-    <div class="section-heading compact"><div><div class="section-index">02 / LIBRARY</div><h2>灵感分类</h2><p>按你的创作任务，快速进入对应素材池</p></div></div>
+    <div class="section-heading compact"><div><div class="section-index">03 / LIBRARY</div><h2>灵感分类</h2><p>按你的创作任务，快速进入对应素材池</p></div></div>
     <div class="topic-grid">
       <button type="button" class="topic-card topic-violet" data-filter="热点雷达"><span class="topic-number">01</span><span class="topic-arrow">↗</span><strong>热点雷达</strong><small>正在升温的视觉关键词</small></button>
       <button type="button" class="topic-card topic-cyan" data-filter="海报灵感"><span class="topic-number">02</span><span class="topic-arrow">↗</span><strong>海报灵感</strong><small>构图、字效与配色样本</small></button>
@@ -86,10 +110,10 @@
   </section>
 
   <section class="method-section" id="methods">
-    <div class="method-copy"><div class="section-index">03 / MAKE IT</div><h2>看见灵感，也要做得出来</h2><p>每个趋势都附带可复用的关键词、构图公式和制作步骤。挑一个方向，在「超级制图」里快速做出你的版本。</p><a href="#hot">带着灵感去创作 <span aria-hidden="true">→</span></a></div>
+    <div class="method-copy"><div class="section-index">04 / MAKE IT</div><h2>看见灵感，也要做得出来</h2><p>每个趋势都附带可复用的关键词、构图公式和制作步骤。挑一个方向，在「超级制图」里快速做出你的版本。</p><a href="#hot">带着灵感去创作 <span aria-hidden="true">→</span></a></div>
     <div class="method-steps" aria-label="从灵感到作品的三个步骤"><div><span>1</span><strong>发现</strong><small>追踪正在升温的视觉趋势</small></div><div><span>2</span><strong>拆解</strong><small>获取提示词、构图与配色方法</small></div><div><span>3</span><strong>复刻</strong><small>打开超级制图开始创作</small></div></div>
   </section>
-  <footer><div><span class="brand-mark">超</span><strong>超级制图</strong></div><p>让每一个好灵感，都更快变成好图片。</p><span>灵感数据为趋势示例 · 2026</span></footer>
+  <footer><div><span class="brand-mark">超</span><strong>超级制图</strong></div><p>让每一个好灵感，都更快变成好图片。</p><span>热点由自动任务定时聚合 · 2026</span></footer>
 </main>
 </body>
 </html>
