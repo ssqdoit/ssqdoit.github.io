@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="追踪图片设计热点，收藏海报、电商视觉、AI 玩法与 P 图技巧，把灵感快速变成作品。">
+  <meta property="og:title" content="超级制图灵感站｜找到下一张爆图的起点">
+  <meta property="og:description" content="图片灵感、视觉热点与可复用制图方法。">
+  <title>超级制图灵感站｜找到下一张爆图的起点</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+<main>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="超级制图灵感站首页"><span class="brand-mark">超</span><span>超级制图<span class="brand-light"> · 灵感站</span></span></a>
+    <nav class="nav-links" aria-label="主导航"><a href="#hot">今日爆点</a><a href="#library">灵感分类</a><a href="#methods">制图方法</a></nav>
+    <a class="app-button" href="#hot">开始找灵感 <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="hero-copy">
+      <div class="eyebrow"><span class="live-dot"></span> 今日视觉温度 92° · 2026.07.10</div>
+      <h1>找到下一张<span>爆图</span>的起点</h1>
+      <p>从全网热点到可复用的制图方法，把灵感变成你的下一次高光创作。</p>
+      <form class="search-box" id="search-form" role="search">
+        <span class="search-icon" aria-hidden="true"></span>
+        <label class="sr-only" for="inspiration-search">搜索图片灵感</label>
+        <input id="inspiration-search" placeholder="搜风格、场景或一句提示词，例如「七夕礼盒主图」">
+        <button type="submit">找灵感</button>
+      </form>
+      <div class="hero-tags" aria-label="快捷分类">
+        <button type="button" data-filter="热点雷达">热点雷达</button><button type="button" data-filter="海报灵感">海报灵感</button><button type="button" data-filter="电商视觉">电商视觉</button><button type="button" data-filter="AI玩法">AI玩法</button><button type="button" data-filter="P图技巧">P图技巧</button>
+      </div>
+    </div>
+    <aside class="trend-lab" aria-label="今日创作温度">
+      <div class="lab-head"><span>CREATIVE TEMPERATURE</span><span class="lab-status">LIVE</span></div>
+      <div class="trend-main"><div class="temp-number">92<span>°</span></div><div><strong>半透明材质</strong><p>正在同时席卷美妆与 3C 视觉</p></div></div>
+      <div class="trend-bars" aria-label="热门趋势强度"><div><span>液态金属字</span><i style="width:96%"></i></div><div><span>果冻玻璃</span><i style="width:88%"></i></div><div><span>微缩场景</span><i style="width:74%"></i></div></div>
+      <div class="floating-specimen" aria-hidden="true"><span class="orb orb-one"></span><span class="orb orb-two"></span><span class="specimen-type">NEW<br>VISUAL</span></div>
+    </aside>
+  </section>
+
+  <section class="hot-section" id="hot">
+    <div class="section-heading"><div><div class="section-index">01 / HOT</div><h2>今日爆点</h2><p>编辑部从 2,408 个视觉样本中筛出的高潜玩法</p></div><div class="result-note" id="result-note" aria-live="polite">每 4 小时更新</div></div>
+    <div class="filter-row" aria-label="筛选灵感分类"><button type="button" data-filter="全部灵感" class="active">全部灵感</button><button type="button" data-filter="热点雷达">热点雷达</button><button type="button" data-filter="海报灵感">海报灵感</button><button type="button" data-filter="电商视觉">电商视觉</button><button type="button" data-filter="AI玩法">AI玩法</button><button type="button" data-filter="P图技巧">P图技巧</button></div>
+
+    <div class="inspiration-grid" id="inspiration-grid">
+      <article class="inspiration-card" data-id="1" data-category="海报灵感" data-search="液态金属字 酸性设计 夏日 海报 字效">
+        <div class="card-visual visual-metallic"><span class="score-badge">热度 982‰</span><span class="visual-kicker">METALLIC TYPE / 01</span><div class="metal-word">超</div></div>
+        <div class="card-body"><div class="card-category">海报灵感</div><h3>液态金属字，正在接管夏日海报</h3><p>6 个可复用提示词 · 12 组排版参考</p><div class="tag-list"><span>#金属字</span><span>#酸性设计</span><span>#夏日</span></div><button type="button" class="favorite-button" data-favorite="1" aria-pressed="false">收藏 ♡</button></div>
+      </article>
+      <article class="inspiration-card" data-id="2" data-category="电商视觉" data-search="微缩摄影 清透 护肤 商品图 电商">
+        <div class="card-visual visual-dew"><span class="score-badge">热度 946‰</span><span class="visual-kicker">SOFT DEW / 02</span><div class="product-bottle"><span>SOFT<br>DEW</span></div></div>
+        <div class="card-body"><div class="card-category">电商视觉</div><h3>微缩摄影 × 夏日清透感</h3><p>商品图模板 · 布景公式 · 一键同款</p><div class="tag-list"><span>#微缩摄影</span><span>#清透</span><span>#商品图</span></div><button type="button" class="favorite-button" data-favorite="2" aria-pressed="false">收藏 ♡</button></div>
+      </article>
+      <article class="inspiration-card" data-id="3" data-category="热点雷达" data-search="半透明 材质 玻璃 果冻 封面 热点">
+        <div class="card-visual visual-glass"><span class="score-badge">热度 918‰</span><span class="visual-kicker">GLASS CORE / 03</span><div class="glass-disc disc-one"></div><div class="glass-disc disc-two"></div><b>GLASS</b></div>
+        <div class="card-body"><div class="card-category">热点雷达</div><h3>半透明材质，让封面轻盈起来</h3><p>热度上升 37% · 适合 3C 与美妆</p><div class="tag-list"><span>#玻璃质感</span><span>#果冻</span><span>#封面</span></div><button type="button" class="favorite-button" data-favorite="3" aria-pressed="false">收藏 ♡</button></div>
+      </article>
+      <article class="inspiration-card" data-id="4" data-category="海报灵感" data-search="Y2K 黑银 硬核 字效 海报 潮流">
+        <div class="card-visual visual-y2k"><span class="score-badge">热度 889‰</span><span class="visual-kicker">Y2K TYPE / 04</span><div class="y2k-word">Y2K</div></div>
+        <div class="card-body"><div class="card-category">海报灵感</div><h3>Y2K 黑银硬核字效回潮</h3><p>3 步复刻 · 字效参数已拆解</p><div class="tag-list"><span>#Y2K</span><span>#黑银</span><span>#字效</span></div><button type="button" class="favorite-button" data-favorite="4" aria-pressed="false">收藏 ♡</button></div>
+      </article>
+      <article class="inspiration-card" data-id="5" data-category="P图技巧" data-search="人像 贴纸 拼贴 抠图 P图 技巧">
+        <div class="card-visual visual-sticker"><span class="score-badge">热度 874‰</span><span class="visual-kicker">STICKER CUT / 05</span><div class="portrait-shape"></div><div class="sticker-star">★</div></div>
+        <div class="card-body"><div class="card-category">P图技巧</div><h3>把普通人像做成杂志贴纸拼贴</h3><p>抠图技巧 · 4 套边缘处理方法</p><div class="tag-list"><span>#人像</span><span>#贴纸</span><span>#拼贴</span></div><button type="button" class="favorite-button" data-favorite="5" aria-pressed="false">收藏 ♡</button></div>
+      </article>
+      <article class="inspiration-card" data-id="6" data-category="AI玩法" data-search="AI 黏土 3D 提示词 生成">
+        <div class="card-visual visual-clay"><span class="score-badge">热度 852‰</span><span class="visual-kicker">CLAY WORLD / 06</span><div class="clay-cloud">☁</div><div class="clay-flower">✿</div></div>
+        <div class="card-body"><div class="card-category">AI玩法</div><h3>用一句提示词做出黏土世界</h3><p>中文提示词 · 场景结构 · 光影拆解</p><div class="tag-list"><span>#AI</span><span>#黏土</span><span>#提示词</span></div><button type="button" class="favorite-button" data-favorite="6" aria-pressed="false">收藏 ♡</button></div>
+      </article>
+    </div>
+    <div class="empty-state" id="empty-state" hidden><div>没有匹配的灵感</div><p>试试“金属字”“商品图”或切换到全部灵感。</p><button type="button" data-filter="全部灵感">查看全部灵感</button></div>
+  </section>
+
+  <section class="library-section" id="library">
+    <div class="section-heading compact"><div><div class="section-index">02 / LIBRARY</div><h2>灵感分类</h2><p>按你的创作任务，快速进入对应素材池</p></div></div>
+    <div class="topic-grid">
+      <button type="button" class="topic-card topic-violet" data-filter="热点雷达"><span class="topic-number">01</span><span class="topic-arrow">↗</span><strong>热点雷达</strong><small>正在升温的视觉关键词</small></button>
+      <button type="button" class="topic-card topic-cyan" data-filter="海报灵感"><span class="topic-number">02</span><span class="topic-arrow">↗</span><strong>海报灵感</strong><small>构图、字效与配色样本</small></button>
+      <button type="button" class="topic-card topic-magenta" data-filter="电商视觉"><span class="topic-number">03</span><span class="topic-arrow">↗</span><strong>电商视觉</strong><small>主图、详情页与营销物料</small></button>
+      <button type="button" class="topic-card topic-lime" data-filter="AI玩法"><span class="topic-number">04</span><span class="topic-arrow">↗</span><strong>AI 玩法</strong><small>提示词与生成式工作流</small></button>
+      <button type="button" class="topic-card topic-blue" data-filter="P图技巧"><span class="topic-number">05</span><span class="topic-arrow">↗</span><strong>P图技巧</strong><small>修图、合成与一键复刻</small></button>
+    </div>
+  </section>
+
+  <section class="method-section" id="methods">
+    <div class="method-copy"><div class="section-index">03 / MAKE IT</div><h2>看见灵感，也要做得出来</h2><p>每个趋势都附带可复用的关键词、构图公式和制作步骤。挑一个方向，在「超级制图」里快速做出你的版本。</p><a href="#hot">带着灵感去创作 <span aria-hidden="true">→</span></a></div>
+    <div class="method-steps" aria-label="从灵感到作品的三个步骤"><div><span>1</span><strong>发现</strong><small>追踪正在升温的视觉趋势</small></div><div><span>2</span><strong>拆解</strong><small>获取提示词、构图与配色方法</small></div><div><span>3</span><strong>复刻</strong><small>打开超级制图开始创作</small></div></div>
+  </section>
+  <footer><div><span class="brand-mark">超</span><strong>超级制图</strong></div><p>让每一个好灵感，都更快变成好图片。</p><span>灵感数据为趋势示例 · 2026</span></footer>
+</main>
+</body>
+</html>
