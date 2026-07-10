@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-10T02:43:14.326Z",
+  "generatedAt": "2026-07-10T02:46:07.032Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -38,9 +38,9 @@
     {
       "id": "reddit",
       "label": "Reddit",
-      "status": "error",
-      "message": "graphic_design: JSON fetch failed; RSS fetch failed; photoshop: JSON fetch failed; RSS fetch failed; midjourney: JSON fetch failed; RSS fetch failed; StableDiffusion: JSON fetch failed; RSS fetch failed",
-      "count": 0,
+      "status": "live",
+      "message": "公开社区日榜",
+      "count": 10,
       "mode": "public-api"
     }
   ],
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2564062",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12138896,
+      "score": 12139285,
       "metric": "1213.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
+      "collectedAt": "2026-07-10T02:46:07.032Z"
     },
     {
       "id": "douyin-2564071",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2564071",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12090571,
-      "metric": "1209.1 万 热度",
+      "score": 12093909,
+      "metric": "1209.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
+      "collectedAt": "2026-07-10T02:46:07.032Z"
     },
     {
       "id": "douyin-2564022",
@@ -82,13 +82,13 @@
       "url": "https://www.douyin.com/hot/2564022",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11387625,
-      "metric": "1138.8 万 热度",
+      "score": 11491508,
+      "metric": "1149.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
+      "collectedAt": "2026-07-10T02:46:07.032Z"
     },
     {
       "id": "douyin-2564983",
@@ -97,28 +97,13 @@
       "url": "https://www.douyin.com/hot/2564983",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11019442,
-      "metric": "1101.9 万 热度",
+      "score": 10997201,
+      "metric": "1099.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
-    },
-    {
-      "id": "douyin-2563995",
-      "platform": "douyin",
-      "title": "法国2:0摩洛哥",
-      "url": "https://www.douyin.com/hot/2563995",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10333667,
-      "metric": "1033.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
+      "collectedAt": "2026-07-10T02:46:07.032Z"
     },
     {
       "id": "douyin-2565069",
@@ -127,13 +112,13 @@
       "url": "https://www.douyin.com/hot/2565069",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10200186,
-      "metric": "1020.0 万 热度",
+      "score": 10315634,
+      "metric": "1031.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
+      "collectedAt": "2026-07-10T02:46:07.032Z"
     },
     {
       "id": "douyin-2564287",
@@ -142,13 +127,13 @@
       "url": "https://www.douyin.com/hot/2564287",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9024648,
-      "metric": "902.5 万 热度",
+      "score": 10197186,
+      "metric": "1019.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
+      "collectedAt": "2026-07-10T02:46:07.032Z"
     },
     {
       "id": "douyin-2565170",
@@ -157,13 +142,13 @@
       "url": "https://www.douyin.com/hot/2565170",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8972682,
-      "metric": "897.3 万 热度",
+      "score": 9026808,
+      "metric": "902.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
+      "collectedAt": "2026-07-10T02:46:07.032Z"
     },
     {
       "id": "douyin-2565236",
@@ -172,28 +157,13 @@
       "url": "https://www.douyin.com/hot/2565236",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8946838,
-      "metric": "894.7 万 热度",
+      "score": 8980303,
+      "metric": "898.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
-    },
-    {
-      "id": "douyin-2565275",
-      "platform": "douyin",
-      "title": "“巴威”台风眼变模糊",
-      "url": "https://www.douyin.com/hot/2565275",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8539513,
-      "metric": "854.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
+      "collectedAt": "2026-07-10T02:46:07.032Z"
     },
     {
       "id": "douyin-2564104",
@@ -202,13 +172,13 @@
       "url": "https://www.douyin.com/hot/2564104",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7846865,
-      "metric": "784.7 万 热度",
+      "score": 8936237,
+      "metric": "893.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
+      "collectedAt": "2026-07-10T02:46:07.032Z"
     },
     {
       "id": "douyin-2564856",
@@ -217,13 +187,203 @@
       "url": "https://www.douyin.com/hot/2564856",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7814198,
-      "metric": "781.4 万 热度",
+      "score": 8523525,
+      "metric": "852.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T02:41:50.869Z"
+      "collectedAt": "2026-07-10T02:46:07.032Z"
+    },
+    {
+      "id": "douyin-2563995",
+      "platform": "douyin",
+      "title": "法国2:0摩洛哥",
+      "url": "https://www.douyin.com/hot/2563995",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7846182,
+      "metric": "784.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:07.032Z"
+    },
+    {
+      "id": "douyin-2565275",
+      "platform": "douyin",
+      "title": "“巴威”台风眼变模糊",
+      "url": "https://www.douyin.com/hot/2565275",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7815267,
+      "metric": "781.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:07.032Z"
+    },
+    {
+      "id": "reddit-14vw4dm",
+      "platform": "reddit",
+      "title": "Sci-Fi Scenery",
+      "url": "https://www.reddit.com/r/midjourney/comments/1urv1qb/scifi_scenery/",
+      "thumbnail": "https://preview.redd.it/169cfnhhb8ch1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=75ae1a7ac58ac520989af8ad6c5163d3e89e6553",
+      "author": "r/midjourney · /u/Zenchilada",
+      "score": 10,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:05.961Z"
+    },
+    {
+      "id": "reddit-hk3ujl",
+      "platform": "reddit",
+      "title": "The duel",
+      "url": "https://www.reddit.com/r/midjourney/comments/1urorpv/the_duel/",
+      "thumbnail": "https://preview.redd.it/rc7i9hs467ch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a37a2e0f87be1fca1c289482c93243a3c322cff5",
+      "author": "r/midjourney · /u/Zaicab",
+      "score": 9,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:05.961Z"
+    },
+    {
+      "id": "reddit-t5g811",
+      "platform": "reddit",
+      "title": "Mining Mech",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uru2xz/mining_mech/",
+      "thumbnail": "https://preview.redd.it/3qlf850768ch1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=3e4d8dce97f2b3930e931ecf6b3e663065dbaefe",
+      "author": "r/midjourney · /u/Standard-File-8187",
+      "score": 8,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:05.961Z"
+    },
+    {
+      "id": "reddit-60oan8",
+      "platform": "reddit",
+      "title": "Storm Queen",
+      "url": "https://www.reddit.com/r/midjourney/comments/1urtdco/storm_queen/",
+      "thumbnail": "https://external-preview.redd.it/ejV0ZWt1MXAxOGNoMRipph9ZPJirYrgYGD8HwBhG5wxuHiE18WYhCvqlo9OY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ceb5bb4e82752cb8c15602d24f88f821574a14ee",
+      "author": "r/midjourney · /u/Dropdeadlegs84",
+      "score": 7,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:05.961Z"
+    },
+    {
+      "id": "reddit-1w0uys",
+      "platform": "reddit",
+      "title": "Cavernz",
+      "url": "https://www.reddit.com/r/midjourney/comments/1urxf18/cavernz/",
+      "thumbnail": "https://preview.redd.it/ugltt5h4r8ch1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=03a2908908dac6e95e6bfda731ed6e14df7059ae",
+      "author": "r/midjourney · /u/Standard-File-8187",
+      "score": 6,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:05.961Z"
+    },
+    {
+      "id": "reddit-7vaoyx",
+      "platform": "reddit",
+      "title": "No Saints in Neon: Episode I",
+      "url": "https://www.reddit.com/r/midjourney/comments/1urdu2e/no_saints_in_neon_episode_i/",
+      "thumbnail": "https://external-preview.redd.it/OXkyN2J2OWNiNGNoMZye7M2MzufguTuKBVKZ4DXIXp2n-O2Eo023UdftD1Z5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3046f514ea8a83c51dd1be88135c494d6035006a",
+      "author": "r/midjourney · /u/Protec_My_Balls",
+      "score": 5,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:05.961Z"
+    },
+    {
+      "id": "reddit-4ursoy",
+      "platform": "reddit",
+      "title": "Vengeance Paladin",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uryuj6/vengeance_paladin/",
+      "thumbnail": "https://preview.redd.it/4v3qo50vz8ch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=57b02264dbe736d2670c4c6ccbce7874d2a4b418",
+      "author": "r/midjourney · /u/NaturalCrits",
+      "score": 4,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:05.961Z"
+    },
+    {
+      "id": "reddit-8p594f",
+      "platform": "reddit",
+      "title": "The metamorphosis was as painful as it was slow.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1us3bki/the_metamorphosis_was_as_painful_as_it_was_slow/",
+      "thumbnail": "https://preview.redd.it/503uhfhqs9ch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2446490fbcf303134b52a53919dee8a4344a9a4a",
+      "author": "r/midjourney · /u/Big_Addendum_9920",
+      "score": 3,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:05.961Z"
+    },
+    {
+      "id": "reddit-1epnvct",
+      "platform": "reddit",
+      "title": "I've always found mascots creepy ever since i cried and caused a scene in chuck e cheese...good times",
+      "url": "https://www.reddit.com/r/midjourney/comments/1us4vgl/ive_always_found_mascots_creepy_ever_since_i/",
+      "thumbnail": "https://preview.redd.it/27pk07993ach1.png?width=140&amp;height=105&amp;auto=webp&amp;s=0a5cc6acc957b9575b5b87ecf20cf52d643db6da",
+      "author": "r/midjourney · /u/Adventurous_Cash6247",
+      "score": 2,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:05.961Z"
+    },
+    {
+      "id": "reddit-neaa2j",
+      "platform": "reddit",
+      "title": "Cavern City",
+      "url": "https://www.reddit.com/r/midjourney/comments/1us0mrp/cavern_city/",
+      "thumbnail": "https://preview.redd.it/nyw56td8b9ch1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=da3bb9fd8bb79737ec5e542c0fb2147ea2c95ced",
+      "author": "r/midjourney · /u/Standard-File-8187",
+      "score": 1,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-10T02:46:05.961Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
