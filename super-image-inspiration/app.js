@@ -76,7 +76,7 @@
       const destination = safeUrl(item.url, '#');
       const author = escapeHtml(item.author || (item.tags && item.tags[0]) || '平台热榜');
       return `<a class="live-card${image ? ' with-image' : ''}" href="${escapeHtml(destination)}" target="_blank" rel="noopener noreferrer" data-live-platform="${escapeHtml(item.platform)}">
-        ${image ? `<img class="live-card-image" src="${escapeHtml(image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove();this.closest('.live-card').classList.remove('with-image')">` : ''}
+        ${image ? `<img class="live-card-image" src="${escapeHtml(image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.live-card')?.classList.remove('with-image');this.remove()">` : ''}
         <div class="live-card-body">
           <div class="live-card-top"><span class="platform-label">${escapeHtml(platformLabels[item.platform] || item.platform)}</span><span class="live-rank">TOP ${String(index + 1).padStart(2, '0')}</span></div>
           <h3>${escapeHtml(item.title || '未命名热点')}</h3>
