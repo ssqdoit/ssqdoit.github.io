@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-10T23:14:32.320Z",
+  "generatedAt": "2026-07-11T03:45:00.880Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,49 +46,19 @@
   ],
   "items": [
     {
-      "id": "douyin-2564062",
+      "id": "douyin-2566735",
       "platform": "douyin",
       "title": "台风巴威实时路径",
-      "url": "https://www.douyin.com/hot/2564062",
+      "url": "https://www.douyin.com/hot/2566735",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12042374,
-      "metric": "1204.2 万 热度",
+      "score": 12004074,
+      "metric": "1200.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
-    },
-    {
-      "id": "douyin-2565573",
-      "platform": "douyin",
-      "title": "我国成功实施火箭一子级可控回收",
-      "url": "https://www.douyin.com/hot/2565573",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11862786,
-      "metric": "1186.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
-    },
-    {
-      "id": "douyin-2566325",
-      "platform": "douyin",
-      "title": "全国夏粮产量首次突破3000亿斤",
-      "url": "https://www.douyin.com/hot/2566325",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11782488,
-      "metric": "1178.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
+      "collectedAt": "2026-07-11T03:45:00.880Z"
     },
     {
       "id": "douyin-2566372",
@@ -97,43 +67,28 @@
       "url": "https://www.douyin.com/hot/2566372",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10921709,
-      "metric": "1092.2 万 热度",
+      "score": 11003358,
+      "metric": "1100.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
+      "collectedAt": "2026-07-11T03:45:00.880Z"
     },
     {
-      "id": "douyin-2565691",
+      "id": "douyin-2566781",
       "platform": "douyin",
-      "title": "西班牙2:1比利时",
-      "url": "https://www.douyin.com/hot/2565691",
+      "title": "中国救援的底气",
+      "url": "https://www.douyin.com/hot/2566781",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10216967,
-      "metric": "1021.7 万 热度",
+      "score": 10781996,
+      "metric": "1078.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
-    },
-    {
-      "id": "douyin-2565205",
-      "platform": "douyin",
-      "title": "北京大雨",
-      "url": "https://www.douyin.com/hot/2565205",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10110546,
-      "metric": "1011.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
+      "collectedAt": "2026-07-11T03:45:00.880Z"
     },
     {
       "id": "douyin-2566457",
@@ -142,13 +97,43 @@
       "url": "https://www.douyin.com/hot/2566457",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8915478,
-      "metric": "891.5 万 热度",
+      "score": 10730390,
+      "metric": "1073.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
+      "collectedAt": "2026-07-11T03:45:00.880Z"
+    },
+    {
+      "id": "douyin-2566543",
+      "platform": "douyin",
+      "title": "街霸突袭郑慧杰再战国产SGA",
+      "url": "https://www.douyin.com/hot/2566543",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9899078,
+      "metric": "989.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T03:45:00.880Z"
+    },
+    {
+      "id": "douyin-2566449",
+      "platform": "douyin",
+      "title": "WSUP主题曲舞蹈挑战",
+      "url": "https://www.douyin.com/hot/2566449",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9823624,
+      "metric": "982.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T03:45:00.880Z"
     },
     {
       "id": "douyin-2564481",
@@ -157,13 +142,13 @@
       "url": "https://www.douyin.com/hot/2564481",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8645846,
-      "metric": "864.6 万 热度",
+      "score": 8149537,
+      "metric": "815.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
+      "collectedAt": "2026-07-11T03:45:00.880Z"
     },
     {
       "id": "douyin-2564317",
@@ -172,218 +157,233 @@
       "url": "https://www.douyin.com/hot/2564317",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8367692,
-      "metric": "836.8 万 热度",
+      "score": 8109116,
+      "metric": "810.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
+      "collectedAt": "2026-07-11T03:45:00.880Z"
     },
     {
-      "id": "douyin-2565387",
+      "id": "douyin-2566560",
       "platform": "douyin",
-      "title": "茶啊二中第六季定档暑期",
-      "url": "https://www.douyin.com/hot/2565387",
+      "title": "黄河之水真的从天上来",
+      "url": "https://www.douyin.com/hot/2566560",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8339464,
-      "metric": "833.9 万 热度",
+      "score": 7919913,
+      "metric": "792.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
+      "collectedAt": "2026-07-11T03:45:00.880Z"
     },
     {
-      "id": "douyin-2565275",
+      "id": "douyin-2565205",
       "platform": "douyin",
-      "title": "“巴威”台风眼变模糊",
-      "url": "https://www.douyin.com/hot/2565275",
+      "title": "北京大雨",
+      "url": "https://www.douyin.com/hot/2565205",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7905332,
-      "metric": "790.5 万 热度",
+      "score": 7874316,
+      "metric": "787.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
+      "collectedAt": "2026-07-11T03:45:00.880Z"
     },
     {
-      "id": "douyin-2565069",
+      "id": "douyin-2565573",
       "platform": "douyin",
-      "title": "贵港学生记录被救下全过程",
-      "url": "https://www.douyin.com/hot/2565069",
+      "title": "我国成功实施火箭一子级可控回收",
+      "url": "https://www.douyin.com/hot/2565573",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7830617,
-      "metric": "783.1 万 热度",
+      "score": 7828179,
+      "metric": "782.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:32.320Z"
+      "collectedAt": "2026-07-11T03:45:00.880Z"
     },
     {
-      "id": "reddit-m2lvef",
+      "id": "douyin-2565981",
+      "platform": "douyin",
+      "title": "浙江海边掀起10多米巨浪",
+      "url": "https://www.douyin.com/hot/2565981",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7821802,
+      "metric": "782.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T03:45:00.880Z"
+    },
+    {
+      "id": "reddit-n1zjvx",
       "platform": "reddit",
-      "title": "Sky Manta",
-      "url": "https://www.reddit.com/r/midjourney/comments/1usg2g5/sky_manta/",
-      "thumbnail": "https://preview.redd.it/ooweoi7socch1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=b2a8dbbe685100e030675c1053038830f66b6095",
-      "author": "r/midjourney · /u/Standard-File-8187",
+      "title": "An album cover I made for myself!",
+      "url": "https://www.reddit.com/r/photoshop/comments/1ut6gik/an_album_cover_i_made_for_myself/",
+      "thumbnail": "https://preview.redd.it/80ogtoej6ich1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa695d6a5e0f9c22500267d7b61ce4649120e1e1",
+      "author": "r/photoshop · /u/CactusMaximusMusic",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:31.412Z"
+      "collectedAt": "2026-07-11T03:44:59.612Z"
     },
     {
-      "id": "reddit-1d1eozp",
+      "id": "reddit-lrr9n0",
       "platform": "reddit",
-      "title": "Fantasy RPG / D&D Portraits",
-      "url": "https://www.reddit.com/r/midjourney/comments/1usrvh2/fantasy_rpg_dd_portraits/",
-      "thumbnail": "https://preview.redd.it/3xkeql6rdfch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=410937d4b0afc80530ddd429f3b1ef78969d7b94",
-      "author": "r/midjourney · /u/Zenchilada",
+      "title": "I made a software to record your tablet drawing time (Windows)",
+      "url": "https://www.reddit.com/r/photoshop/comments/1usyce9/i_made_a_software_to_record_your_tablet_drawing/",
+      "thumbnail": "https://preview.redd.it/w9stt10hjgch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=27cb7b5f5d962e98830d4f8e6c69ebb1cb925dff",
+      "author": "r/photoshop · /u/Informal_Ad_6718",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:31.412Z"
+      "collectedAt": "2026-07-11T03:44:59.613Z"
     },
     {
-      "id": "reddit-p7wgxn",
+      "id": "reddit-lf6psw",
       "platform": "reddit",
-      "title": "The Last Ember",
-      "url": "https://www.reddit.com/r/midjourney/comments/1usniv1/the_last_ember/",
-      "thumbnail": "https://preview.redd.it/n4jyz7f4kech1.png?width=140&amp;height=78&amp;auto=webp&amp;s=2bae231ed6d95fa0687f376d353a708236fbf5e1",
-      "author": "r/midjourney · /u/WorkLucky4366",
+      "title": "Help me to reduce PSD save file sizes",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uskpo4/help_me_to_reduce_psd_save_file_sizes/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/Fashionhug",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:31.412Z"
+      "collectedAt": "2026-07-11T03:44:59.613Z"
     },
     {
-      "id": "reddit-dl6cgo",
+      "id": "reddit-1p9r7jb",
       "platform": "reddit",
-      "title": "Chronicles of Aztleau - A glance at Lokkos heart",
-      "url": "https://www.reddit.com/r/midjourney/comments/1usxr7s/chronicles_of_aztleau_a_glance_at_lokkos_heart/",
-      "thumbnail": "https://external-preview.redd.it/aG1mcThyYmdmZ2NoMVdilfLSFcr51tPllwPp1BayhM7Mmu3LgqSmV5RgbklG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc6c69371c5619ee5dcce0f9da0bcfc91e988d83",
-      "author": "r/midjourney · /u/Advanced-Power-1775",
+      "title": "Ayuda para hacer un efecto de texto",
+      "url": "https://www.reddit.com/r/photoshop/comments/1usxm5k/ayuda_para_hacer_un_efecto_de_texto/",
+      "thumbnail": "https://preview.redd.it/tt5rimpiegch1.png?width=140&amp;height=82&amp;auto=webp&amp;s=585f94b352da8f3d1046b1152398aa5c262dd459",
+      "author": "r/photoshop · /u/PaperSensitive5682",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:31.412Z"
+      "collectedAt": "2026-07-11T03:44:59.613Z"
     },
     {
-      "id": "reddit-yw4xdz",
+      "id": "reddit-onc0qv",
       "platform": "reddit",
-      "title": "Pixel Getaway",
-      "url": "https://www.reddit.com/r/midjourney/comments/1ussl7k/pixel_getaway/",
-      "thumbnail": "https://preview.redd.it/oct4e8joifch1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=81096f8f8e6c824540989fb4860a3e7f31db4768",
-      "author": "r/midjourney · /u/Standard-File-8187",
+      "title": "Pencil brush doesn't align with pixel grid",
+      "url": "https://www.reddit.com/r/photoshop/comments/1usxj76/pencil_brush_doesnt_align_with_pixel_grid/",
+      "thumbnail": "https://preview.redd.it/ivocxq3rdgch1.png?width=140&amp;height=74&amp;auto=webp&amp;s=525a22b24ad2278c425d9fec837384576c5d58e7",
+      "author": "r/photoshop · /u/Johan_Frog",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:31.412Z"
+      "collectedAt": "2026-07-11T03:44:59.613Z"
     },
     {
-      "id": "reddit-zd1uvs",
+      "id": "reddit-14g9ssn",
       "platform": "reddit",
-      "title": "The Dreams Of 1935",
-      "url": "https://www.reddit.com/r/midjourney/comments/1usazva/the_dreams_of_1935/",
-      "thumbnail": "https://preview.redd.it/v1a1mpvzdbch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=3af0c5106aee6ac874f85114d481196cb2efdeb6",
-      "author": "r/midjourney · /u/MountainzN",
+      "title": "Can't make my strokes opaque",
+      "url": "https://www.reddit.com/r/photoshop/comments/1usu4h9/cant_make_my_strokes_opaque/",
+      "thumbnail": "https://preview.redd.it/znqttofbrfch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3b02998a05499ea0dba1e3be91c70e04fe9c396",
+      "author": "r/photoshop · /u/HopDavid",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:31.412Z"
+      "collectedAt": "2026-07-11T03:44:59.613Z"
     },
     {
-      "id": "reddit-u5x8iv",
+      "id": "reddit-1sskyuo",
       "platform": "reddit",
-      "title": "The expectations for asset generation at work are getting completely out of hand",
-      "url": "https://www.reddit.com/r/midjourney/comments/1usv09g/the_expectations_for_asset_generation_at_work_are/",
-      "thumbnail": "",
-      "author": "r/midjourney · /u/avz008",
+      "title": "Can't Export Artboards in Multipage PDf document",
+      "url": "https://www.reddit.com/r/photoshop/comments/1ustuhl/cant_export_artboards_in_multipage_pdf_document/",
+      "thumbnail": "https://preview.redd.it/7gmq6saypfch1.png?width=140&amp;height=126&amp;auto=webp&amp;s=10b024419fb92e9b62554c71c2038b673c6eee21",
+      "author": "r/photoshop · /u/rorymcmahon990",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:31.412Z"
+      "collectedAt": "2026-07-11T03:44:59.613Z"
     },
     {
-      "id": "reddit-1800038",
+      "id": "reddit-1wmmek0",
       "platform": "reddit",
-      "title": "CRASH magazine",
-      "url": "https://www.reddit.com/r/midjourney/comments/1usmy0a/crash_magazine/",
-      "thumbnail": "https://preview.redd.it/151otosvgech1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=572c2e5a834631612e0b1a717030caa51f859dcf",
-      "author": "r/midjourney · /u/Zaicab",
+      "title": "color slider bug",
+      "url": "https://www.reddit.com/r/photoshop/comments/1usmfhv/color_slider_bug/",
+      "thumbnail": "https://preview.redd.it/sho6bgnrcech1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3cbaf7e9c1602cf18da0e85fb1d6de467c7ad743",
+      "author": "r/photoshop · /u/d3nce",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:31.412Z"
+      "collectedAt": "2026-07-11T03:44:59.613Z"
     },
     {
-      "id": "reddit-1qr7a6f",
+      "id": "reddit-11elh4y",
       "platform": "reddit",
-      "title": "AI Gothic",
-      "url": "https://www.reddit.com/r/midjourney/comments/1usmp7y/ai_gothic/",
-      "thumbnail": "https://preview.redd.it/zd9sklf2fech1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c465992f031168b74b64ed1ed799186e00399114",
-      "author": "r/midjourney · /u/Dropdeadlegs84",
+      "title": "How to get brush to smear",
+      "url": "https://www.reddit.com/r/photoshop/comments/1ushqgl/how_to_get_brush_to_smear/",
+      "thumbnail": "https://preview.redd.it/c0k7ttfz4dch1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=0f7226ddeb863fa521a4580710909715b305d441",
+      "author": "r/photoshop · /u/ronkerner",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:31.412Z"
+      "collectedAt": "2026-07-11T03:44:59.613Z"
     },
     {
-      "id": "reddit-nw4o2r",
+      "id": "reddit-gwhvgb",
       "platform": "reddit",
-      "title": "A glossy Painted Dezsimator",
-      "url": "https://www.reddit.com/r/midjourney/comments/1usa2l3/a_glossy_painted_dezsimator/",
-      "thumbnail": "https://preview.redd.it/6371px9e6bch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=89d2e2337f8592c6b8ad4f983c01cddad897c125",
-      "author": "r/midjourney · /u/Big_Addendum_9920",
+      "title": "Why can't I open NEF files in Photoshop?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uswq29/why_cant_i_open_nef_files_in_photoshop/",
+      "thumbnail": "https://preview.redd.it/1ipun06u8gch1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1a9d4a13b609bdc3a7ea81654b5cdc4fa43fe7a1",
+      "author": "r/photoshop · /u/stevew25",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-10T23:14:31.412Z"
+      "collectedAt": "2026-07-11T03:44:59.613Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
