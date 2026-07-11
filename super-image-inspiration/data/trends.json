@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T03:45:00.880Z",
+  "generatedAt": "2026-07-11T06:27:54.923Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2566735",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12004074,
-      "metric": "1200.4 万 热度",
+      "score": 12195874,
+      "metric": "1219.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
+      "collectedAt": "2026-07-11T06:27:54.922Z"
     },
     {
       "id": "douyin-2566372",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2566372",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11003358,
-      "metric": "1100.3 万 热度",
+      "score": 11016833,
+      "metric": "1101.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
+      "collectedAt": "2026-07-11T06:27:54.923Z"
     },
     {
       "id": "douyin-2566781",
@@ -82,43 +82,13 @@
       "url": "https://www.douyin.com/hot/2566781",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10781996,
-      "metric": "1078.2 万 热度",
+      "score": 10965438,
+      "metric": "1096.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
-    },
-    {
-      "id": "douyin-2566457",
-      "platform": "douyin",
-      "title": "给朋友拍照时就这样变身机器人",
-      "url": "https://www.douyin.com/hot/2566457",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10730390,
-      "metric": "1073.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
-    },
-    {
-      "id": "douyin-2566543",
-      "platform": "douyin",
-      "title": "街霸突袭郑慧杰再战国产SGA",
-      "url": "https://www.douyin.com/hot/2566543",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9899078,
-      "metric": "989.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
+      "collectedAt": "2026-07-11T06:27:54.923Z"
     },
     {
       "id": "douyin-2566449",
@@ -127,43 +97,118 @@
       "url": "https://www.douyin.com/hot/2566449",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9823624,
-      "metric": "982.4 万 热度",
+      "score": 10746830,
+      "metric": "1074.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
+      "collectedAt": "2026-07-11T06:27:54.923Z"
     },
     {
-      "id": "douyin-2564481",
+      "id": "douyin-2566841",
       "platform": "douyin",
-      "title": "这个夏天被确诊为“热怒症”",
-      "url": "https://www.douyin.com/hot/2564481",
+      "title": "衡阳迎来最权威的炒粉主理人",
+      "url": "https://www.douyin.com/hot/2566841",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8149537,
-      "metric": "815.0 万 热度",
+      "score": 9109566,
+      "metric": "911.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
+      "collectedAt": "2026-07-11T06:27:54.923Z"
     },
     {
-      "id": "douyin-2564317",
+      "id": "douyin-2566300",
       "platform": "douyin",
-      "title": "就这样打开满级周五",
-      "url": "https://www.douyin.com/hot/2564317",
+      "title": "贵州漂流专治各种不服",
+      "url": "https://www.douyin.com/hot/2566300",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8109116,
-      "metric": "810.9 万 热度",
+      "score": 8750540,
+      "metric": "875.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
+      "collectedAt": "2026-07-11T06:27:54.923Z"
+    },
+    {
+      "id": "douyin-2566457",
+      "platform": "douyin",
+      "title": "给朋友拍照时就这样变身机器人",
+      "url": "https://www.douyin.com/hot/2566457",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7817703,
+      "metric": "781.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T06:27:54.923Z"
+    },
+    {
+      "id": "douyin-2566707",
+      "platform": "douyin",
+      "title": "在龙门石窟许下我们的誓言",
+      "url": "https://www.douyin.com/hot/2566707",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7809285,
+      "metric": "780.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T06:27:54.923Z"
+    },
+    {
+      "id": "douyin-2566902",
+      "platform": "douyin",
+      "title": "陈泽杯S2幸子11杀晋级",
+      "url": "https://www.douyin.com/hot/2566902",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7796692,
+      "metric": "779.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T06:27:54.923Z"
+    },
+    {
+      "id": "douyin-2566543",
+      "platform": "douyin",
+      "title": "街霸突袭郑慧杰再战国产SGA",
+      "url": "https://www.douyin.com/hot/2566543",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7795945,
+      "metric": "779.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T06:27:54.923Z"
+    },
+    {
+      "id": "douyin-2566595",
+      "platform": "douyin",
+      "title": "巴威再增强为强台风级",
+      "url": "https://www.douyin.com/hot/2566595",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7792294,
+      "metric": "779.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T06:27:54.923Z"
     },
     {
       "id": "douyin-2566560",
@@ -172,90 +217,13 @@
       "url": "https://www.douyin.com/hot/2566560",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7919913,
-      "metric": "792.0 万 热度",
+      "score": 7782299,
+      "metric": "778.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
-    },
-    {
-      "id": "douyin-2565205",
-      "platform": "douyin",
-      "title": "北京大雨",
-      "url": "https://www.douyin.com/hot/2565205",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 7874316,
-      "metric": "787.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
-    },
-    {
-      "id": "douyin-2565573",
-      "platform": "douyin",
-      "title": "我国成功实施火箭一子级可控回收",
-      "url": "https://www.douyin.com/hot/2565573",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 7828179,
-      "metric": "782.8 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
-    },
-    {
-      "id": "douyin-2565981",
-      "platform": "douyin",
-      "title": "浙江海边掀起10多米巨浪",
-      "url": "https://www.douyin.com/hot/2565981",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 7821802,
-      "metric": "782.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T03:45:00.880Z"
-    },
-    {
-      "id": "reddit-n1zjvx",
-      "platform": "reddit",
-      "title": "An album cover I made for myself!",
-      "url": "https://www.reddit.com/r/photoshop/comments/1ut6gik/an_album_cover_i_made_for_myself/",
-      "thumbnail": "https://preview.redd.it/80ogtoej6ich1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa695d6a5e0f9c22500267d7b61ce4649120e1e1",
-      "author": "r/photoshop · /u/CactusMaximusMusic",
-      "score": 10,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T03:44:59.612Z"
-    },
-    {
-      "id": "reddit-lrr9n0",
-      "platform": "reddit",
-      "title": "I made a software to record your tablet drawing time (Windows)",
-      "url": "https://www.reddit.com/r/photoshop/comments/1usyce9/i_made_a_software_to_record_your_tablet_drawing/",
-      "thumbnail": "https://preview.redd.it/w9stt10hjgch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=27cb7b5f5d962e98830d4f8e6c69ebb1cb925dff",
-      "author": "r/photoshop · /u/Informal_Ad_6718",
-      "score": 9,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T03:44:59.613Z"
+      "collectedAt": "2026-07-11T06:27:54.923Z"
     },
     {
       "id": "reddit-lf6psw",
@@ -264,6 +232,38 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1uskpo4/help_me_to_reduce_psd_save_file_sizes/",
       "thumbnail": "",
       "author": "r/photoshop · /u/Fashionhug",
+      "score": 10,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T06:27:53.739Z"
+    },
+    {
+      "id": "reddit-n1zjvx",
+      "platform": "reddit",
+      "title": "An album cover I made for myself!",
+      "url": "https://www.reddit.com/r/photoshop/comments/1ut6gik/an_album_cover_i_made_for_myself/",
+      "thumbnail": "https://preview.redd.it/80ogtoej6ich1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa695d6a5e0f9c22500267d7b61ce4649120e1e1",
+      "author": "r/photoshop · /u/CactusMaximusMusic",
+      "score": 9,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T06:27:53.739Z"
+    },
+    {
+      "id": "reddit-lrr9n0",
+      "platform": "reddit",
+      "title": "I made a software to record your tablet drawing time (Windows)",
+      "url": "https://www.reddit.com/r/photoshop/comments/1usyce9/i_made_a_software_to_record_your_tablet_drawing/",
+      "thumbnail": "https://preview.redd.it/w9stt10hjgch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=27cb7b5f5d962e98830d4f8e6c69ebb1cb925dff",
+      "author": "r/photoshop · /u/Informal_Ad_6718",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
@@ -271,7 +271,23 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:44:59.613Z"
+      "collectedAt": "2026-07-11T06:27:53.739Z"
+    },
+    {
+      "id": "reddit-wbwvv5",
+      "platform": "reddit",
+      "title": "cant figure it out",
+      "url": "https://www.reddit.com/r/photoshop/comments/1utbcnb/cant_figure_it_out/",
+      "thumbnail": "https://preview.redd.it/b46ts5bpejch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=920311a46144924250d4f3c352407fd52d38cdf0",
+      "author": "r/photoshop · /u/urbebu_",
+      "score": 7,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T06:27:53.739Z"
     },
     {
       "id": "reddit-1p9r7jb",
@@ -280,14 +296,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1usxm5k/ayuda_para_hacer_un_efecto_de_texto/",
       "thumbnail": "https://preview.redd.it/tt5rimpiegch1.png?width=140&amp;height=82&amp;auto=webp&amp;s=585f94b352da8f3d1046b1152398aa5c262dd459",
       "author": "r/photoshop · /u/PaperSensitive5682",
-      "score": 7,
+      "score": 6,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:44:59.613Z"
+      "collectedAt": "2026-07-11T06:27:53.739Z"
     },
     {
       "id": "reddit-onc0qv",
@@ -296,14 +312,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1usxj76/pencil_brush_doesnt_align_with_pixel_grid/",
       "thumbnail": "https://preview.redd.it/ivocxq3rdgch1.png?width=140&amp;height=74&amp;auto=webp&amp;s=525a22b24ad2278c425d9fec837384576c5d58e7",
       "author": "r/photoshop · /u/Johan_Frog",
-      "score": 6,
+      "score": 5,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:44:59.613Z"
+      "collectedAt": "2026-07-11T06:27:53.739Z"
     },
     {
       "id": "reddit-14g9ssn",
@@ -312,14 +328,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1usu4h9/cant_make_my_strokes_opaque/",
       "thumbnail": "https://preview.redd.it/znqttofbrfch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3b02998a05499ea0dba1e3be91c70e04fe9c396",
       "author": "r/photoshop · /u/HopDavid",
-      "score": 5,
+      "score": 4,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:44:59.613Z"
+      "collectedAt": "2026-07-11T06:27:53.739Z"
     },
     {
       "id": "reddit-1sskyuo",
@@ -328,14 +344,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1ustuhl/cant_export_artboards_in_multipage_pdf_document/",
       "thumbnail": "https://preview.redd.it/7gmq6saypfch1.png?width=140&amp;height=126&amp;auto=webp&amp;s=10b024419fb92e9b62554c71c2038b673c6eee21",
       "author": "r/photoshop · /u/rorymcmahon990",
-      "score": 4,
+      "score": 3,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:44:59.613Z"
+      "collectedAt": "2026-07-11T06:27:53.739Z"
     },
     {
       "id": "reddit-1wmmek0",
@@ -344,14 +360,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1usmfhv/color_slider_bug/",
       "thumbnail": "https://preview.redd.it/sho6bgnrcech1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3cbaf7e9c1602cf18da0e85fb1d6de467c7ad743",
       "author": "r/photoshop · /u/d3nce",
-      "score": 3,
+      "score": 2,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:44:59.613Z"
+      "collectedAt": "2026-07-11T06:27:53.739Z"
     },
     {
       "id": "reddit-11elh4y",
@@ -360,22 +376,6 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1ushqgl/how_to_get_brush_to_smear/",
       "thumbnail": "https://preview.redd.it/c0k7ttfz4dch1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=0f7226ddeb863fa521a4580710909715b305d441",
       "author": "r/photoshop · /u/ronkerner",
-      "score": 2,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T03:44:59.613Z"
-    },
-    {
-      "id": "reddit-gwhvgb",
-      "platform": "reddit",
-      "title": "Why can't I open NEF files in Photoshop?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uswq29/why_cant_i_open_nef_files_in_photoshop/",
-      "thumbnail": "https://preview.redd.it/1ipun06u8gch1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1a9d4a13b609bdc3a7ea81654b5cdc4fa43fe7a1",
-      "author": "r/photoshop · /u/stevew25",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
@@ -383,7 +383,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T03:44:59.613Z"
+      "collectedAt": "2026-07-11T06:27:53.739Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
