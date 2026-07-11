@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T19:33:47.755Z",
+  "generatedAt": "2026-07-11T21:08:55.218Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -40,7 +40,7 @@
       "label": "Reddit",
       "status": "live",
       "message": "公开社区日榜",
-      "count": 8,
+      "count": 7,
       "mode": "public-api"
     }
   ],
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2567698",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12111438,
-      "metric": "1211.1 万 热度",
+      "score": 12107872,
+      "metric": "1210.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
+      "collectedAt": "2026-07-11T21:08:55.218Z"
     },
     {
       "id": "douyin-2567453",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2567453",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11322480,
-      "metric": "1132.2 万 热度",
+      "score": 11849564,
+      "metric": "1185.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
+      "collectedAt": "2026-07-11T21:08:55.218Z"
     },
     {
       "id": "douyin-2567185",
@@ -82,43 +82,13 @@
       "url": "https://www.douyin.com/hot/2567185",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11235441,
-      "metric": "1123.5 万 热度",
+      "score": 11178751,
+      "metric": "1117.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
-    },
-    {
-      "id": "douyin-2567428",
-      "platform": "douyin",
-      "title": "谢谢你们来过我的家乡",
-      "url": "https://www.douyin.com/hot/2567428",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11150237,
-      "metric": "1115.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
-    },
-    {
-      "id": "douyin-2567518",
-      "platform": "douyin",
-      "title": "挪威vs英格兰",
-      "url": "https://www.douyin.com/hot/2567518",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10304780,
-      "metric": "1030.5 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
+      "collectedAt": "2026-07-11T21:08:55.218Z"
     },
     {
       "id": "douyin-2567505",
@@ -127,13 +97,43 @@
       "url": "https://www.douyin.com/hot/2567505",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10202142,
-      "metric": "1020.2 万 热度",
+      "score": 11144728,
+      "metric": "1114.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
+      "collectedAt": "2026-07-11T21:08:55.218Z"
+    },
+    {
+      "id": "douyin-2567518",
+      "platform": "douyin",
+      "title": "挪威vs英格兰",
+      "url": "https://www.douyin.com/hot/2567518",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10337612,
+      "metric": "1033.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T21:08:55.218Z"
+    },
+    {
+      "id": "douyin-2567428",
+      "platform": "douyin",
+      "title": "谢谢你们来过我的家乡",
+      "url": "https://www.douyin.com/hot/2567428",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10205357,
+      "metric": "1020.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T21:08:55.218Z"
     },
     {
       "id": "douyin-2566841",
@@ -142,13 +142,13 @@
       "url": "https://www.douyin.com/hot/2566841",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7848081,
-      "metric": "784.8 万 热度",
+      "score": 8855328,
+      "metric": "885.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
+      "collectedAt": "2026-07-11T21:08:55.218Z"
     },
     {
       "id": "douyin-2566902",
@@ -157,13 +157,13 @@
       "url": "https://www.douyin.com/hot/2566902",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7843475,
-      "metric": "784.3 万 热度",
+      "score": 8597475,
+      "metric": "859.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
+      "collectedAt": "2026-07-11T21:08:55.218Z"
     },
     {
       "id": "douyin-2566735",
@@ -172,13 +172,28 @@
       "url": "https://www.douyin.com/hot/2566735",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7829104,
-      "metric": "782.9 万 热度",
+      "score": 7848246,
+      "metric": "784.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
+      "collectedAt": "2026-07-11T21:08:55.218Z"
+    },
+    {
+      "id": "douyin-2566930",
+      "platform": "douyin",
+      "title": "东大高武学院群像热血番",
+      "url": "https://www.douyin.com/hot/2566930",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7816895,
+      "metric": "781.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T21:08:55.218Z"
     },
     {
       "id": "douyin-2566560",
@@ -187,43 +202,28 @@
       "url": "https://www.douyin.com/hot/2566560",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7826306,
-      "metric": "782.6 万 热度",
+      "score": 7784356,
+      "metric": "778.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
+      "collectedAt": "2026-07-11T21:08:55.218Z"
     },
     {
-      "id": "douyin-2566372",
+      "id": "douyin-2567101",
       "platform": "douyin",
-      "title": "探访秘鲁淘金之城",
-      "url": "https://www.douyin.com/hot/2566372",
+      "title": "功夫女足观影解读",
+      "url": "https://www.douyin.com/hot/2567101",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7812061,
-      "metric": "781.2 万 热度",
+      "score": 7783743,
+      "metric": "778.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
-    },
-    {
-      "id": "douyin-2566707",
-      "platform": "douyin",
-      "title": "在龙门石窟许下我们的誓言",
-      "url": "https://www.douyin.com/hot/2566707",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 7806435,
-      "metric": "780.6 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:47.755Z"
+      "collectedAt": "2026-07-11T21:08:55.218Z"
     },
     {
       "id": "reddit-n1zjvx",
@@ -239,23 +239,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:46.466Z"
-    },
-    {
-      "id": "reddit-cnused",
-      "platform": "reddit",
-      "title": "Smoke Textures — Overlay",
-      "url": "https://www.reddit.com/r/photoshop/comments/1utt811/smoke_textures_overlay/",
-      "thumbnail": "https://external-preview.redd.it/sBxJ7X1Q2MQF6i_dPXDCRh3gngFagJgf7snPbCUj0VI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb1c2d3c6568e0f69c674b27b5cc3f7c447377bc",
-      "author": "r/photoshop · /u/wdrfree",
-      "score": 9,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:46.466Z"
+      "collectedAt": "2026-07-11T21:08:54.460Z"
     },
     {
       "id": "reddit-3e5t5s",
@@ -264,14 +248,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1utph2t/missing_my_actions_and_brushes/",
       "thumbnail": "",
       "author": "r/photoshop · /u/NegotiationNext8844",
-      "score": 8,
+      "score": 9,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:46.466Z"
+      "collectedAt": "2026-07-11T21:08:54.460Z"
     },
     {
       "id": "reddit-wbwvv5",
@@ -280,46 +264,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1utbcnb/cant_figure_it_out/",
       "thumbnail": "https://preview.redd.it/b46ts5bpejch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=920311a46144924250d4f3c352407fd52d38cdf0",
       "author": "r/photoshop · /u/urbebu_",
-      "score": 7,
+      "score": 8,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:46.466Z"
-    },
-    {
-      "id": "reddit-lrr9n0",
-      "platform": "reddit",
-      "title": "I made a software to record your tablet drawing time (Windows)",
-      "url": "https://www.reddit.com/r/photoshop/comments/1usyce9/i_made_a_software_to_record_your_tablet_drawing/",
-      "thumbnail": "https://preview.redd.it/w9stt10hjgch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=27cb7b5f5d962e98830d4f8e6c69ebb1cb925dff",
-      "author": "r/photoshop · /u/Informal_Ad_6718",
-      "score": 6,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:46.466Z"
-    },
-    {
-      "id": "reddit-ykzh0l",
-      "platform": "reddit",
-      "title": "What’s one Photoshop shortcut you wish you’d learned earlier?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1utrtub/whats_one_photoshop_shortcut_you_wish_youd/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/Peachy_Puff21",
-      "score": 5,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:46.466Z"
+      "collectedAt": "2026-07-11T21:08:54.460Z"
     },
     {
       "id": "reddit-13rwiw2",
@@ -328,14 +280,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1utnwvv/hi_folks_i_am_missing_grains_while_exporting_or/",
       "thumbnail": "https://preview.redd.it/tb2j150qhmch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=9fb998d192da096664c73b001f252d8801185213",
       "author": "r/photoshop · /u/abgrafix",
-      "score": 4,
+      "score": 7,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:46.466Z"
+      "collectedAt": "2026-07-11T21:08:54.460Z"
     },
     {
       "id": "reddit-1e22yzb",
@@ -344,14 +296,46 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1uthl8x/how_can_i_create_this_text/",
       "thumbnail": "https://preview.redd.it/6v2mqm0o5lch1.png?width=140&amp;height=19&amp;auto=webp&amp;s=d72bf3f52804aab36f3951d4656411135e88aacd",
       "author": "r/photoshop · /u/Revolutionary_Ad6574",
-      "score": 3,
+      "score": 6,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-11T19:33:46.466Z"
+      "collectedAt": "2026-07-11T21:08:54.460Z"
+    },
+    {
+      "id": "reddit-cnused",
+      "platform": "reddit",
+      "title": "Smoke Textures — Overlay",
+      "url": "https://www.reddit.com/r/photoshop/comments/1utt811/smoke_textures_overlay/",
+      "thumbnail": "https://external-preview.redd.it/sBxJ7X1Q2MQF6i_dPXDCRh3gngFagJgf7snPbCUj0VI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb1c2d3c6568e0f69c674b27b5cc3f7c447377bc",
+      "author": "r/photoshop · /u/wdrfree",
+      "score": 5,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T21:08:54.460Z"
+    },
+    {
+      "id": "reddit-ykzh0l",
+      "platform": "reddit",
+      "title": "What’s one Photoshop shortcut you wish you’d learned earlier?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1utrtub/whats_one_photoshop_shortcut_you_wish_youd/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/Peachy_Puff21",
+      "score": 4,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-11T21:08:54.460Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
