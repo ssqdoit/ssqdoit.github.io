@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T04:00:20.038Z",
+  "generatedAt": "2026-07-12T06:47:11.028Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,28 +52,28 @@
       "url": "https://www.douyin.com/hot/2567453",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12155297,
-      "metric": "1215.5 万 热度",
+      "score": 12070444,
+      "metric": "1207.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
-      "id": "douyin-2567777",
+      "id": "douyin-2567919",
       "platform": "douyin",
-      "title": "王聪打进UFC世界前十",
-      "url": "https://www.douyin.com/hot/2567777",
+      "title": "昆明版水上闯关太好玩了",
+      "url": "https://www.douyin.com/hot/2567919",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12140611,
-      "metric": "1214.1 万 热度",
+      "score": 11339302,
+      "metric": "1133.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
       "id": "douyin-2567667",
@@ -82,13 +82,13 @@
       "url": "https://www.douyin.com/hot/2567667",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11233146,
-      "metric": "1123.3 万 热度",
+      "score": 11230626,
+      "metric": "1123.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
       "id": "douyin-2567521",
@@ -97,13 +97,13 @@
       "url": "https://www.douyin.com/hot/2567521",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11185604,
-      "metric": "1118.6 万 热度",
+      "score": 11080884,
+      "metric": "1108.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
       "id": "douyin-2567069",
@@ -112,13 +112,13 @@
       "url": "https://www.douyin.com/hot/2567069",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10588212,
-      "metric": "1058.8 万 热度",
+      "score": 10285618,
+      "metric": "1028.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
       "id": "douyin-2567505",
@@ -127,28 +127,43 @@
       "url": "https://www.douyin.com/hot/2567505",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10197152,
-      "metric": "1019.7 万 热度",
+      "score": 10283902,
+      "metric": "1028.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
-      "id": "douyin-2567718",
+      "id": "douyin-2567930",
       "platform": "douyin",
-      "title": "台风巴威在浙江乐清二次登陆",
-      "url": "https://www.douyin.com/hot/2567718",
+      "title": "康纳腿伤告负",
+      "url": "https://www.douyin.com/hot/2567930",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9119316,
-      "metric": "911.9 万 热度",
+      "score": 9180770,
+      "metric": "918.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
+    },
+    {
+      "id": "douyin-2567967",
+      "platform": "douyin",
+      "title": "台风巴威已离开浙江进入安徽",
+      "url": "https://www.douyin.com/hot/2567967",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9124237,
+      "metric": "912.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
       "id": "douyin-2567428",
@@ -157,73 +172,58 @@
       "url": "https://www.douyin.com/hot/2567428",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9074798,
-      "metric": "907.5 万 热度",
+      "score": 9027822,
+      "metric": "902.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
-      "id": "douyin-2567596",
+      "id": "douyin-2567898",
       "platform": "douyin",
-      "title": "杨瀚森夏联首秀12分9板4助",
-      "url": "https://www.douyin.com/hot/2567596",
+      "title": "用旧凉席打造岳武穆战甲",
+      "url": "https://www.douyin.com/hot/2567898",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8411817,
-      "metric": "841.2 万 热度",
+      "score": 8611778,
+      "metric": "861.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
-      "id": "douyin-2567781",
+      "id": "douyin-2567980",
       "platform": "douyin",
-      "title": "南京地铁地面及高架区段暂停运营",
-      "url": "https://www.douyin.com/hot/2567781",
+      "title": "世界前四齐聚世界杯四强",
+      "url": "https://www.douyin.com/hot/2567980",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8280203,
-      "metric": "828.0 万 热度",
+      "score": 8527475,
+      "metric": "852.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
-      "id": "douyin-2567518",
+      "id": "douyin-2567777",
       "platform": "douyin",
-      "title": "挪威加时1:2不敌英格兰",
-      "url": "https://www.douyin.com/hot/2567518",
+      "title": "王聪打进UFC世界前十",
+      "url": "https://www.douyin.com/hot/2567777",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7971204,
-      "metric": "797.1 万 热度",
+      "score": 8390359,
+      "metric": "839.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
-    },
-    {
-      "id": "douyin-2567618",
-      "platform": "douyin",
-      "title": "中超成都蓉城1:1重庆铜梁龙",
-      "url": "https://www.douyin.com/hot/2567618",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 7907147,
-      "metric": "790.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:20.038Z"
+      "collectedAt": "2026-07-12T06:47:11.027Z"
     },
     {
       "id": "reddit-1kouoi1",
@@ -239,7 +239,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:19.085Z"
+      "collectedAt": "2026-07-12T06:47:09.401Z"
     },
     {
       "id": "reddit-1v4727m",
@@ -255,7 +255,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:19.085Z"
+      "collectedAt": "2026-07-12T06:47:09.401Z"
     },
     {
       "id": "reddit-11zu819",
@@ -271,7 +271,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:19.085Z"
+      "collectedAt": "2026-07-12T06:47:09.401Z"
     },
     {
       "id": "reddit-1cuartc",
@@ -287,7 +287,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:19.085Z"
+      "collectedAt": "2026-07-12T06:47:09.401Z"
     },
     {
       "id": "reddit-t1rmqc",
@@ -303,7 +303,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:19.085Z"
+      "collectedAt": "2026-07-12T06:47:09.401Z"
     },
     {
       "id": "reddit-1pkkdn6",
@@ -319,7 +319,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:19.085Z"
+      "collectedAt": "2026-07-12T06:47:09.401Z"
     },
     {
       "id": "reddit-10gpk67",
@@ -335,7 +335,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:19.085Z"
+      "collectedAt": "2026-07-12T06:47:09.401Z"
     },
     {
       "id": "reddit-qg370r",
@@ -351,7 +351,23 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:19.085Z"
+      "collectedAt": "2026-07-12T06:47:09.401Z"
+    },
+    {
+      "id": "reddit-11rvzd3",
+      "platform": "reddit",
+      "title": "Portfolio and CV Feedback",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1utrkmd/portfolio_and_cv_feedback/",
+      "thumbnail": "https://preview.redd.it/1vztqvtm7nch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=76a76cafd5cc8c29431b72473f2c91d197896209",
+      "author": "r/graphic_design · /u/philonous355",
+      "score": 2,
+      "metric": "社区日榜",
+      "tags": [
+        "r/graphic_design",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T06:47:09.401Z"
     },
     {
       "id": "reddit-1loj1m7",
@@ -360,22 +376,6 @@
       "url": "https://www.reddit.com/r/graphic_design/comments/1utn7wc/found_this_while_going_through_boxes_nostalgia/",
       "thumbnail": "https://preview.redd.it/hvd3va6qdmch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78307ff20122b657d0293082b1c5b10849116460",
       "author": "r/graphic_design · /u/imdugud777",
-      "score": 2,
-      "metric": "社区日榜",
-      "tags": [
-        "r/graphic_design",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:19.085Z"
-    },
-    {
-      "id": "reddit-1ggoa8l",
-      "platform": "reddit",
-      "title": "Need design opinions",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1utuaha/need_design_opinions/",
-      "thumbnail": "https://preview.redd.it/eq5d60auqnch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2dc6a64ad210e9bf5c7f3f0a99b9184fa3808c35",
-      "author": "r/graphic_design · /u/mcabaniuk",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
@@ -383,7 +383,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T04:00:19.085Z"
+      "collectedAt": "2026-07-12T06:47:09.401Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
