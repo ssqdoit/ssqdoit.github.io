@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T21:08:16.925Z",
+  "generatedAt": "2026-07-12T23:10:53.942Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -38,8 +38,8 @@
     {
       "id": "reddit",
       "label": "Reddit",
-      "status": "live",
-      "message": "公开社区日榜",
+      "status": "stale",
+      "message": "midjourney: JSON 403 Blocked; RSS 429 Too Many Requests; graphic_design: JSON 403 Blocked; RSS 429 Too Many Requests; StableDiffusion: JSON 403 Blocked; RSS 429 Too Many Requests; photoshop: JSON 403 Blocked; RSS 500 Internal Server Error；正在展示上次成功数据",
       "count": 9,
       "mode": "public-api"
     }
@@ -52,88 +52,13 @@
       "url": "https://www.douyin.com/hot/2568138",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12102150,
-      "metric": "1210.2 万 热度",
+      "score": 12104975,
+      "metric": "1210.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.924Z"
-    },
-    {
-      "id": "douyin-2568537",
-      "platform": "douyin",
-      "title": "沈阳发布停课通知",
-      "url": "https://www.douyin.com/hot/2568537",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12101837,
-      "metric": "1210.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.924Z"
-    },
-    {
-      "id": "douyin-2568709",
-      "platform": "douyin",
-      "title": "一组数据看中国经济稳中向优",
-      "url": "https://www.douyin.com/hot/2568709",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12093817,
-      "metric": "1209.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.925Z"
-    },
-    {
-      "id": "douyin-2568738",
-      "platform": "douyin",
-      "title": "善良真的会代代相传",
-      "url": "https://www.douyin.com/hot/2568738",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11915395,
-      "metric": "1191.5 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.925Z"
-    },
-    {
-      "id": "douyin-2567898",
-      "platform": "douyin",
-      "title": "用旧凉席打造岳武穆战甲",
-      "url": "https://www.douyin.com/hot/2567898",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11302967,
-      "metric": "1130.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.925Z"
-    },
-    {
-      "id": "douyin-2568025",
-      "platform": "douyin",
-      "title": "维金斯抖音直播谈字母哥加盟",
-      "url": "https://www.douyin.com/hot/2568025",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10598751,
-      "metric": "1059.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.925Z"
+      "collectedAt": "2026-07-12T23:10:53.942Z"
     },
     {
       "id": "douyin-2567069",
@@ -142,43 +67,28 @@
       "url": "https://www.douyin.com/hot/2567069",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9403723,
-      "metric": "940.4 万 热度",
+      "score": 12099968,
+      "metric": "1210.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.925Z"
+      "collectedAt": "2026-07-12T23:10:53.942Z"
     },
     {
-      "id": "douyin-2567919",
+      "id": "douyin-2568709",
       "platform": "douyin",
-      "title": "昆明版水上闯关太好玩了",
-      "url": "https://www.douyin.com/hot/2567919",
+      "title": "一组数据看中国经济稳中向优",
+      "url": "https://www.douyin.com/hot/2568709",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9391904,
-      "metric": "939.2 万 热度",
+      "score": 12019949,
+      "metric": "1202.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.925Z"
-    },
-    {
-      "id": "douyin-2567758",
-      "platform": "douyin",
-      "title": "网友实拍台风登陆画面",
-      "url": "https://www.douyin.com/hot/2567758",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9339250,
-      "metric": "933.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.925Z"
+      "collectedAt": "2026-07-12T23:10:53.942Z"
     },
     {
       "id": "douyin-2567781",
@@ -187,13 +97,103 @@
       "url": "https://www.douyin.com/hot/2567781",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9299130,
-      "metric": "929.9 万 热度",
+      "score": 11947496,
+      "metric": "1194.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.925Z"
+      "collectedAt": "2026-07-12T23:10:53.942Z"
+    },
+    {
+      "id": "douyin-2568738",
+      "platform": "douyin",
+      "title": "善良真的会代代相传",
+      "url": "https://www.douyin.com/hot/2568738",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11178879,
+      "metric": "1117.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T23:10:53.942Z"
+    },
+    {
+      "id": "douyin-2568025",
+      "platform": "douyin",
+      "title": "维金斯抖音直播谈字母哥加盟",
+      "url": "https://www.douyin.com/hot/2568025",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11083028,
+      "metric": "1108.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T23:10:53.942Z"
+    },
+    {
+      "id": "douyin-2567898",
+      "platform": "douyin",
+      "title": "用旧凉席打造岳武穆战甲",
+      "url": "https://www.douyin.com/hot/2567898",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9742693,
+      "metric": "974.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T23:10:53.942Z"
+    },
+    {
+      "id": "douyin-2567919",
+      "platform": "douyin",
+      "title": "昆明版水上闯关太好玩了",
+      "url": "https://www.douyin.com/hot/2567919",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9616251,
+      "metric": "961.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T23:10:53.942Z"
+    },
+    {
+      "id": "douyin-2568537",
+      "platform": "douyin",
+      "title": "沈阳发布停课通知",
+      "url": "https://www.douyin.com/hot/2568537",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9412307,
+      "metric": "941.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T23:10:53.942Z"
+    },
+    {
+      "id": "douyin-2567940",
+      "platform": "douyin",
+      "title": "酱油洗洁精拉花练习",
+      "url": "https://www.douyin.com/hot/2567940",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9211665,
+      "metric": "921.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T23:10:53.942Z"
     },
     {
       "id": "douyin-2567980",
@@ -202,28 +202,28 @@
       "url": "https://www.douyin.com/hot/2567980",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9208752,
-      "metric": "920.9 万 热度",
+      "score": 8923269,
+      "metric": "892.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.925Z"
+      "collectedAt": "2026-07-12T23:10:53.942Z"
     },
     {
-      "id": "douyin-2567930",
+      "id": "douyin-2568203",
       "platform": "douyin",
-      "title": "康纳腿伤告负",
-      "url": "https://www.douyin.com/hot/2567930",
+      "title": "英阿大战要来了",
+      "url": "https://www.douyin.com/hot/2568203",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8993943,
-      "metric": "899.4 万 热度",
+      "score": 8916208,
+      "metric": "891.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:16.925Z"
+      "collectedAt": "2026-07-12T23:10:53.942Z"
     },
     {
       "id": "reddit-1f97s4x",
