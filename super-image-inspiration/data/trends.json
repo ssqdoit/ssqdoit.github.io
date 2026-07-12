@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T19:33:17.666Z",
+  "generatedAt": "2026-07-12T21:08:16.925Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -40,7 +40,7 @@
       "label": "Reddit",
       "status": "live",
       "message": "公开社区日榜",
-      "count": 8,
+      "count": 9,
       "mode": "public-api"
     }
   ],
@@ -52,118 +52,13 @@
       "url": "https://www.douyin.com/hot/2568138",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12102857,
-      "metric": "1210.3 万 热度",
+      "score": 12102150,
+      "metric": "1210.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
-    },
-    {
-      "id": "douyin-2567069",
-      "platform": "douyin",
-      "title": "火烧云落进千里江山图美到窒息",
-      "url": "https://www.douyin.com/hot/2567069",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12102634,
-      "metric": "1210.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
-    },
-    {
-      "id": "douyin-2568709",
-      "platform": "douyin",
-      "title": "一组数据看中国经济稳中向优",
-      "url": "https://www.douyin.com/hot/2568709",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12067685,
-      "metric": "1206.8 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
-    },
-    {
-      "id": "douyin-2568738",
-      "platform": "douyin",
-      "title": "善良真的会代代相传",
-      "url": "https://www.douyin.com/hot/2568738",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11861174,
-      "metric": "1186.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
-    },
-    {
-      "id": "douyin-2567898",
-      "platform": "douyin",
-      "title": "用旧凉席打造岳武穆战甲",
-      "url": "https://www.douyin.com/hot/2567898",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11104968,
-      "metric": "1110.5 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
-    },
-    {
-      "id": "douyin-2568025",
-      "platform": "douyin",
-      "title": "维金斯抖音直播谈字母哥加盟",
-      "url": "https://www.douyin.com/hot/2568025",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10764747,
-      "metric": "1076.5 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
-    },
-    {
-      "id": "douyin-2567919",
-      "platform": "douyin",
-      "title": "昆明版水上闯关太好玩了",
-      "url": "https://www.douyin.com/hot/2567919",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9316623,
-      "metric": "931.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
-    },
-    {
-      "id": "douyin-2567758",
-      "platform": "douyin",
-      "title": "网友实拍台风登陆画面",
-      "url": "https://www.douyin.com/hot/2567758",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9222714,
-      "metric": "922.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
+      "collectedAt": "2026-07-12T21:08:16.924Z"
     },
     {
       "id": "douyin-2568537",
@@ -172,13 +67,118 @@
       "url": "https://www.douyin.com/hot/2568537",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9187572,
-      "metric": "918.8 万 热度",
+      "score": 12101837,
+      "metric": "1210.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
+      "collectedAt": "2026-07-12T21:08:16.924Z"
+    },
+    {
+      "id": "douyin-2568709",
+      "platform": "douyin",
+      "title": "一组数据看中国经济稳中向优",
+      "url": "https://www.douyin.com/hot/2568709",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 12093817,
+      "metric": "1209.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T21:08:16.925Z"
+    },
+    {
+      "id": "douyin-2568738",
+      "platform": "douyin",
+      "title": "善良真的会代代相传",
+      "url": "https://www.douyin.com/hot/2568738",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11915395,
+      "metric": "1191.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T21:08:16.925Z"
+    },
+    {
+      "id": "douyin-2567898",
+      "platform": "douyin",
+      "title": "用旧凉席打造岳武穆战甲",
+      "url": "https://www.douyin.com/hot/2567898",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11302967,
+      "metric": "1130.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T21:08:16.925Z"
+    },
+    {
+      "id": "douyin-2568025",
+      "platform": "douyin",
+      "title": "维金斯抖音直播谈字母哥加盟",
+      "url": "https://www.douyin.com/hot/2568025",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10598751,
+      "metric": "1059.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T21:08:16.925Z"
+    },
+    {
+      "id": "douyin-2567069",
+      "platform": "douyin",
+      "title": "火烧云落进千里江山图美到窒息",
+      "url": "https://www.douyin.com/hot/2567069",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9403723,
+      "metric": "940.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T21:08:16.925Z"
+    },
+    {
+      "id": "douyin-2567919",
+      "platform": "douyin",
+      "title": "昆明版水上闯关太好玩了",
+      "url": "https://www.douyin.com/hot/2567919",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9391904,
+      "metric": "939.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T21:08:16.925Z"
+    },
+    {
+      "id": "douyin-2567758",
+      "platform": "douyin",
+      "title": "网友实拍台风登陆画面",
+      "url": "https://www.douyin.com/hot/2567758",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9339250,
+      "metric": "933.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T21:08:16.925Z"
     },
     {
       "id": "douyin-2567781",
@@ -187,13 +187,13 @@
       "url": "https://www.douyin.com/hot/2567781",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9174491,
-      "metric": "917.4 万 热度",
+      "score": 9299130,
+      "metric": "929.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
+      "collectedAt": "2026-07-12T21:08:16.925Z"
     },
     {
       "id": "douyin-2567980",
@@ -202,13 +202,13 @@
       "url": "https://www.douyin.com/hot/2567980",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9080114,
-      "metric": "908.0 万 热度",
+      "score": 9208752,
+      "metric": "920.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
+      "collectedAt": "2026-07-12T21:08:16.925Z"
     },
     {
       "id": "douyin-2567930",
@@ -217,13 +217,13 @@
       "url": "https://www.douyin.com/hot/2567930",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8845722,
-      "metric": "884.6 万 热度",
+      "score": 8993943,
+      "metric": "899.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.666Z"
+      "collectedAt": "2026-07-12T21:08:16.925Z"
     },
     {
       "id": "reddit-1f97s4x",
@@ -239,7 +239,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.119Z"
+      "collectedAt": "2026-07-12T21:08:15.237Z"
     },
     {
       "id": "reddit-10g8rq7",
@@ -255,23 +255,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.119Z"
-    },
-    {
-      "id": "reddit-3wwoqk",
-      "platform": "reddit",
-      "title": "Artistic Filters missing - 26.4.0.171",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uu3ict/artistic_filters_missing_2640171/",
-      "thumbnail": "https://preview.redd.it/c8wf7bqkqpch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f2fcb1e9064f0036f881be519e601decf65a67f",
-      "author": "r/photoshop · /u/like-the-garden",
-      "score": 8,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.119Z"
+      "collectedAt": "2026-07-12T21:08:15.237Z"
     },
     {
       "id": "reddit-aqrutf",
@@ -280,6 +264,22 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1uualmr/photoshop_photomontage_landscape_into_a_village/",
       "thumbnail": "https://preview.redd.it/9x007xuborch1.jpg?width=140&amp;height=93&amp;auto=webp&amp;s=3679c2ed06ffa98de07f3565bb90b7d1288edfc5",
       "author": "r/photoshop · /u/Littleskystart_",
+      "score": 8,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T21:08:15.237Z"
+    },
+    {
+      "id": "reddit-3wwoqk",
+      "platform": "reddit",
+      "title": "Artistic Filters missing - 26.4.0.171",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uu3ict/artistic_filters_missing_2640171/",
+      "thumbnail": "https://preview.redd.it/c8wf7bqkqpch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f2fcb1e9064f0036f881be519e601decf65a67f",
+      "author": "r/photoshop · /u/like-the-garden",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
@@ -287,7 +287,23 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.119Z"
+      "collectedAt": "2026-07-12T21:08:15.237Z"
+    },
+    {
+      "id": "reddit-7x6ox1",
+      "platform": "reddit",
+      "title": "my photoshop crashes when i use the \"+\" in any design",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uuqshv/my_photoshop_crashes_when_i_use_the_in_any_design/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/gafikoga",
+      "score": 6,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-12T21:08:15.237Z"
     },
     {
       "id": "reddit-1xc0pyr",
@@ -296,14 +312,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1uu9lmd/newbie_here_need_help/",
       "thumbnail": "https://preview.redd.it/sha2cckfcrch1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=0cc5603ce32e1f8973c8ecf3bf753f56e0783bc8",
       "author": "r/photoshop · /u/PlentyImportant8542",
-      "score": 6,
+      "score": 5,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.119Z"
+      "collectedAt": "2026-07-12T21:08:15.237Z"
     },
     {
       "id": "reddit-1juogky",
@@ -312,14 +328,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1uui77g/layer_blend_mode_no_longer_stays_highlighted_when/",
       "thumbnail": "",
       "author": "r/photoshop · /u/Oddarette",
-      "score": 5,
+      "score": 4,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.119Z"
+      "collectedAt": "2026-07-12T21:08:15.237Z"
     },
     {
       "id": "reddit-1rlbua6",
@@ -328,14 +344,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1uuht4r/denoise_just_stopped_working_in_camera_raw/",
       "thumbnail": "",
       "author": "r/photoshop · /u/PhotoHtx",
-      "score": 4,
+      "score": 3,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.119Z"
+      "collectedAt": "2026-07-12T21:08:15.237Z"
     },
     {
       "id": "reddit-umcbpe",
@@ -344,14 +360,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1utzfmb/is_the_photoshop_bundle_on_costco_worth_it/",
       "thumbnail": "https://preview.redd.it/5xnvd523uoch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=462eaf1dc42fa9fa493186391506d2c27da91ed2",
       "author": "r/photoshop · /u/Gamerdarren",
-      "score": 3,
+      "score": 2,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T19:33:17.119Z"
+      "collectedAt": "2026-07-12T21:08:15.237Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
