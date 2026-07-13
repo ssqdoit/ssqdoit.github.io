@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T23:10:53.942Z",
+  "generatedAt": "2026-07-13T04:02:26.260Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -38,9 +38,9 @@
     {
       "id": "reddit",
       "label": "Reddit",
-      "status": "stale",
-      "message": "midjourney: JSON 403 Blocked; RSS 429 Too Many Requests; graphic_design: JSON 403 Blocked; RSS 429 Too Many Requests; StableDiffusion: JSON 403 Blocked; RSS 429 Too Many Requests; photoshop: JSON 403 Blocked; RSS 500 Internal Server Error；正在展示上次成功数据",
-      "count": 9,
+      "status": "live",
+      "message": "公开社区日榜",
+      "count": 10,
       "mode": "public-api"
     }
   ],
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2568138",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12104975,
-      "metric": "1210.5 万 热度",
+      "score": 11972476,
+      "metric": "1197.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
+      "collectedAt": "2026-07-13T04:02:26.260Z"
     },
     {
       "id": "douyin-2567069",
@@ -67,73 +67,43 @@
       "url": "https://www.douyin.com/hot/2567069",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12099968,
-      "metric": "1210.0 万 热度",
+      "score": 11966986,
+      "metric": "1196.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
+      "collectedAt": "2026-07-13T04:02:26.260Z"
     },
     {
-      "id": "douyin-2568709",
+      "id": "douyin-2569058",
       "platform": "douyin",
-      "title": "一组数据看中国经济稳中向优",
-      "url": "https://www.douyin.com/hot/2568709",
+      "title": "我国多领域解锁硬核成就",
+      "url": "https://www.douyin.com/hot/2569058",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12019949,
-      "metric": "1202.0 万 热度",
+      "score": 11409515,
+      "metric": "1141.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
+      "collectedAt": "2026-07-13T04:02:26.260Z"
     },
     {
-      "id": "douyin-2567781",
+      "id": "douyin-2569043",
       "platform": "douyin",
-      "title": "南京地铁地面及高架区段暂停运营",
-      "url": "https://www.douyin.com/hot/2567781",
+      "title": "三伏天记录我的减肥日常",
+      "url": "https://www.douyin.com/hot/2569043",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11947496,
-      "metric": "1194.7 万 热度",
+      "score": 10918997,
+      "metric": "1091.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
-    },
-    {
-      "id": "douyin-2568738",
-      "platform": "douyin",
-      "title": "善良真的会代代相传",
-      "url": "https://www.douyin.com/hot/2568738",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11178879,
-      "metric": "1117.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
-    },
-    {
-      "id": "douyin-2568025",
-      "platform": "douyin",
-      "title": "维金斯抖音直播谈字母哥加盟",
-      "url": "https://www.douyin.com/hot/2568025",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11083028,
-      "metric": "1108.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
+      "collectedAt": "2026-07-13T04:02:26.260Z"
     },
     {
       "id": "douyin-2567898",
@@ -142,43 +112,13 @@
       "url": "https://www.douyin.com/hot/2567898",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9742693,
-      "metric": "974.3 万 热度",
+      "score": 10327408,
+      "metric": "1032.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
-    },
-    {
-      "id": "douyin-2567919",
-      "platform": "douyin",
-      "title": "昆明版水上闯关太好玩了",
-      "url": "https://www.douyin.com/hot/2567919",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9616251,
-      "metric": "961.6 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
-    },
-    {
-      "id": "douyin-2568537",
-      "platform": "douyin",
-      "title": "沈阳发布停课通知",
-      "url": "https://www.douyin.com/hot/2568537",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9412307,
-      "metric": "941.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
+      "collectedAt": "2026-07-13T04:02:26.260Z"
     },
     {
       "id": "douyin-2567940",
@@ -187,187 +127,263 @@
       "url": "https://www.douyin.com/hot/2567940",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9211665,
-      "metric": "921.2 万 热度",
+      "score": 10270206,
+      "metric": "1027.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
+      "collectedAt": "2026-07-13T04:02:26.260Z"
     },
     {
-      "id": "douyin-2567980",
+      "id": "douyin-2568537",
       "platform": "douyin",
-      "title": "世界前四齐聚世界杯四强",
-      "url": "https://www.douyin.com/hot/2567980",
+      "title": "沈阳发布停课通知",
+      "url": "https://www.douyin.com/hot/2568537",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8923269,
-      "metric": "892.3 万 热度",
+      "score": 9187547,
+      "metric": "918.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
+      "collectedAt": "2026-07-13T04:02:26.260Z"
     },
     {
-      "id": "douyin-2568203",
+      "id": "douyin-2568921",
       "platform": "douyin",
-      "title": "英阿大战要来了",
-      "url": "https://www.douyin.com/hot/2568203",
+      "title": "沈阳暴雨",
+      "url": "https://www.douyin.com/hot/2568921",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8916208,
-      "metric": "891.6 万 热度",
+      "score": 9152907,
+      "metric": "915.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T23:10:53.942Z"
+      "collectedAt": "2026-07-13T04:02:26.260Z"
     },
     {
-      "id": "reddit-1f97s4x",
+      "id": "douyin-2569192",
+      "platform": "douyin",
+      "title": "A股",
+      "url": "https://www.douyin.com/hot/2569192",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9058448,
+      "metric": "905.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T04:02:26.260Z"
+    },
+    {
+      "id": "douyin-2567919",
+      "platform": "douyin",
+      "title": "昆明版水上闯关太好玩了",
+      "url": "https://www.douyin.com/hot/2567919",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9015364,
+      "metric": "901.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T04:02:26.260Z"
+    },
+    {
+      "id": "douyin-2568229",
+      "platform": "douyin",
+      "title": "黄健翔刘建宏告别哈兰德",
+      "url": "https://www.douyin.com/hot/2568229",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8740745,
+      "metric": "874.1 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T04:02:26.260Z"
+    },
+    {
+      "id": "douyin-2568501",
+      "platform": "douyin",
+      "title": "巨力索具被罚450万元",
+      "url": "https://www.douyin.com/hot/2568501",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8614076,
+      "metric": "861.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T04:02:26.260Z"
+    },
+    {
+      "id": "reddit-100azmt",
       "platform": "reddit",
-      "title": "Shoving AI in our faces at the cost of functionality",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uuc41c/shoving_ai_in_our_faces_at_the_cost_of/",
-      "thumbnail": "https://preview.redd.it/e967obof2sch1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1ebb561f546af2639eaf79b5ce00e073f2de771f",
-      "author": "r/photoshop · /u/PixelShmixel22",
+      "title": "12 mandalas — ink and gold, Chinese aesthetic",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uubnrt/12_mandalas_ink_and_gold_chinese_aesthetic/",
+      "thumbnail": "https://preview.redd.it/7exdzc7xwrch1.png?width=140&amp;height=78&amp;auto=webp&amp;s=30e31b7d5f6b08fd3ccac5656569a836a8640cf8",
+      "author": "r/midjourney · /u/WorkLucky4366",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:15.237Z"
+      "collectedAt": "2026-07-13T04:02:24.473Z"
     },
     {
-      "id": "reddit-10g8rq7",
+      "id": "reddit-5es0h1",
       "platform": "reddit",
-      "title": "ISO Advice, does this look too polished?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uuane5/iso_advice_does_this_look_too_polished/",
-      "thumbnail": "https://preview.redd.it/wzqjw9cuorch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=fbdaf44c60ad94f26527d080ee5d49698ed4a50a",
-      "author": "r/photoshop · /u/BetNumerous7932",
+      "title": "Historia Apocalyptica",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uue9r0/historia_apocalyptica/",
+      "thumbnail": "https://preview.redd.it/9u12536mmsch1.png?width=140&amp;height=140&amp;auto=webp&amp;s=ff3711de46c947b59aae44ea3571a7008394484b",
+      "author": "r/midjourney · /u/Dropdeadlegs84",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:15.237Z"
+      "collectedAt": "2026-07-13T04:02:24.473Z"
     },
     {
-      "id": "reddit-aqrutf",
+      "id": "reddit-1b6vbbo",
       "platform": "reddit",
-      "title": "Photoshop photomontage : landscape into a village / paysage transformé en village",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uualmr/photoshop_photomontage_landscape_into_a_village/",
-      "thumbnail": "https://preview.redd.it/9x007xuborch1.jpg?width=140&amp;height=93&amp;auto=webp&amp;s=3679c2ed06ffa98de07f3565bb90b7d1288edfc5",
-      "author": "r/photoshop · /u/Littleskystart_",
+      "title": "Bookwyrms",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uumjjm/bookwyrms/",
+      "thumbnail": "https://preview.redd.it/994595dp7uch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=73d9914b47b54232ae2ac68775af6b19a0dc18e6",
+      "author": "r/midjourney · /u/Zenchilada",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:15.237Z"
+      "collectedAt": "2026-07-13T04:02:24.473Z"
     },
     {
-      "id": "reddit-3wwoqk",
+      "id": "reddit-1u40uay",
       "platform": "reddit",
-      "title": "Artistic Filters missing - 26.4.0.171",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uu3ict/artistic_filters_missing_2640171/",
-      "thumbnail": "https://preview.redd.it/c8wf7bqkqpch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f2fcb1e9064f0036f881be519e601decf65a67f",
-      "author": "r/photoshop · /u/like-the-garden",
+      "title": "Same prompt, only --sref digit changed (7→9) — how much one number shifts style",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uu9dya/same_prompt_only_sref_digit_changed_79_how_much/",
+      "thumbnail": "https://preview.redd.it/c840curcbrch1.png?width=140&amp;height=78&amp;auto=webp&amp;s=7dc31b727da9d35d736dd83de88443bf74be4519",
+      "author": "r/midjourney · /u/WorkLucky4366",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:15.237Z"
+      "collectedAt": "2026-07-13T04:02:24.473Z"
     },
     {
-      "id": "reddit-7x6ox1",
+      "id": "reddit-1jdvyie",
       "platform": "reddit",
-      "title": "my photoshop crashes when i use the \"+\" in any design",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uuqshv/my_photoshop_crashes_when_i_use_the_in_any_design/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/gafikoga",
+      "title": "Sentience",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uufsgu/sentience/",
+      "thumbnail": "https://preview.redd.it/e337te3dysch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=247bfca874095a4245d08eaef9d57597b1d6dca7",
+      "author": "r/midjourney · /u/Zaicab",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:15.237Z"
+      "collectedAt": "2026-07-13T04:02:24.473Z"
     },
     {
-      "id": "reddit-1xc0pyr",
+      "id": "reddit-n7fet3",
       "platform": "reddit",
-      "title": "Newbie here. Need help",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uu9lmd/newbie_here_need_help/",
-      "thumbnail": "https://preview.redd.it/sha2cckfcrch1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=0cc5603ce32e1f8973c8ecf3bf753f56e0783bc8",
-      "author": "r/photoshop · /u/PlentyImportant8542",
+      "title": "Alien specimens",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uv0h39/alien_specimens/",
+      "thumbnail": "https://preview.redd.it/xbkydjgl4xch1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=375d8da01c30b4c4e8f22c75130b87678c25457d",
+      "author": "r/midjourney · /u/dropthedrawing",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:15.237Z"
+      "collectedAt": "2026-07-13T04:02:24.473Z"
     },
     {
-      "id": "reddit-1juogky",
+      "id": "reddit-1q57hha",
       "platform": "reddit",
-      "title": "Layer blend mode no longer stays highlighted when clicking off?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uui77g/layer_blend_mode_no_longer_stays_highlighted_when/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/Oddarette",
+      "title": "I did it again!",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uuasaj/i_did_it_again/",
+      "thumbnail": "https://preview.redd.it/pb6y6k4bqrch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=367eef4ffe56ed8ac47328d299c1e9928ff17044",
+      "author": "r/midjourney · /u/Organic_Monk6570",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:15.237Z"
+      "collectedAt": "2026-07-13T04:02:24.473Z"
     },
     {
-      "id": "reddit-1rlbua6",
+      "id": "reddit-1jfgjk8",
       "platform": "reddit",
-      "title": "Denoise just stopped working in Camera Raw",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uuht4r/denoise_just_stopped_working_in_camera_raw/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/PhotoHtx",
+      "title": "Monostich X : Glimpses (AMANDA ANASTASI) - Stanza 2",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uuxmt3/monostich_x_glimpses_amanda_anastasi_stanza_2/",
+      "thumbnail": "https://preview.redd.it/eglpmtobgwch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c354eaea8d292d05940c9c2ec5e2874dd13d3cb",
+      "author": "r/midjourney · /u/tladb",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:15.237Z"
+      "collectedAt": "2026-07-13T04:02:24.473Z"
     },
     {
-      "id": "reddit-umcbpe",
+      "id": "reddit-kh1k5p",
       "platform": "reddit",
-      "title": "Is the PhotoShop bundle on Costco worth it",
-      "url": "https://www.reddit.com/r/photoshop/comments/1utzfmb/is_the_photoshop_bundle_on_costco_worth_it/",
-      "thumbnail": "https://preview.redd.it/5xnvd523uoch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=462eaf1dc42fa9fa493186391506d2c27da91ed2",
-      "author": "r/photoshop · /u/Gamerdarren",
+      "title": "Shop",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uus6lc/shop/",
+      "thumbnail": "https://preview.redd.it/jz46dnphavch1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=f6d8771a8274266fc97db1d89f2ed69e93f222d3",
+      "author": "r/midjourney · /u/Standard-File-8187",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-12T21:08:15.237Z"
+      "collectedAt": "2026-07-13T04:02:24.473Z"
+    },
+    {
+      "id": "reddit-ozuqld",
+      "platform": "reddit",
+      "title": "Unwitting Evils",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uurxe6/unwitting_evils/",
+      "thumbnail": "https://preview.redd.it/8589w02o8vch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93e3013f6fce1831ade333fae90ed54bcf736506",
+      "author": "r/midjourney · /u/EleanorKalatheraine",
+      "score": 1,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T04:02:24.473Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
