@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T21:13:58.244Z",
+  "generatedAt": "2026-07-13T23:14:53.049Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2570019",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12092918,
-      "metric": "1209.3 万 热度",
+      "score": 12079152,
+      "metric": "1207.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
+      "collectedAt": "2026-07-13T23:14:53.049Z"
     },
     {
       "id": "douyin-2569752",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2569752",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12032558,
-      "metric": "1203.3 万 热度",
+      "score": 12001208,
+      "metric": "1200.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
+      "collectedAt": "2026-07-13T23:14:53.049Z"
     },
     {
       "id": "douyin-2569390",
@@ -82,28 +82,13 @@
       "url": "https://www.douyin.com/hot/2569390",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11583454,
-      "metric": "1158.3 万 热度",
+      "score": 11932298,
+      "metric": "1193.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
-    },
-    {
-      "id": "douyin-2570261",
-      "platform": "douyin",
-      "title": "施南生去世",
-      "url": "https://www.douyin.com/hot/2570261",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11553773,
-      "metric": "1155.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
+      "collectedAt": "2026-07-13T23:14:53.049Z"
     },
     {
       "id": "douyin-2569584",
@@ -112,13 +97,28 @@
       "url": "https://www.douyin.com/hot/2569584",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10798260,
-      "metric": "1079.8 万 热度",
+      "score": 11664962,
+      "metric": "1166.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
+      "collectedAt": "2026-07-13T23:14:53.049Z"
+    },
+    {
+      "id": "douyin-2570261",
+      "platform": "douyin",
+      "title": "施南生去世",
+      "url": "https://www.douyin.com/hot/2570261",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11051169,
+      "metric": "1105.1 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T23:14:53.049Z"
     },
     {
       "id": "douyin-2569273",
@@ -127,13 +127,13 @@
       "url": "https://www.douyin.com/hot/2569273",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10723053,
-      "metric": "1072.3 万 热度",
+      "score": 10545571,
+      "metric": "1054.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
+      "collectedAt": "2026-07-13T23:14:53.049Z"
     },
     {
       "id": "douyin-2569032",
@@ -142,13 +142,13 @@
       "url": "https://www.douyin.com/hot/2569032",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9422370,
-      "metric": "942.2 万 热度",
+      "score": 9429864,
+      "metric": "943.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
+      "collectedAt": "2026-07-13T23:14:53.049Z"
     },
     {
       "id": "douyin-2569323",
@@ -157,13 +157,13 @@
       "url": "https://www.douyin.com/hot/2569323",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9388692,
-      "metric": "938.9 万 热度",
+      "score": 9313652,
+      "metric": "931.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
+      "collectedAt": "2026-07-13T23:14:53.049Z"
     },
     {
       "id": "douyin-2569308",
@@ -172,28 +172,13 @@
       "url": "https://www.douyin.com/hot/2569308",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9241442,
-      "metric": "924.1 万 热度",
+      "score": 9185400,
+      "metric": "918.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
-    },
-    {
-      "id": "douyin-2569315",
-      "platform": "douyin",
-      "title": "这夏夯爆了",
-      "url": "https://www.douyin.com/hot/2569315",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9102345,
-      "metric": "910.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
+      "collectedAt": "2026-07-13T23:14:53.049Z"
     },
     {
       "id": "douyin-2568883",
@@ -202,13 +187,28 @@
       "url": "https://www.douyin.com/hot/2568883",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8989010,
-      "metric": "898.9 万 热度",
+      "score": 9151965,
+      "metric": "915.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
+      "collectedAt": "2026-07-13T23:14:53.049Z"
+    },
+    {
+      "id": "douyin-2569670",
+      "platform": "douyin",
+      "title": "全球首颗近存计算3D芯片发布",
+      "url": "https://www.douyin.com/hot/2569670",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9104544,
+      "metric": "910.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T23:14:53.049Z"
     },
     {
       "id": "douyin-2570046",
@@ -217,13 +217,13 @@
       "url": "https://www.douyin.com/hot/2570046",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8369817,
-      "metric": "837.0 万 热度",
+      "score": 8288996,
+      "metric": "828.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:57.824Z"
+      "collectedAt": "2026-07-13T23:14:53.049Z"
     },
     {
       "id": "reddit-i4iwrm",
@@ -239,7 +239,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:58.244Z"
+      "collectedAt": "2026-07-13T23:14:52.189Z"
     },
     {
       "id": "reddit-1p0ebua",
@@ -255,15 +255,15 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:58.244Z"
+      "collectedAt": "2026-07-13T23:14:52.189Z"
     },
     {
-      "id": "reddit-1e1nj37",
+      "id": "reddit-9q3n5v",
       "platform": "reddit",
-      "title": "New Lead designer doesn’t understand optical alignment",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uv89qm/new_lead_designer_doesnt_understand_optical/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/triphophaven",
+      "title": "fiquei impressionado com esse display da logo",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uvgxhh/fiquei_impressionado_com_esse_display_da_logo/",
+      "thumbnail": "https://preview.redd.it/4nc997fe01dh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=5c400434767ff43b1cdadf171192a984d6ec2d82",
+      "author": "r/graphic_design · /u/yiel_kaz",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
@@ -271,7 +271,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:58.244Z"
+      "collectedAt": "2026-07-13T23:14:52.189Z"
     },
     {
       "id": "reddit-1gwyln8",
@@ -287,7 +287,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:58.244Z"
+      "collectedAt": "2026-07-13T23:14:52.189Z"
     },
     {
       "id": "reddit-1nfdzu4",
@@ -303,7 +303,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:58.244Z"
+      "collectedAt": "2026-07-13T23:14:52.189Z"
     },
     {
       "id": "reddit-1gw8y3n",
@@ -319,15 +319,15 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:58.244Z"
+      "collectedAt": "2026-07-13T23:14:52.189Z"
     },
     {
-      "id": "reddit-9q3n5v",
+      "id": "reddit-178vm9q",
       "platform": "reddit",
-      "title": "fiquei impressionado com esse display da logo",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uvgxhh/fiquei_impressionado_com_esse_display_da_logo/",
-      "thumbnail": "https://preview.redd.it/4nc997fe01dh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=5c400434767ff43b1cdadf171192a984d6ec2d82",
-      "author": "r/graphic_design · /u/yiel_kaz",
+      "title": "BeHoLd tHe maSteRpieCe",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uvjx1e/behold_the_masterpiece/",
+      "thumbnail": "https://preview.redd.it/jhav3fb6j1dh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=569e05ad659bd1e72a0f76a2d00d8ed9d1506a09",
+      "author": "r/graphic_design · /u/Puzzleheaded_Loss217",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
@@ -335,7 +335,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:58.244Z"
+      "collectedAt": "2026-07-13T23:14:52.189Z"
     },
     {
       "id": "reddit-10pjhxa",
@@ -351,23 +351,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:58.244Z"
-    },
-    {
-      "id": "reddit-178vm9q",
-      "platform": "reddit",
-      "title": "BeHoLd tHe maSteRpieCe",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uvjx1e/behold_the_masterpiece/",
-      "thumbnail": "https://preview.redd.it/jhav3fb6j1dh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=569e05ad659bd1e72a0f76a2d00d8ed9d1506a09",
-      "author": "r/graphic_design · /u/Puzzleheaded_Loss217",
-      "score": 2,
-      "metric": "社区日榜",
-      "tags": [
-        "r/graphic_design",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:58.244Z"
+      "collectedAt": "2026-07-13T23:14:52.189Z"
     },
     {
       "id": "reddit-2mttpv",
@@ -376,6 +360,22 @@
       "url": "https://www.reddit.com/r/graphic_design/comments/1uuv0h5/help_please_im_doing_a_school_project_a_protest/",
       "thumbnail": "https://preview.redd.it/ri22w8kouvch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=784121fe69317401f71956a7b6ab5510bc25bdca",
       "author": "r/graphic_design · /u/Strange-Bus8049",
+      "score": 2,
+      "metric": "社区日榜",
+      "tags": [
+        "r/graphic_design",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T23:14:52.189Z"
+    },
+    {
+      "id": "reddit-2ph9y5",
+      "platform": "reddit",
+      "title": "Does this read as ‘Nash’ or just ‘ash’?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uvolik/does_this_read_as_nash_or_just_ash/",
+      "thumbnail": "https://preview.redd.it/y92y9nk0d2dh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=36084afc10a59fe43a0326a3b3e0def0944e70bb",
+      "author": "r/graphic_design · /u/HomeTownRiot",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
@@ -383,7 +383,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T21:13:58.244Z"
+      "collectedAt": "2026-07-13T23:14:52.189Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
