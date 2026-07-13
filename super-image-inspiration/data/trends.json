@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T19:51:56.694Z",
+  "generatedAt": "2026-07-13T21:13:58.244Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2570019",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12071721,
-      "metric": "1207.2 万 热度",
+      "score": 12092918,
+      "metric": "1209.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
       "id": "douyin-2569752",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2569752",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12060139,
-      "metric": "1206.0 万 热度",
+      "score": 12032558,
+      "metric": "1203.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
       "id": "douyin-2569390",
@@ -82,13 +82,13 @@
       "url": "https://www.douyin.com/hot/2569390",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11701093,
-      "metric": "1170.1 万 热度",
+      "score": 11583454,
+      "metric": "1158.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
       "id": "douyin-2570261",
@@ -97,13 +97,13 @@
       "url": "https://www.douyin.com/hot/2570261",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11431740,
-      "metric": "1143.2 万 热度",
+      "score": 11553773,
+      "metric": "1155.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
       "id": "douyin-2569584",
@@ -112,13 +112,13 @@
       "url": "https://www.douyin.com/hot/2569584",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10799027,
-      "metric": "1079.9 万 热度",
+      "score": 10798260,
+      "metric": "1079.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
       "id": "douyin-2569273",
@@ -127,13 +127,13 @@
       "url": "https://www.douyin.com/hot/2569273",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10518615,
-      "metric": "1051.9 万 热度",
+      "score": 10723053,
+      "metric": "1072.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
       "id": "douyin-2569032",
@@ -142,13 +142,13 @@
       "url": "https://www.douyin.com/hot/2569032",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9370541,
-      "metric": "937.1 万 热度",
+      "score": 9422370,
+      "metric": "942.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
       "id": "douyin-2569323",
@@ -157,13 +157,13 @@
       "url": "https://www.douyin.com/hot/2569323",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9361497,
-      "metric": "936.1 万 热度",
+      "score": 9388692,
+      "metric": "938.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
       "id": "douyin-2569308",
@@ -172,28 +172,28 @@
       "url": "https://www.douyin.com/hot/2569308",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9240900,
+      "score": 9241442,
       "metric": "924.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
-      "id": "douyin-2569670",
+      "id": "douyin-2569315",
       "platform": "douyin",
-      "title": "全球首颗近存计算3D芯片发布",
-      "url": "https://www.douyin.com/hot/2569670",
+      "title": "这夏夯爆了",
+      "url": "https://www.douyin.com/hot/2569315",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9107931,
-      "metric": "910.8 万 热度",
+      "score": 9102345,
+      "metric": "910.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
       "id": "douyin-2568883",
@@ -202,13 +202,13 @@
       "url": "https://www.douyin.com/hot/2568883",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8639622,
-      "metric": "864.0 万 热度",
+      "score": 8989010,
+      "metric": "898.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
       "id": "douyin-2570046",
@@ -217,173 +217,173 @@
       "url": "https://www.douyin.com/hot/2570046",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8023255,
-      "metric": "802.3 万 热度",
+      "score": 8369817,
+      "metric": "837.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:56.693Z"
+      "collectedAt": "2026-07-13T21:13:57.824Z"
     },
     {
-      "id": "reddit-11rvfv7",
+      "id": "reddit-i4iwrm",
       "platform": "reddit",
-      "title": "Painting for my band",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uuvbfu/painting_for_my_band/",
-      "thumbnail": "https://preview.redd.it/ck35w1azxvch1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=987c63b6d61e3a31ba0eb31728e143b7f322f28b",
-      "author": "r/photoshop · /u/eThierryal",
+      "title": "Is there an ASCII generator tool that makes line art in to ASCII like this?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uuyn9k/is_there_an_ascii_generator_tool_that_makes_line/",
+      "thumbnail": "https://preview.redd.it/ysw5z8h7pwch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5882d5a004615fee2392b0d8613e105a5fffd5c8",
+      "author": "r/graphic_design · /u/Whole-Lock-5187",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:55.527Z"
+      "collectedAt": "2026-07-13T21:13:58.244Z"
     },
     {
-      "id": "reddit-7n2gf",
+      "id": "reddit-1p0ebua",
       "platform": "reddit",
-      "title": "\"Shattered\" - Photomanipulation",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uvjdpg/shattered_photomanipulation/",
-      "thumbnail": "https://preview.redd.it/ue9hy2uye1dh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=263148036b729d0b9fdb8ac07b135f7e8f6e5f47",
-      "author": "r/photoshop · /u/ShotSock6702",
+      "title": "Apparently Wendy’s has a new wordmark.",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uvcbhq/apparently_wendys_has_a_new_wordmark/",
+      "thumbnail": "https://preview.redd.it/z0qb6s1b60dh1.jpg?width=140&amp;height=114&amp;auto=webp&amp;s=70a972419d6ec2d6e0964dff63be2c7be3acc26f",
+      "author": "r/graphic_design · /u/PossibilitySafe3828",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:55.527Z"
+      "collectedAt": "2026-07-13T21:13:58.244Z"
     },
     {
-      "id": "reddit-1y9ecf1",
+      "id": "reddit-1e1nj37",
       "platform": "reddit",
-      "title": "HELP ITS GREEN I CANT UNDO IT WHAT DO I DO",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uvd2wy/help_its_green_i_cant_undo_it_what_do_i_do/",
-      "thumbnail": "https://preview.redd.it/jck8st7gb0dh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c0c7fa1071963fae29782cf7f696ddd60360268",
-      "author": "r/photoshop · /u/im_a_silly_lil_guy",
+      "title": "New Lead designer doesn’t understand optical alignment",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uv89qm/new_lead_designer_doesnt_understand_optical/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/triphophaven",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:55.527Z"
+      "collectedAt": "2026-07-13T21:13:58.244Z"
     },
     {
-      "id": "reddit-1viqj2k",
+      "id": "reddit-1gwyln8",
       "platform": "reddit",
-      "title": "Graphic for the soccer worldcup semifinals that I made",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uvj2n5/graphic_for_the_soccer_worldcup_semifinals_that_i/",
-      "thumbnail": "https://preview.redd.it/f07mgx7sd1dh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d1b4a51a846cefb7002ad6faca1f0f60aab5357b",
-      "author": "r/photoshop · /u/EnteEnteLos",
+      "title": "Display Fonts I recently created: Open for feedback.",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uv07jf/display_fonts_i_recently_created_open_for_feedback/",
+      "thumbnail": "https://preview.redd.it/3hcn1vwq2xch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=4431eaee4985e9dfb1f18d424412f99db302e56b",
+      "author": "r/graphic_design · /u/Spiritual_Entrance13",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:55.527Z"
+      "collectedAt": "2026-07-13T21:13:58.244Z"
     },
     {
-      "id": "reddit-gpty7u",
+      "id": "reddit-1nfdzu4",
       "platform": "reddit",
-      "title": "One click and lines go everywhere",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uvhxze/one_click_and_lines_go_everywhere/",
-      "thumbnail": "https://preview.redd.it/ob60i6bu61dh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b69795e7bdc52f61a17439906b2719d8415a59f",
-      "author": "r/photoshop · /u/marty1985mcfIy",
+      "title": "Applied for fully remote full-time position, got messaged about a 3 month unpaid internship instead (UK)",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uvf7yb/applied_for_fully_remote_fulltime_position_got/",
+      "thumbnail": "https://preview.redd.it/99xvehg9p0dh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e8fdca09bfedda08f87bd30eeeb4c8bfc1388b7",
+      "author": "r/graphic_design · /u/thelaughingman_1991",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:55.527Z"
+      "collectedAt": "2026-07-13T21:13:58.244Z"
     },
     {
-      "id": "reddit-ner7ed",
+      "id": "reddit-1gw8y3n",
       "platform": "reddit",
-      "title": "Remove Renerative Prompt upon opening?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uvgrkl/remove_renerative_prompt_upon_opening/",
-      "thumbnail": "https://preview.redd.it/dvsm8glaz0dh1.png?width=140&amp;height=42&amp;auto=webp&amp;s=4f02fdb585f2dcb1c801daaa7decbb1541d013c2",
-      "author": "r/photoshop · /u/BaronVonGoodbar",
+      "title": "The Feeling of Dread",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uuy2an/the_feeling_of_dread/",
+      "thumbnail": "https://preview.redd.it/uo3azjnbkwch1.jpg?width=140&amp;height=139&amp;auto=webp&amp;s=39f2d03d76efaa3a0b73e6a1a5309acdff303a07",
+      "author": "r/graphic_design · /u/OMSCFisherman",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:55.527Z"
+      "collectedAt": "2026-07-13T21:13:58.244Z"
     },
     {
-      "id": "reddit-ju27kx",
+      "id": "reddit-9q3n5v",
       "platform": "reddit",
-      "title": "How do i achieve this less uniform type of dithering effect",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uv5yie/how_do_i_achieve_this_less_uniform_type_of/",
-      "thumbnail": "https://preview.redd.it/46nt6hjgnych1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=947e9a5866376bac0af277c3b8602f7b3c2e4738",
-      "author": "r/photoshop · /u/Adorable_Activity942",
+      "title": "fiquei impressionado com esse display da logo",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uvgxhh/fiquei_impressionado_com_esse_display_da_logo/",
+      "thumbnail": "https://preview.redd.it/4nc997fe01dh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=5c400434767ff43b1cdadf171192a984d6ec2d82",
+      "author": "r/graphic_design · /u/yiel_kaz",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:55.527Z"
+      "collectedAt": "2026-07-13T21:13:58.244Z"
     },
     {
-      "id": "reddit-q28y78",
+      "id": "reddit-10pjhxa",
       "platform": "reddit",
-      "title": "Why is my shape outlined in red?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uv0kow/why_is_my_shape_outlined_in_red/",
-      "thumbnail": "https://preview.redd.it/op4xm95p5xch1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6ce8f1ee7a286e53ce62223087159bf66cf4ccf5",
-      "author": "r/photoshop · /u/BradyBrother100",
+      "title": "Can someone convince me that making the move from creative agency to corporate in-house is a good move?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uva4j5/can_someone_convince_me_that_making_the_move_from/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/redbeanmilktea",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:55.527Z"
+      "collectedAt": "2026-07-13T21:13:58.244Z"
     },
     {
-      "id": "reddit-7x6ox1",
+      "id": "reddit-178vm9q",
       "platform": "reddit",
-      "title": "my photoshop crashes when i use the \"+\" in any design",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uuqshv/my_photoshop_crashes_when_i_use_the_in_any_design/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/gafikoga",
+      "title": "BeHoLd tHe maSteRpieCe",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uvjx1e/behold_the_masterpiece/",
+      "thumbnail": "https://preview.redd.it/jhav3fb6j1dh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=569e05ad659bd1e72a0f76a2d00d8ed9d1506a09",
+      "author": "r/graphic_design · /u/Puzzleheaded_Loss217",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:55.527Z"
+      "collectedAt": "2026-07-13T21:13:58.244Z"
     },
     {
-      "id": "reddit-2e9yt6",
+      "id": "reddit-2mttpv",
       "platform": "reddit",
-      "title": "How to import .sut brush in Photoshop?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uvb32p/how_to_import_sut_brush_in_photoshop/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/aeiou_z",
+      "title": "Help please. I’m doing a school project, a Protest Placard about Typography. I’ve got these 3 ideas but am torn which concept to pursue. Any advice or guidance please.",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uuv0h5/help_please_im_doing_a_school_project_a_protest/",
+      "thumbnail": "https://preview.redd.it/ri22w8kouvch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=784121fe69317401f71956a7b6ab5510bc25bdca",
+      "author": "r/graphic_design · /u/Strange-Bus8049",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T19:51:55.527Z"
+      "collectedAt": "2026-07-13T21:13:58.244Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
