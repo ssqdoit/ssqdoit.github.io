@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T04:02:26.260Z",
+  "generatedAt": "2026-07-13T07:41:51.115Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,49 +46,19 @@
   ],
   "items": [
     {
-      "id": "douyin-2568138",
+      "id": "douyin-2569308",
       "platform": "douyin",
-      "title": "贵州火把节已经准备就绪了",
-      "url": "https://www.douyin.com/hot/2568138",
+      "title": "今年第11号台风“海神”生成",
+      "url": "https://www.douyin.com/hot/2569308",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11972476,
-      "metric": "1197.2 万 热度",
+      "score": 12110291,
+      "metric": "1211.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
-    },
-    {
-      "id": "douyin-2567069",
-      "platform": "douyin",
-      "title": "火烧云落进千里江山图美到窒息",
-      "url": "https://www.douyin.com/hot/2567069",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11966986,
-      "metric": "1196.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
-    },
-    {
-      "id": "douyin-2569058",
-      "platform": "douyin",
-      "title": "我国多领域解锁硬核成就",
-      "url": "https://www.douyin.com/hot/2569058",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11409515,
-      "metric": "1141.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
+      "collectedAt": "2026-07-13T07:41:51.115Z"
     },
     {
       "id": "douyin-2569043",
@@ -97,43 +67,28 @@
       "url": "https://www.douyin.com/hot/2569043",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10918997,
-      "metric": "1091.9 万 热度",
+      "score": 12024521,
+      "metric": "1202.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
+      "collectedAt": "2026-07-13T07:41:51.115Z"
     },
     {
-      "id": "douyin-2567898",
+      "id": "douyin-2569102",
       "platform": "douyin",
-      "title": "用旧凉席打造岳武穆战甲",
-      "url": "https://www.douyin.com/hot/2567898",
+      "title": "我国上半年铁路客运数据出炉",
+      "url": "https://www.douyin.com/hot/2569102",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10327408,
-      "metric": "1032.7 万 热度",
+      "score": 11361501,
+      "metric": "1136.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
-    },
-    {
-      "id": "douyin-2567940",
-      "platform": "douyin",
-      "title": "酱油洗洁精拉花练习",
-      "url": "https://www.douyin.com/hot/2567940",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10270206,
-      "metric": "1027.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
+      "collectedAt": "2026-07-13T07:41:51.115Z"
     },
     {
       "id": "douyin-2568537",
@@ -142,13 +97,58 @@
       "url": "https://www.douyin.com/hot/2568537",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9187547,
-      "metric": "918.8 万 热度",
+      "score": 11102232,
+      "metric": "1110.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
+      "collectedAt": "2026-07-13T07:41:51.115Z"
+    },
+    {
+      "id": "douyin-2568761",
+      "platform": "douyin",
+      "title": "太原理工勇夺第28届CUBAL冠军",
+      "url": "https://www.douyin.com/hot/2568761",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10321511,
+      "metric": "1032.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T07:41:51.115Z"
+    },
+    {
+      "id": "douyin-2568883",
+      "platform": "douyin",
+      "title": "台风巴威减弱 大雨还要下多久",
+      "url": "https://www.douyin.com/hot/2568883",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10250368,
+      "metric": "1025.0 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T07:41:51.115Z"
+    },
+    {
+      "id": "douyin-2569315",
+      "platform": "douyin",
+      "title": "这夏夯爆了",
+      "url": "https://www.douyin.com/hot/2569315",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9106414,
+      "metric": "910.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-13T07:41:51.115Z"
     },
     {
       "id": "douyin-2568921",
@@ -157,28 +157,28 @@
       "url": "https://www.douyin.com/hot/2568921",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9152907,
-      "metric": "915.3 万 热度",
+      "score": 8761560,
+      "metric": "876.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
+      "collectedAt": "2026-07-13T07:41:51.115Z"
     },
     {
-      "id": "douyin-2569192",
+      "id": "douyin-2568107",
       "platform": "douyin",
-      "title": "A股",
-      "url": "https://www.douyin.com/hot/2569192",
+      "title": "忍不住化身一条搁浅的美人鱼",
+      "url": "https://www.douyin.com/hot/2568107",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9058448,
-      "metric": "905.8 万 热度",
+      "score": 8647737,
+      "metric": "864.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
+      "collectedAt": "2026-07-13T07:41:51.115Z"
     },
     {
       "id": "douyin-2567919",
@@ -187,203 +187,203 @@
       "url": "https://www.douyin.com/hot/2567919",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9015364,
-      "metric": "901.5 万 热度",
+      "score": 8223858,
+      "metric": "822.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
+      "collectedAt": "2026-07-13T07:41:51.115Z"
     },
     {
-      "id": "douyin-2568229",
+      "id": "douyin-2569299",
       "platform": "douyin",
-      "title": "黄健翔刘建宏告别哈兰德",
-      "url": "https://www.douyin.com/hot/2568229",
+      "title": "多人捏造散布汛情灾情谣言被拘",
+      "url": "https://www.douyin.com/hot/2569299",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8740745,
-      "metric": "874.1 万 热度",
+      "score": 8012635,
+      "metric": "801.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
+      "collectedAt": "2026-07-13T07:41:51.115Z"
     },
     {
-      "id": "douyin-2568501",
+      "id": "douyin-2568697",
       "platform": "douyin",
-      "title": "巨力索具被罚450万元",
-      "url": "https://www.douyin.com/hot/2568501",
+      "title": "吹吹山顶的风",
+      "url": "https://www.douyin.com/hot/2568697",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8614076,
-      "metric": "861.4 万 热度",
+      "score": 7815642,
+      "metric": "781.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:26.260Z"
+      "collectedAt": "2026-07-13T07:41:51.115Z"
     },
     {
-      "id": "reddit-100azmt",
+      "id": "reddit-70bn1n",
       "platform": "reddit",
-      "title": "12 mandalas — ink and gold, Chinese aesthetic",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uubnrt/12_mandalas_ink_and_gold_chinese_aesthetic/",
-      "thumbnail": "https://preview.redd.it/7exdzc7xwrch1.png?width=140&amp;height=78&amp;auto=webp&amp;s=30e31b7d5f6b08fd3ccac5656569a836a8640cf8",
-      "author": "r/midjourney · /u/WorkLucky4366",
+      "title": "Some of you make this sub reddit feel so unwelcoming",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uuhp6g/some_of_you_make_this_sub_reddit_feel_so/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Anxious_Pepper298",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:24.473Z"
+      "collectedAt": "2026-07-13T07:41:50.176Z"
     },
     {
-      "id": "reddit-5es0h1",
+      "id": "reddit-i4iwrm",
       "platform": "reddit",
-      "title": "Historia Apocalyptica",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uue9r0/historia_apocalyptica/",
-      "thumbnail": "https://preview.redd.it/9u12536mmsch1.png?width=140&amp;height=140&amp;auto=webp&amp;s=ff3711de46c947b59aae44ea3571a7008394484b",
-      "author": "r/midjourney · /u/Dropdeadlegs84",
+      "title": "Is there an ASCII generator tool that makes line art in to ASCII like this?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uuyn9k/is_there_an_ascii_generator_tool_that_makes_line/",
+      "thumbnail": "https://preview.redd.it/ysw5z8h7pwch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5882d5a004615fee2392b0d8613e105a5fffd5c8",
+      "author": "r/graphic_design · /u/Whole-Lock-5187",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:24.473Z"
+      "collectedAt": "2026-07-13T07:41:50.176Z"
     },
     {
-      "id": "reddit-1b6vbbo",
+      "id": "reddit-1gwyln8",
       "platform": "reddit",
-      "title": "Bookwyrms",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uumjjm/bookwyrms/",
-      "thumbnail": "https://preview.redd.it/994595dp7uch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=73d9914b47b54232ae2ac68775af6b19a0dc18e6",
-      "author": "r/midjourney · /u/Zenchilada",
+      "title": "Display Fonts I recently created: Open for feedback.",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uv07jf/display_fonts_i_recently_created_open_for_feedback/",
+      "thumbnail": "https://preview.redd.it/3hcn1vwq2xch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=4431eaee4985e9dfb1f18d424412f99db302e56b",
+      "author": "r/graphic_design · /u/Spiritual_Entrance13",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:24.473Z"
+      "collectedAt": "2026-07-13T07:41:50.176Z"
     },
     {
-      "id": "reddit-1u40uay",
+      "id": "reddit-1gw8y3n",
       "platform": "reddit",
-      "title": "Same prompt, only --sref digit changed (7→9) — how much one number shifts style",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uu9dya/same_prompt_only_sref_digit_changed_79_how_much/",
-      "thumbnail": "https://preview.redd.it/c840curcbrch1.png?width=140&amp;height=78&amp;auto=webp&amp;s=7dc31b727da9d35d736dd83de88443bf74be4519",
-      "author": "r/midjourney · /u/WorkLucky4366",
+      "title": "The Feeling of Dread",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uuy2an/the_feeling_of_dread/",
+      "thumbnail": "https://preview.redd.it/uo3azjnbkwch1.jpg?width=140&amp;height=139&amp;auto=webp&amp;s=39f2d03d76efaa3a0b73e6a1a5309acdff303a07",
+      "author": "r/graphic_design · /u/OMSCFisherman",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:24.473Z"
+      "collectedAt": "2026-07-13T07:41:50.176Z"
     },
     {
-      "id": "reddit-1jdvyie",
+      "id": "reddit-6lmqdq",
       "platform": "reddit",
-      "title": "Sentience",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uufsgu/sentience/",
-      "thumbnail": "https://preview.redd.it/e337te3dysch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=247bfca874095a4245d08eaef9d57597b1d6dca7",
-      "author": "r/midjourney · /u/Zaicab",
+      "title": "Ambigram Logo Concept",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uuqa72/ambigram_logo_concept/",
+      "thumbnail": "https://preview.redd.it/r24zi7a2xuch1.jpg?width=140&amp;height=70&amp;auto=webp&amp;s=a8bc7d338c73e7d8f02b1ad0379723b1232a5855",
+      "author": "r/graphic_design · /u/DigitalDowner",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:24.473Z"
+      "collectedAt": "2026-07-13T07:41:50.176Z"
     },
     {
-      "id": "reddit-n7fet3",
+      "id": "reddit-2mttpv",
       "platform": "reddit",
-      "title": "Alien specimens",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uv0h39/alien_specimens/",
-      "thumbnail": "https://preview.redd.it/xbkydjgl4xch1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=375d8da01c30b4c4e8f22c75130b87678c25457d",
-      "author": "r/midjourney · /u/dropthedrawing",
+      "title": "Help please. I’m doing a school project, a Protest Placard about Typography. I’ve got these 3 ideas but am torn which concept to pursue. Any advice or guidance please.",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uuv0h5/help_please_im_doing_a_school_project_a_protest/",
+      "thumbnail": "https://preview.redd.it/ri22w8kouvch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=784121fe69317401f71956a7b6ab5510bc25bdca",
+      "author": "r/graphic_design · /u/Strange-Bus8049",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:24.473Z"
+      "collectedAt": "2026-07-13T07:41:50.176Z"
     },
     {
-      "id": "reddit-1q57hha",
+      "id": "reddit-17yqujy",
       "platform": "reddit",
-      "title": "I did it again!",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uuasaj/i_did_it_again/",
-      "thumbnail": "https://preview.redd.it/pb6y6k4bqrch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=367eef4ffe56ed8ac47328d299c1e9928ff17044",
-      "author": "r/midjourney · /u/Organic_Monk6570",
+      "title": "Is there ever any escape from stupid/annoying clients?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uumduo/is_there_ever_any_escape_from_stupidannoying/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/hexmisdirect",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:24.473Z"
+      "collectedAt": "2026-07-13T07:41:50.176Z"
     },
     {
-      "id": "reddit-1jfgjk8",
+      "id": "reddit-1fohpu2",
       "platform": "reddit",
-      "title": "Monostich X : Glimpses (AMANDA ANASTASI) - Stanza 2",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uuxmt3/monostich_x_glimpses_amanda_anastasi_stanza_2/",
-      "thumbnail": "https://preview.redd.it/eglpmtobgwch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c354eaea8d292d05940c9c2ec5e2874dd13d3cb",
-      "author": "r/midjourney · /u/tladb",
+      "title": "Possible Work Scam?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uuvj37/possible_work_scam/",
+      "thumbnail": "https://preview.redd.it/jf2yjkebzvch1.png?width=140&amp;height=40&amp;auto=webp&amp;s=24da0b01c280924bc5c64fac56c0c3def808622c",
+      "author": "r/graphic_design · /u/BedTough8753",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:24.473Z"
+      "collectedAt": "2026-07-13T07:41:50.176Z"
     },
     {
-      "id": "reddit-kh1k5p",
+      "id": "reddit-try6xa",
       "platform": "reddit",
-      "title": "Shop",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uus6lc/shop/",
-      "thumbnail": "https://preview.redd.it/jz46dnphavch1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=f6d8771a8274266fc97db1d89f2ed69e93f222d3",
-      "author": "r/midjourney · /u/Standard-File-8187",
+      "title": "Portfolio Feedback 🙏",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uukgv6/portfolio_feedback/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/oyrutra",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:24.473Z"
+      "collectedAt": "2026-07-13T07:41:50.176Z"
     },
     {
-      "id": "reddit-ozuqld",
+      "id": "reddit-96acgw",
       "platform": "reddit",
-      "title": "Unwitting Evils",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uurxe6/unwitting_evils/",
-      "thumbnail": "https://preview.redd.it/8589w02o8vch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93e3013f6fce1831ade333fae90ed54bcf736506",
-      "author": "r/midjourney · /u/EleanorKalatheraine",
+      "title": "Logo Design of a Cafeteria (Currently studying)",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uuwcb0/logo_design_of_a_cafeteria_currently_studying/",
+      "thumbnail": "https://preview.redd.it/9sjbd0hy5wch1.png?width=140&amp;height=140&amp;auto=webp&amp;s=426ddfa96e5ddd9c2d744613969f07982490f7c0",
+      "author": "r/graphic_design · /u/Puzzleheaded_Ship657",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-13T04:02:24.473Z"
+      "collectedAt": "2026-07-13T07:41:50.176Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
