@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T11:46:13.659Z",
+  "generatedAt": "2026-07-14T14:15:37.196Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2571136",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12109041,
-      "metric": "1210.9 万 热度",
+      "score": 12118747,
+      "metric": "1211.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.658Z"
+      "collectedAt": "2026-07-14T14:15:37.196Z"
     },
     {
       "id": "douyin-2571260",
@@ -67,28 +67,28 @@
       "url": "https://www.douyin.com/hot/2571260",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11921062,
-      "metric": "1192.1 万 热度",
+      "score": 11925071,
+      "metric": "1192.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
+      "collectedAt": "2026-07-14T14:15:37.196Z"
     },
     {
-      "id": "douyin-2570974",
+      "id": "douyin-2571446",
       "platform": "douyin",
-      "title": "一分钟看懂上半年经济关键词",
-      "url": "https://www.douyin.com/hot/2570974",
+      "title": "十五五持续激活内需增长动力",
+      "url": "https://www.douyin.com/hot/2571446",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11482854,
-      "metric": "1148.3 万 热度",
+      "score": 11164387,
+      "metric": "1116.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
+      "collectedAt": "2026-07-14T14:15:37.196Z"
     },
     {
       "id": "douyin-2570577",
@@ -97,13 +97,13 @@
       "url": "https://www.douyin.com/hot/2570577",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11113164,
-      "metric": "1111.3 万 热度",
+      "score": 11131115,
+      "metric": "1113.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
+      "collectedAt": "2026-07-14T14:15:37.196Z"
     },
     {
       "id": "douyin-2571019",
@@ -112,43 +112,13 @@
       "url": "https://www.douyin.com/hot/2571019",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10538388,
-      "metric": "1053.8 万 热度",
+      "score": 10443477,
+      "metric": "1044.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
-    },
-    {
-      "id": "douyin-2570869",
-      "platform": "douyin",
-      "title": "杨瀚森打出夏季联赛最佳一战",
-      "url": "https://www.douyin.com/hot/2570869",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10507288,
-      "metric": "1050.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
-    },
-    {
-      "id": "douyin-2570947",
-      "platform": "douyin",
-      "title": "吃蛋糕不发胖的方法找到了",
-      "url": "https://www.douyin.com/hot/2570947",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9255477,
-      "metric": "925.5 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
+      "collectedAt": "2026-07-14T14:15:37.196Z"
     },
     {
       "id": "douyin-2570135",
@@ -157,28 +127,43 @@
       "url": "https://www.douyin.com/hot/2570135",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9203366,
-      "metric": "920.3 万 热度",
+      "score": 10437094,
+      "metric": "1043.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
+      "collectedAt": "2026-07-14T14:15:37.196Z"
     },
     {
-      "id": "douyin-2570543",
+      "id": "douyin-2570869",
       "platform": "douyin",
-      "title": "陈泽杯7月14日复活投票",
-      "url": "https://www.douyin.com/hot/2570543",
+      "title": "杨瀚森打出夏季联赛最佳一战",
+      "url": "https://www.douyin.com/hot/2570869",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9152759,
-      "metric": "915.3 万 热度",
+      "score": 9322669,
+      "metric": "932.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
+      "collectedAt": "2026-07-14T14:15:37.196Z"
+    },
+    {
+      "id": "douyin-2571481",
+      "platform": "douyin",
+      "title": "318最动人的是出发的勇气",
+      "url": "https://www.douyin.com/hot/2571481",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9283736,
+      "metric": "928.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-14T14:15:37.196Z"
     },
     {
       "id": "douyin-2570295",
@@ -187,13 +172,28 @@
       "url": "https://www.douyin.com/hot/2570295",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9125679,
-      "metric": "912.6 万 热度",
+      "score": 9243806,
+      "metric": "924.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
+      "collectedAt": "2026-07-14T14:15:37.196Z"
+    },
+    {
+      "id": "douyin-2570947",
+      "platform": "douyin",
+      "title": "吃蛋糕不发胖的方法找到了",
+      "url": "https://www.douyin.com/hot/2570947",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9193985,
+      "metric": "919.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-14T14:15:37.196Z"
     },
     {
       "id": "douyin-2570509",
@@ -202,188 +202,188 @@
       "url": "https://www.douyin.com/hot/2570509",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9045510,
-      "metric": "904.6 万 热度",
+      "score": 9134708,
+      "metric": "913.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
+      "collectedAt": "2026-07-14T14:15:37.196Z"
     },
     {
-      "id": "douyin-2570563",
+      "id": "douyin-2570351",
       "platform": "douyin",
-      "title": "全国文旅把户外亲子卷起来了",
-      "url": "https://www.douyin.com/hot/2570563",
+      "title": "姆巴佩确定出战西班牙",
+      "url": "https://www.douyin.com/hot/2570351",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8760485,
-      "metric": "876.0 万 热度",
+      "score": 9121057,
+      "metric": "912.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:13.659Z"
+      "collectedAt": "2026-07-14T14:15:37.196Z"
     },
     {
-      "id": "reddit-9iomvv",
+      "id": "reddit-axxrzq",
       "platform": "reddit",
-      "title": "Untitled 67",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uvy7x6/untitled_67/",
-      "thumbnail": "https://preview.redd.it/8ybirpd1g4dh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=c42504f903dd079c619a7067200556a2c1d21551",
-      "author": "r/midjourney · /u/12washingbeard",
+      "title": "Fixing AI pixel art: breakdown + source code",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uvhb4a/fixing_ai_pixel_art_breakdown_source_code/",
+      "thumbnail": "https://preview.redd.it/ogfssttz01dh1.png?width=140&amp;height=70&amp;auto=webp&amp;s=b2ec3ca69b42a5bc3a2598f13f5e7f7fc0bd8b30",
+      "author": "r/StableDiffusion · /u/HugoDzz",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:12.434Z"
+      "collectedAt": "2026-07-14T14:15:35.772Z"
     },
     {
-      "id": "reddit-1voeew8",
+      "id": "reddit-upwna0",
       "platform": "reddit",
-      "title": "Alien specimens - Pt 2",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uvvhc2/alien_specimens_pt_2/",
-      "thumbnail": "https://preview.redd.it/4yizepwds3dh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e472690b8c833072de7d3743a181eca324d4ee6a",
-      "author": "r/midjourney · /u/dropthedrawing",
+      "title": "Ideogram V4 instant and fast released by Fal",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uvm6y8/ideogram_v4_instant_and_fast_released_by_fal/",
+      "thumbnail": "https://preview.redd.it/rf3op5oyw1dh1.png?width=140&amp;height=57&amp;auto=webp&amp;s=1a31ce03f8ee76e9de4068234f1bbcfbf63e9af6",
+      "author": "r/StableDiffusion · /u/fruesome",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:12.434Z"
+      "collectedAt": "2026-07-14T14:15:35.772Z"
     },
     {
-      "id": "reddit-1tc12x0",
+      "id": "reddit-1vz2jse",
       "platform": "reddit",
-      "title": "Dinosaurs",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uvadq6/dinosaurs/",
-      "thumbnail": "https://preview.redd.it/v2fi7vy5szch1.png?width=140&amp;height=140&amp;auto=webp&amp;s=3fea694561b3916220852abbdaef865a13bc7b2c",
-      "author": "r/midjourney · /u/Sharp_Alternative845",
+      "title": "New Wan 2.1 Model variant, this time it is from Wan-AI itself",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uvfxxz/new_wan_21_model_variant_this_time_it_is_from/",
+      "thumbnail": "https://external-preview.redd.it/wJL9ErTR5d2iPYzlCQCpf_XNjJcEd0gGBqnUVGHpaso.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9eb9965c0c376b7ba533ae18950e1c7b1cedb00f",
+      "author": "r/StableDiffusion · /u/Altruistic_Heat_9531",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:12.434Z"
+      "collectedAt": "2026-07-14T14:15:35.772Z"
     },
     {
-      "id": "reddit-16zi0yi",
+      "id": "reddit-1rng62n",
       "platform": "reddit",
-      "title": "Vengeance Paladin",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uvlfrr/vengeance_paladin/",
-      "thumbnail": "https://preview.redd.it/vmrvzj6ps1dh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bfcb2681ee433efddeacbb80c70ea7432e79e7d9",
-      "author": "r/midjourney · /u/NaturalCrits",
+      "title": "I want to support Civitai, but the f'in ads are getting insane",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uw29pm/i_want_to_support_civitai_but_the_fin_ads_are/",
+      "thumbnail": "https://preview.redd.it/x05pbjpcj5dh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=141304dbe00579cd4831dccd51f857274fe614c3",
+      "author": "r/StableDiffusion · /u/Bunktavious",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:12.434Z"
+      "collectedAt": "2026-07-14T14:15:35.772Z"
     },
     {
-      "id": "reddit-1f47h4h",
+      "id": "reddit-1q487w1",
       "platform": "reddit",
-      "title": "Misc. images.",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uvvybk/misc_images/",
-      "thumbnail": "https://preview.redd.it/08085y6uv3dh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=5c0bd2cbd3fe0ba96f553f847774a24c9a1ae4b8",
-      "author": "r/midjourney · /u/Lopsided-Ad-1858",
+      "title": "LTX 2.3 IC LORA - 3D to REAL",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uvlpvx/ltx_23_ic_lora_3d_to_real/",
+      "thumbnail": "https://external-preview.redd.it/NGMzcno2b2J1MWRoMbtxTGN0M39dvnPculWTa0li4nYbDqqKGuq5grgqF-GB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=115c264134b1893a6cdca2d5b9a013a4d03f1514",
+      "author": "r/StableDiffusion · /u/smereces",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:12.434Z"
+      "collectedAt": "2026-07-14T14:15:35.772Z"
     },
     {
-      "id": "reddit-uuh1vf",
+      "id": "reddit-rq9vw8",
       "platform": "reddit",
-      "title": "FOLLOWERS OF BAAL",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uvo2lh/followers_of_baal/",
-      "thumbnail": "https://preview.redd.it/m6hq0t2a92dh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=c23a281508b3e25e9aecee79f501644cbc367b7b",
-      "author": "r/midjourney · /u/GaryWray",
+      "title": "Cross-Comparing ZIT, Krea2T and Ideogram 4 (First Images are Real Photography)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uvxo6j/crosscomparing_zit_krea2t_and_ideogram_4_first/",
+      "thumbnail": "https://preview.redd.it/0bsvzaj1b4dh1.png?width=140&amp;height=48&amp;auto=webp&amp;s=4f91de34e467aa15d2f1863b0bd2e2d638a09311",
+      "author": "r/StableDiffusion · /u/Feeling-Following-97",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:12.434Z"
+      "collectedAt": "2026-07-14T14:15:35.772Z"
     },
     {
-      "id": "reddit-1udyld9",
+      "id": "reddit-q9q5gx",
       "platform": "reddit",
-      "title": "Thick paint series",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uw4ybc/thick_paint_series/",
-      "thumbnail": "https://preview.redd.it/isd38cdbb6dh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=b2e3036beb5ab4307323f57d38a93a3de8ce3dee",
-      "author": "r/midjourney · /u/Shopstumblergurl",
+      "title": "Check your Load Image Nodes",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uvktf5/check_your_load_image_nodes/",
+      "thumbnail": "",
+      "author": "r/StableDiffusion · /u/BeyondRealityFW",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:12.434Z"
+      "collectedAt": "2026-07-14T14:15:35.772Z"
     },
     {
-      "id": "reddit-vonje0",
+      "id": "reddit-jrp6bj",
       "platform": "reddit",
-      "title": "Relaxed",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uvhz3l/relaxed/",
-      "thumbnail": "https://preview.redd.it/tilkgt5071dh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=3d59df113c20c8718c570239e7c01695bfb08daf",
-      "author": "r/midjourney · /u/CrookedtalePirates",
+      "title": "An experiment I made with Ideogram V4 and a custom trained LoRa",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uvmlpt/an_experiment_i_made_with_ideogram_v4_and_a/",
+      "thumbnail": "https://preview.redd.it/tdgkgeqjz1dh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=9aea15694713d50a58735d408bafe0a154b5d66e",
+      "author": "r/StableDiffusion · /u/Much_Can_4610",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:12.434Z"
+      "collectedAt": "2026-07-14T14:15:35.772Z"
     },
     {
-      "id": "reddit-1yhkegf",
+      "id": "reddit-1k5celr",
       "platform": "reddit",
-      "title": "Patrol",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uvatms/patrol/",
-      "thumbnail": "https://preview.redd.it/ql0b15zovzch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=471aedd48719deb5eed7eb230a0499127785c0f4",
-      "author": "r/midjourney · /u/Zaicab",
+      "title": "I spent 25 years doing film/commercial VFX. I built a free, open-source video editor where ComfyUI is the generation engine",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uvk1u8/i_spent_25_years_doing_filmcommercial_vfx_i_built/",
+      "thumbnail": "https://preview.redd.it/7wpe71xza1dh1.png?width=140&amp;height=75&amp;auto=webp&amp;s=d4bedf0eac32b9e0d42ac52afc73cea8eef62f79",
+      "author": "r/StableDiffusion · /u/VisualFXMan",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:12.434Z"
+      "collectedAt": "2026-07-14T14:15:35.772Z"
     },
     {
-      "id": "reddit-ba4osv",
+      "id": "reddit-1g7nj5x",
       "platform": "reddit",
-      "title": "Tales of Aztleau - Hide and Seek",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uvlort/tales_of_aztleau_hide_and_seek/",
-      "thumbnail": "https://external-preview.redd.it/azd0ZWgwM2J1MWRoMS-lPmdSfRl1gnZLl6YVCk9qdnTnGE2gaWDn0UC6O_A7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=63e45279e9637f5db28557cbd4041efe3e18c447",
-      "author": "r/midjourney · /u/Advanced-Power-1775",
+      "title": "Seedvr2 comfy native int8 convrot 3b, 7b, 7b sharp (2x, 4x)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uvd2gi/seedvr2_comfy_native_int8_convrot_3b_7b_7b_sharp/",
+      "thumbnail": "https://preview.redd.it/ngnhae3ha0dh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=8cabb480e4f604b6585bb2cf43d4677f79eaa507",
+      "author": "r/StableDiffusion · /u/Ant_6431",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-14T11:46:12.434Z"
+      "collectedAt": "2026-07-14T14:15:35.772Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
