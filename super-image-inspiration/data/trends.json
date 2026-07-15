@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T11:53:27.219Z",
+  "generatedAt": "2026-07-15T14:12:38.024Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2571945",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12119463,
-      "metric": "1211.9 万 热度",
+      "score": 12109830,
+      "metric": "1211.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
+      "collectedAt": "2026-07-15T14:12:38.024Z"
     },
     {
       "id": "douyin-2572095",
@@ -67,28 +67,28 @@
       "url": "https://www.douyin.com/hot/2572095",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12095891,
-      "metric": "1209.6 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
-    },
-    {
-      "id": "douyin-2572339",
-      "platform": "douyin",
-      "title": "上半年中国拿下N个世界第一",
-      "url": "https://www.douyin.com/hot/2572339",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12094915,
+      "score": 12094789,
       "metric": "1209.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
+      "collectedAt": "2026-07-15T14:12:38.024Z"
+    },
+    {
+      "id": "douyin-2572825",
+      "platform": "douyin",
+      "title": "四字解读中国经济上半年成绩单",
+      "url": "https://www.douyin.com/hot/2572825",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 12087124,
+      "metric": "1208.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T14:12:38.024Z"
     },
     {
       "id": "douyin-2572485",
@@ -97,13 +97,13 @@
       "url": "https://www.douyin.com/hot/2572485",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11975436,
-      "metric": "1197.5 万 热度",
+      "score": 11859274,
+      "metric": "1185.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
+      "collectedAt": "2026-07-15T14:12:38.024Z"
     },
     {
       "id": "douyin-2571670",
@@ -112,28 +112,13 @@
       "url": "https://www.douyin.com/hot/2571670",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10805886,
-      "metric": "1080.6 万 热度",
+      "score": 10784628,
+      "metric": "1078.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
-    },
-    {
-      "id": "douyin-2571706",
-      "platform": "douyin",
-      "title": "未成年如何申领网号网证",
-      "url": "https://www.douyin.com/hot/2571706",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10553598,
-      "metric": "1055.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
+      "collectedAt": "2026-07-15T14:12:38.024Z"
     },
     {
       "id": "douyin-2572292",
@@ -142,13 +127,13 @@
       "url": "https://www.douyin.com/hot/2572292",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9426958,
-      "metric": "942.7 万 热度",
+      "score": 10531508,
+      "metric": "1053.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
+      "collectedAt": "2026-07-15T14:12:38.024Z"
     },
     {
       "id": "douyin-2572331",
@@ -157,13 +142,13 @@
       "url": "https://www.douyin.com/hot/2572331",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9235185,
-      "metric": "923.5 万 热度",
+      "score": 9133893,
+      "metric": "913.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
+      "collectedAt": "2026-07-15T14:12:38.024Z"
     },
     {
       "id": "douyin-2570366",
@@ -172,43 +157,13 @@
       "url": "https://www.douyin.com/hot/2570366",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9179263,
-      "metric": "917.9 万 热度",
+      "score": 9040173,
+      "metric": "904.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
-    },
-    {
-      "id": "douyin-2572596",
-      "platform": "douyin",
-      "title": "长鑫科技打新明日来袭",
-      "url": "https://www.douyin.com/hot/2572596",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9178018,
-      "metric": "917.8 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
-    },
-    {
-      "id": "douyin-2572132",
-      "platform": "douyin",
-      "title": "星穹铁道姬子启行上线",
-      "url": "https://www.douyin.com/hot/2572132",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9138574,
-      "metric": "913.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
+      "collectedAt": "2026-07-15T14:12:38.024Z"
     },
     {
       "id": "douyin-2572075",
@@ -217,13 +172,58 @@
       "url": "https://www.douyin.com/hot/2572075",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9108767,
-      "metric": "910.9 万 热度",
+      "score": 9036061,
+      "metric": "903.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:27.218Z"
+      "collectedAt": "2026-07-15T14:12:38.024Z"
+    },
+    {
+      "id": "douyin-2572596",
+      "platform": "douyin",
+      "title": "长鑫科技打新明日来袭",
+      "url": "https://www.douyin.com/hot/2572596",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8973827,
+      "metric": "897.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T14:12:38.024Z"
+    },
+    {
+      "id": "douyin-2572811",
+      "platform": "douyin",
+      "title": "维金斯招牌扣篮重出江湖",
+      "url": "https://www.douyin.com/hot/2572811",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8949165,
+      "metric": "894.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T14:12:38.024Z"
+    },
+    {
+      "id": "douyin-2572737",
+      "platform": "douyin",
+      "title": "陈泽杯S2半决赛名单",
+      "url": "https://www.douyin.com/hot/2572737",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8867183,
+      "metric": "886.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T14:12:38.024Z"
     },
     {
       "id": "reddit-o3q2bt",
@@ -239,7 +239,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:26.129Z"
+      "collectedAt": "2026-07-15T14:12:36.397Z"
     },
     {
       "id": "reddit-1pbn2h8",
@@ -255,7 +255,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:26.129Z"
+      "collectedAt": "2026-07-15T14:12:36.397Z"
     },
     {
       "id": "reddit-4aqxuc",
@@ -271,7 +271,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:26.129Z"
+      "collectedAt": "2026-07-15T14:12:36.397Z"
     },
     {
       "id": "reddit-k99ku9",
@@ -287,23 +287,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:26.129Z"
-    },
-    {
-      "id": "reddit-1yl6o5t",
-      "platform": "reddit",
-      "title": "Fallz",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uwnnyn/fallz/",
-      "thumbnail": "https://preview.redd.it/2k6smn9rv9dh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=a72b620c0b3844d2d2c52f680e5e6c70196b881c",
-      "author": "r/midjourney · /u/Standard-File-8187",
-      "score": 6,
-      "metric": "社区日榜",
-      "tags": [
-        "r/midjourney",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:26.129Z"
+      "collectedAt": "2026-07-15T14:12:36.397Z"
     },
     {
       "id": "reddit-183urut",
@@ -312,14 +296,14 @@
       "url": "https://www.reddit.com/r/midjourney/comments/1uwvg5x/sky_lounge/",
       "thumbnail": "https://preview.redd.it/1wowp5yhmbdh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=edb8217d1698bcd6b734ea00625ea00378c74bda",
       "author": "r/midjourney · /u/Standard-File-8187",
-      "score": 5,
+      "score": 6,
       "metric": "社区日榜",
       "tags": [
         "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:26.129Z"
+      "collectedAt": "2026-07-15T14:12:36.397Z"
     },
     {
       "id": "reddit-1sp3b4a",
@@ -328,6 +312,22 @@
       "url": "https://www.reddit.com/r/midjourney/comments/1ux1ofa/inside_the_cathedral/",
       "thumbnail": "https://preview.redd.it/84ifi6k7cddh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=92673bb442f3d2bcfe33931746f8b6c03ed823b7",
       "author": "r/midjourney · /u/Zaicab",
+      "score": 5,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T14:12:36.397Z"
+    },
+    {
+      "id": "reddit-1yl6o5t",
+      "platform": "reddit",
+      "title": "Fallz",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uwnnyn/fallz/",
+      "thumbnail": "https://preview.redd.it/2k6smn9rv9dh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=a72b620c0b3844d2d2c52f680e5e6c70196b881c",
+      "author": "r/midjourney · /u/Standard-File-8187",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
@@ -335,7 +335,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:26.129Z"
+      "collectedAt": "2026-07-15T14:12:36.397Z"
     },
     {
       "id": "reddit-q52r0t",
@@ -351,15 +351,15 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:26.129Z"
+      "collectedAt": "2026-07-15T14:12:36.397Z"
     },
     {
-      "id": "reddit-1rm1own",
+      "id": "reddit-1dcdorm",
       "platform": "reddit",
-      "title": "Pan American Stratoliner",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uw7hiz/pan_american_stratoliner/",
-      "thumbnail": "https://preview.redd.it/v39qrhp1x6dh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb24e18b4d7fbd79cfd0ab34307414cd5dd4e44c",
-      "author": "r/midjourney · /u/Zaicab",
+      "title": "Insect influence",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uwyt3i/insect_influence/",
+      "thumbnail": "https://preview.redd.it/u9vdrzrwicdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a3a4e6ff416c7e9d03141546bad66fea756555e",
+      "author": "r/midjourney · /u/EleanorKalatheraine",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
@@ -367,7 +367,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:26.129Z"
+      "collectedAt": "2026-07-15T14:12:36.397Z"
     },
     {
       "id": "reddit-lmqi86",
@@ -383,7 +383,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T11:53:26.129Z"
+      "collectedAt": "2026-07-15T14:12:36.397Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
