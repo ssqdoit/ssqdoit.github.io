@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T10:16:31.310Z",
+  "generatedAt": "2026-07-15T11:53:27.219Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2571945",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12105821,
-      "metric": "1210.6 万 热度",
+      "score": 12119463,
+      "metric": "1211.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
+      "collectedAt": "2026-07-15T11:53:27.218Z"
     },
     {
       "id": "douyin-2572095",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2572095",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12099428,
-      "metric": "1209.9 万 热度",
+      "score": 12095891,
+      "metric": "1209.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
+      "collectedAt": "2026-07-15T11:53:27.218Z"
     },
     {
       "id": "douyin-2572339",
@@ -82,103 +82,13 @@
       "url": "https://www.douyin.com/hot/2572339",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12074555,
-      "metric": "1207.5 万 热度",
+      "score": 12094915,
+      "metric": "1209.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
-    },
-    {
-      "id": "douyin-2571670",
-      "platform": "douyin",
-      "title": "今日入伏",
-      "url": "https://www.douyin.com/hot/2571670",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12048157,
-      "metric": "1204.8 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
-    },
-    {
-      "id": "douyin-2572292",
-      "platform": "douyin",
-      "title": "抖火杯S3投票开启",
-      "url": "https://www.douyin.com/hot/2572292",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10739826,
-      "metric": "1074.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
-    },
-    {
-      "id": "douyin-2571706",
-      "platform": "douyin",
-      "title": "未成年如何申领网号网证",
-      "url": "https://www.douyin.com/hot/2571706",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10652470,
-      "metric": "1065.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
-    },
-    {
-      "id": "douyin-2570366",
-      "platform": "douyin",
-      "title": "日常不费力的复古氛围感穿搭",
-      "url": "https://www.douyin.com/hot/2570366",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9474238,
-      "metric": "947.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
-    },
-    {
-      "id": "douyin-2572331",
-      "platform": "douyin",
-      "title": "87版红楼梦刘姥姥扮演者去世",
-      "url": "https://www.douyin.com/hot/2572331",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9412306,
-      "metric": "941.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
-    },
-    {
-      "id": "douyin-2570947",
-      "platform": "douyin",
-      "title": "吃蛋糕不发胖的方法找到了",
-      "url": "https://www.douyin.com/hot/2570947",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9379019,
-      "metric": "937.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
+      "collectedAt": "2026-07-15T11:53:27.218Z"
     },
     {
       "id": "douyin-2572485",
@@ -187,28 +97,103 @@
       "url": "https://www.douyin.com/hot/2572485",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9164409,
-      "metric": "916.4 万 热度",
+      "score": 11975436,
+      "metric": "1197.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
+      "collectedAt": "2026-07-15T11:53:27.218Z"
     },
     {
-      "id": "douyin-2571581",
+      "id": "douyin-2571670",
       "platform": "douyin",
-      "title": "长鑫科技发行价确定为8.66元",
-      "url": "https://www.douyin.com/hot/2571581",
+      "title": "今日入伏",
+      "url": "https://www.douyin.com/hot/2571670",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9160829,
-      "metric": "916.1 万 热度",
+      "score": 10805886,
+      "metric": "1080.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
+      "collectedAt": "2026-07-15T11:53:27.218Z"
+    },
+    {
+      "id": "douyin-2571706",
+      "platform": "douyin",
+      "title": "未成年如何申领网号网证",
+      "url": "https://www.douyin.com/hot/2571706",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10553598,
+      "metric": "1055.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T11:53:27.218Z"
+    },
+    {
+      "id": "douyin-2572292",
+      "platform": "douyin",
+      "title": "抖火杯S3投票开启",
+      "url": "https://www.douyin.com/hot/2572292",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9426958,
+      "metric": "942.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T11:53:27.218Z"
+    },
+    {
+      "id": "douyin-2572331",
+      "platform": "douyin",
+      "title": "87版红楼梦刘姥姥扮演者去世",
+      "url": "https://www.douyin.com/hot/2572331",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9235185,
+      "metric": "923.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T11:53:27.218Z"
+    },
+    {
+      "id": "douyin-2570366",
+      "platform": "douyin",
+      "title": "日常不费力的复古氛围感穿搭",
+      "url": "https://www.douyin.com/hot/2570366",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9179263,
+      "metric": "917.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T11:53:27.218Z"
+    },
+    {
+      "id": "douyin-2572596",
+      "platform": "douyin",
+      "title": "长鑫科技打新明日来袭",
+      "url": "https://www.douyin.com/hot/2572596",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9178018,
+      "metric": "917.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T11:53:27.218Z"
     },
     {
       "id": "douyin-2572132",
@@ -217,173 +202,188 @@
       "url": "https://www.douyin.com/hot/2572132",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9150486,
-      "metric": "915.0 万 热度",
+      "score": 9138574,
+      "metric": "913.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:31.310Z"
+      "collectedAt": "2026-07-15T11:53:27.218Z"
     },
     {
-      "id": "reddit-1176ta1",
+      "id": "douyin-2572075",
+      "platform": "douyin",
+      "title": "国台办回应两岸统一时间",
+      "url": "https://www.douyin.com/hot/2572075",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9108767,
+      "metric": "910.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T11:53:27.218Z"
+    },
+    {
+      "id": "reddit-o3q2bt",
       "platform": "reddit",
-      "title": "How many times have you made a mistake that went to print?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uwoubi/how_many_times_have_you_made_a_mistake_that_went/",
-      "thumbnail": "https://preview.redd.it/qys9boj34adh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b7e8e9568aff9fac64d9868e02c383b0ffea27a",
-      "author": "r/graphic_design · /u/Sleepy_Kidd",
+      "title": "Angelic Visions",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uwx3hp/angelic_visions/",
+      "thumbnail": "https://external-preview.redd.it/MDYzY2kwZDAyY2RoMYzmka_7xzNGZUuhwtyUMRJUdE5RIRw5MPwoyrvDbLt7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=67679b1a8d588a073d6d3137096a1933a8282f76",
+      "author": "r/midjourney · /u/MysticLinear",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:29.554Z"
+      "collectedAt": "2026-07-15T11:53:26.129Z"
     },
     {
-      "id": "reddit-1nb2j5b",
+      "id": "reddit-1pbn2h8",
       "platform": "reddit",
-      "title": "Adobe Stock is Slop",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uwkb3c/adobe_stock_is_slop/",
-      "thumbnail": "https://preview.redd.it/d2oro0cs89dh1.png?width=140&amp;height=82&amp;auto=webp&amp;s=7df1dc04c4b12b242c2e3fde88830f0fa1dae6ca",
-      "author": "r/graphic_design · /u/orcaraptor",
+      "title": "Life in Another world",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uwancv/life_in_another_world/",
+      "thumbnail": "https://preview.redd.it/3e9n5m85j7dh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=cf04b63cb332fa211a4f8c33966a68ed10f01a50",
+      "author": "r/midjourney · /u/Sharp_Alternative845",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:29.554Z"
+      "collectedAt": "2026-07-15T11:53:26.129Z"
     },
     {
-      "id": "reddit-6id3k5",
+      "id": "reddit-4aqxuc",
       "platform": "reddit",
-      "title": "I am working on a personal project to refresh Amtrak's branding. Any thoughts or feedback welcomed",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uwckx0/i_am_working_on_a_personal_project_to_refresh/",
-      "thumbnail": "https://preview.redd.it/l5ml4iwbv7dh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=bb4bc42ed96be6e80231bd1f8742ae87cda4eef7",
-      "author": "r/graphic_design · /u/Donghoon",
+      "title": "Age of Ruin #163",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uwy0sx/age_of_ruin_163/",
+      "thumbnail": "https://preview.redd.it/f4kp9dm2bcdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=5312f322041a63efa7e70b0c6cf510e050e603eb",
+      "author": "r/midjourney · /u/Slave_Human",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:29.554Z"
+      "collectedAt": "2026-07-15T11:53:26.129Z"
     },
     {
-      "id": "reddit-1yb4vz5",
+      "id": "reddit-k99ku9",
       "platform": "reddit",
-      "title": "Another bad consequence of AI: It's even harder now to make people understand the importance and need for concept development.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uwd6xq/another_bad_consequence_of_ai_its_even_harder_now/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/laranjacerola",
+      "title": "The Sanctuary Tapes: The Sorceress (Diablo 2 Found Footage)",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uwiqr0/the_sanctuary_tapes_the_sorceress_diablo_2_found/",
+      "thumbnail": "https://external-preview.redd.it/cXJhYjZoNWh5OGRoMcDje26paHRJ53mJp3bGToS0qljjvxp-4IIVjCp7CPgy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1709eb987ec28353ec2710ec2969b1d66aae4c6d",
+      "author": "r/midjourney · /u/dhbs90",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:29.554Z"
+      "collectedAt": "2026-07-15T11:53:26.129Z"
     },
     {
-      "id": "reddit-wncuyq",
+      "id": "reddit-1yl6o5t",
       "platform": "reddit",
-      "title": "As a Graphic Designer, should my resume look generic?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uw6l86/as_a_graphic_designer_should_my_resume_look/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/CJ5Media",
+      "title": "Fallz",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uwnnyn/fallz/",
+      "thumbnail": "https://preview.redd.it/2k6smn9rv9dh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=a72b620c0b3844d2d2c52f680e5e6c70196b881c",
+      "author": "r/midjourney · /u/Standard-File-8187",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:29.554Z"
+      "collectedAt": "2026-07-15T11:53:26.129Z"
     },
     {
-      "id": "reddit-18qpe3w",
+      "id": "reddit-183urut",
       "platform": "reddit",
-      "title": "[Critique] Looking for Art Director/Senior Designer feedback on my editorial layout (Typography & Composition)",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uw7ipg/critique_looking_for_art_directorsenior_designer/",
-      "thumbnail": "https://preview.redd.it/fjubneabx6dh1.jpg?width=140&amp;height=63&amp;auto=webp&amp;s=8a2aa754b490faa0a854ace33e7efaaeea37a737",
-      "author": "r/graphic_design · /u/shelter-1192",
+      "title": "Sky Lounge",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uwvg5x/sky_lounge/",
+      "thumbnail": "https://preview.redd.it/1wowp5yhmbdh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=edb8217d1698bcd6b734ea00625ea00378c74bda",
+      "author": "r/midjourney · /u/Standard-File-8187",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:29.554Z"
+      "collectedAt": "2026-07-15T11:53:26.129Z"
     },
     {
-      "id": "reddit-130nyw2",
+      "id": "reddit-1sp3b4a",
       "platform": "reddit",
-      "title": "For elder designers: transitioning after years of freelance work",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uwcumt/for_elder_designers_transitioning_after_years_of/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/schmighaar",
+      "title": "Inside the cathedral",
+      "url": "https://www.reddit.com/r/midjourney/comments/1ux1ofa/inside_the_cathedral/",
+      "thumbnail": "https://preview.redd.it/84ifi6k7cddh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=92673bb442f3d2bcfe33931746f8b6c03ed823b7",
+      "author": "r/midjourney · /u/Zaicab",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:29.554Z"
+      "collectedAt": "2026-07-15T11:53:26.129Z"
     },
     {
-      "id": "reddit-13yivq1",
+      "id": "reddit-q52r0t",
       "platform": "reddit",
-      "title": "Need advice on how to improve gig posters",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uw9r5s/need_advice_on_how_to_improve_gig_posters/",
-      "thumbnail": "https://preview.redd.it/4e3bs7y7d7dh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=50787e74d9c39fa528ead1d5f630e44ec850d71d",
-      "author": "r/graphic_design · /u/SeagullByTheWindow",
+      "title": "Tropical",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uwqpaf/tropical/",
+      "thumbnail": "https://preview.redd.it/10wuvp6eiadh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=06cab25b3693b8d9f2cc67f67650f310c18e8907",
+      "author": "r/midjourney · /u/Standard-File-8187",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:29.554Z"
+      "collectedAt": "2026-07-15T11:53:26.129Z"
     },
     {
-      "id": "reddit-1v482wn",
+      "id": "reddit-1rm1own",
       "platform": "reddit",
-      "title": "Logo Critique",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uwtxnw/logo_critique/",
-      "thumbnail": "https://preview.redd.it/93695j2b3bdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca5b5dbae91e40707ea8fa809899ae4339d2ac73",
-      "author": "r/graphic_design · /u/Full_Childhood5366",
+      "title": "Pan American Stratoliner",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uw7hiz/pan_american_stratoliner/",
+      "thumbnail": "https://preview.redd.it/v39qrhp1x6dh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb24e18b4d7fbd79cfd0ab34307414cd5dd4e44c",
+      "author": "r/midjourney · /u/Zaicab",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:29.554Z"
+      "collectedAt": "2026-07-15T11:53:26.129Z"
     },
     {
-      "id": "reddit-w0j7n5",
+      "id": "reddit-lmqi86",
       "platform": "reddit",
-      "title": "Poster / Manual combo i designed for a Side Table",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uwyhi1/poster_manual_combo_i_designed_for_a_side_table/",
-      "thumbnail": "https://preview.redd.it/mfklye3hfcdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=8d6f023f017ab979979d48e4211ec07a1f10ba1a",
-      "author": "r/graphic_design · /u/julitec",
+      "title": "Nowhere, Japan.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uwhkk4/nowhere_japan/",
+      "thumbnail": "https://preview.redd.it/sgquoui0r8dh1.jpg?width=140&amp;height=60&amp;auto=webp&amp;s=79c7fd29de39c8b3df2cef5d08c857c12e01cf5d",
+      "author": "r/midjourney · /u/Mordrat_The_Grey",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T10:16:29.554Z"
+      "collectedAt": "2026-07-15T11:53:26.129Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
