@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T14:12:38.024Z",
+  "generatedAt": "2026-07-15T15:53:14.020Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,34 +46,34 @@
   ],
   "items": [
     {
-      "id": "douyin-2571945",
-      "platform": "douyin",
-      "title": "暑假学习做饭成果展",
-      "url": "https://www.douyin.com/hot/2571945",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12109830,
-      "metric": "1211.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
-    },
-    {
       "id": "douyin-2572095",
       "platform": "douyin",
       "title": "感受云南菌子的N种打开方式",
       "url": "https://www.douyin.com/hot/2572095",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12094789,
-      "metric": "1209.5 万 热度",
+      "score": 12038113,
+      "metric": "1203.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
+      "collectedAt": "2026-07-15T15:53:14.020Z"
+    },
+    {
+      "id": "douyin-2571945",
+      "platform": "douyin",
+      "title": "暑假学习做饭成果展",
+      "url": "https://www.douyin.com/hot/2571945",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11846349,
+      "metric": "1184.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T15:53:14.020Z"
     },
     {
       "id": "douyin-2572825",
@@ -82,13 +82,28 @@
       "url": "https://www.douyin.com/hot/2572825",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12087124,
-      "metric": "1208.7 万 热度",
+      "score": 11770692,
+      "metric": "1177.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
+      "collectedAt": "2026-07-15T15:53:14.020Z"
+    },
+    {
+      "id": "douyin-2572453",
+      "platform": "douyin",
+      "title": "英格兰vs阿根廷",
+      "url": "https://www.douyin.com/hot/2572453",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11102131,
+      "metric": "1110.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T15:53:14.020Z"
     },
     {
       "id": "douyin-2572485",
@@ -97,13 +112,13 @@
       "url": "https://www.douyin.com/hot/2572485",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11859274,
-      "metric": "1185.9 万 热度",
+      "score": 10445925,
+      "metric": "1044.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
+      "collectedAt": "2026-07-15T15:53:14.020Z"
     },
     {
       "id": "douyin-2571670",
@@ -112,28 +127,13 @@
       "url": "https://www.douyin.com/hot/2571670",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10784628,
-      "metric": "1078.5 万 热度",
+      "score": 10412482,
+      "metric": "1041.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
-    },
-    {
-      "id": "douyin-2572292",
-      "platform": "douyin",
-      "title": "抖火杯S3投票开启",
-      "url": "https://www.douyin.com/hot/2572292",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10531508,
-      "metric": "1053.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
+      "collectedAt": "2026-07-15T15:53:14.020Z"
     },
     {
       "id": "douyin-2572331",
@@ -142,13 +142,13 @@
       "url": "https://www.douyin.com/hot/2572331",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9133893,
-      "metric": "913.4 万 热度",
+      "score": 9187796,
+      "metric": "918.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
+      "collectedAt": "2026-07-15T15:53:14.020Z"
     },
     {
       "id": "douyin-2570366",
@@ -157,13 +157,58 @@
       "url": "https://www.douyin.com/hot/2570366",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9040173,
-      "metric": "904.0 万 热度",
+      "score": 8938028,
+      "metric": "893.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
+      "collectedAt": "2026-07-15T15:53:14.020Z"
+    },
+    {
+      "id": "douyin-2572292",
+      "platform": "douyin",
+      "title": "抖火杯S3投票开启",
+      "url": "https://www.douyin.com/hot/2572292",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8691321,
+      "metric": "869.1 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T15:53:14.020Z"
+    },
+    {
+      "id": "douyin-2572906",
+      "platform": "douyin",
+      "title": "三个“最能打的”跳上手势舞了",
+      "url": "https://www.douyin.com/hot/2572906",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8679091,
+      "metric": "867.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T15:53:14.020Z"
+    },
+    {
+      "id": "douyin-2572132",
+      "platform": "douyin",
+      "title": "星穹铁道姬子启行上线",
+      "url": "https://www.douyin.com/hot/2572132",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8288280,
+      "metric": "828.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-15T15:53:14.020Z"
     },
     {
       "id": "douyin-2572075",
@@ -172,218 +217,173 @@
       "url": "https://www.douyin.com/hot/2572075",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9036061,
-      "metric": "903.6 万 热度",
+      "score": 8233473,
+      "metric": "823.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
+      "collectedAt": "2026-07-15T15:53:14.020Z"
     },
     {
-      "id": "douyin-2572596",
-      "platform": "douyin",
-      "title": "长鑫科技打新明日来袭",
-      "url": "https://www.douyin.com/hot/2572596",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8973827,
-      "metric": "897.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
-    },
-    {
-      "id": "douyin-2572811",
-      "platform": "douyin",
-      "title": "维金斯招牌扣篮重出江湖",
-      "url": "https://www.douyin.com/hot/2572811",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8949165,
-      "metric": "894.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
-    },
-    {
-      "id": "douyin-2572737",
-      "platform": "douyin",
-      "title": "陈泽杯S2半决赛名单",
-      "url": "https://www.douyin.com/hot/2572737",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8867183,
-      "metric": "886.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:38.024Z"
-    },
-    {
-      "id": "reddit-o3q2bt",
+      "id": "reddit-j3vyqn",
       "platform": "reddit",
-      "title": "Angelic Visions",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uwx3hp/angelic_visions/",
-      "thumbnail": "https://external-preview.redd.it/MDYzY2kwZDAyY2RoMYzmka_7xzNGZUuhwtyUMRJUdE5RIRw5MPwoyrvDbLt7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=67679b1a8d588a073d6d3137096a1933a8282f76",
-      "author": "r/midjourney · /u/MysticLinear",
+      "title": "Finally figured out pixel stretch!",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uwtw2i/finally_figured_out_pixel_stretch/",
+      "thumbnail": "https://preview.redd.it/xb6brg4u8bdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e43463acaac5998905a6060bd0cb3903d0cbbcd0",
+      "author": "r/photoshop · /u/PrincipleNational847",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:36.397Z"
+      "collectedAt": "2026-07-15T15:53:12.775Z"
     },
     {
-      "id": "reddit-1pbn2h8",
+      "id": "reddit-difhf8",
       "platform": "reddit",
-      "title": "Life in Another world",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uwancv/life_in_another_world/",
-      "thumbnail": "https://preview.redd.it/3e9n5m85j7dh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=cf04b63cb332fa211a4f8c33966a68ed10f01a50",
-      "author": "r/midjourney · /u/Sharp_Alternative845",
+      "title": "what is the name of this art style?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uwrzhm/what_is_the_name_of_this_art_style/",
+      "thumbnail": "https://preview.redd.it/d6g62g1vsadh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d0a6431fabbaa4c512e507d093d9557f288d9cef",
+      "author": "r/photoshop · /u/No_Raise1969",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:36.397Z"
+      "collectedAt": "2026-07-15T15:53:12.776Z"
     },
     {
-      "id": "reddit-4aqxuc",
+      "id": "reddit-1yo04xs",
       "platform": "reddit",
-      "title": "Age of Ruin #163",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uwy0sx/age_of_ruin_163/",
-      "thumbnail": "https://preview.redd.it/f4kp9dm2bcdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=5312f322041a63efa7e70b0c6cf510e050e603eb",
-      "author": "r/midjourney · /u/Slave_Human",
+      "title": "Sanity Is In Rare Supply (2026); Layer Breakdown Video Below; 550 layers on Photoshop",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uwdd2v/sanity_is_in_rare_supply_2026_layer_breakdown/",
+      "thumbnail": "https://preview.redd.it/kdffbehkz7dh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=4174308fbda808afa5d795a521596d40cad6164a",
+      "author": "r/photoshop · /u/RareGh0st",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:36.397Z"
+      "collectedAt": "2026-07-15T15:53:12.776Z"
     },
     {
-      "id": "reddit-k99ku9",
+      "id": "reddit-shukk",
       "platform": "reddit",
-      "title": "The Sanctuary Tapes: The Sorceress (Diablo 2 Found Footage)",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uwiqr0/the_sanctuary_tapes_the_sorceress_diablo_2_found/",
-      "thumbnail": "https://external-preview.redd.it/cXJhYjZoNWh5OGRoMcDje26paHRJ53mJp3bGToS0qljjvxp-4IIVjCp7CPgy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1709eb987ec28353ec2710ec2969b1d66aae4c6d",
-      "author": "r/midjourney · /u/dhbs90",
+      "title": "Why is this happening?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1ux1rog/why_is_this_happening/",
+      "thumbnail": "https://preview.redd.it/wso5mxm0dddh1.png?width=140&amp;height=138&amp;auto=webp&amp;s=b629f8c8cb23204582608c7abba25e96f1c68ca1",
+      "author": "r/photoshop · /u/Ok-Collar3431",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:36.397Z"
+      "collectedAt": "2026-07-15T15:53:12.776Z"
     },
     {
-      "id": "reddit-183urut",
+      "id": "reddit-jby8l",
       "platform": "reddit",
-      "title": "Sky Lounge",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uwvg5x/sky_lounge/",
-      "thumbnail": "https://preview.redd.it/1wowp5yhmbdh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=edb8217d1698bcd6b734ea00625ea00378c74bda",
-      "author": "r/midjourney · /u/Standard-File-8187",
+      "title": "Question about about filling a frame",
+      "url": "https://www.reddit.com/r/photoshop/comments/1ux76sc/question_about_about_filling_a_frame/",
+      "thumbnail": "https://preview.redd.it/ilj7vv5ajedh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=22f225233c6eef5849e973056a86d8f12453d7b5",
+      "author": "r/photoshop · /u/thewhat24",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:36.397Z"
+      "collectedAt": "2026-07-15T15:53:12.776Z"
     },
     {
-      "id": "reddit-1sp3b4a",
+      "id": "reddit-ajmr2p",
       "platform": "reddit",
-      "title": "Inside the cathedral",
-      "url": "https://www.reddit.com/r/midjourney/comments/1ux1ofa/inside_the_cathedral/",
-      "thumbnail": "https://preview.redd.it/84ifi6k7cddh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=92673bb442f3d2bcfe33931746f8b6c03ed823b7",
-      "author": "r/midjourney · /u/Zaicab",
+      "title": "Hue/Saturation and Channel Mixer are a mess",
+      "url": "https://www.reddit.com/r/photoshop/comments/1ux4wcy/huesaturation_and_channel_mixer_are_a_mess/",
+      "thumbnail": "https://preview.redd.it/v6d6ic1k2edh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=03704de87423aca9db92acf7555ccf8fa56fb288",
+      "author": "r/photoshop · /u/GunterJanek",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:36.397Z"
+      "collectedAt": "2026-07-15T15:53:12.776Z"
     },
     {
-      "id": "reddit-1yl6o5t",
+      "id": "reddit-ufl0cw",
       "platform": "reddit",
-      "title": "Fallz",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uwnnyn/fallz/",
-      "thumbnail": "https://preview.redd.it/2k6smn9rv9dh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=a72b620c0b3844d2d2c52f680e5e6c70196b881c",
-      "author": "r/midjourney · /u/Standard-File-8187",
+      "title": "photoshop starts randomly lag out after a while running",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uwy7to/photoshop_starts_randomly_lag_out_after_a_while/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/Fullcaber",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:36.397Z"
+      "collectedAt": "2026-07-15T15:53:12.776Z"
     },
     {
-      "id": "reddit-q52r0t",
+      "id": "reddit-yy9wm7",
       "platform": "reddit",
-      "title": "Tropical",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uwqpaf/tropical/",
-      "thumbnail": "https://preview.redd.it/10wuvp6eiadh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=06cab25b3693b8d9f2cc67f67650f310c18e8907",
-      "author": "r/midjourney · /u/Standard-File-8187",
+      "title": "how do i achieve this effect/texture?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uwvl7i/how_do_i_achieve_this_effecttexture/",
+      "thumbnail": "https://preview.redd.it/ug408murnbdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33c9106ec82ae1a212d37ce6afb148ba37b357ba",
+      "author": "r/photoshop · /u/Maleficent_Pool9434",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:36.397Z"
+      "collectedAt": "2026-07-15T15:53:12.776Z"
     },
     {
-      "id": "reddit-1dcdorm",
+      "id": "reddit-jdwvw",
       "platform": "reddit",
-      "title": "Insect influence",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uwyt3i/insect_influence/",
-      "thumbnail": "https://preview.redd.it/u9vdrzrwicdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a3a4e6ff416c7e9d03141546bad66fea756555e",
-      "author": "r/midjourney · /u/EleanorKalatheraine",
+      "title": "New to Animation - Tips",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uwpa3k/new_to_animation_tips/",
+      "thumbnail": "https://preview.redd.it/t3tqaoaf7adh1.gif?width=320&amp;crop=smart&amp;s=c1f94c6e5f09fc164f8a375b975c385f8a73b9e4",
+      "author": "r/photoshop · /u/StellaLunaLucid",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:36.397Z"
+      "collectedAt": "2026-07-15T15:53:12.776Z"
     },
     {
-      "id": "reddit-lmqi86",
+      "id": "reddit-1c0p2b",
       "platform": "reddit",
-      "title": "Nowhere, Japan.",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uwhkk4/nowhere_japan/",
-      "thumbnail": "https://preview.redd.it/sgquoui0r8dh1.jpg?width=140&amp;height=60&amp;auto=webp&amp;s=79c7fd29de39c8b3df2cef5d08c857c12e01cf5d",
-      "author": "r/midjourney · /u/Mordrat_The_Grey",
+      "title": "Really loved Tv Girl's album French exit and decided to make a poster. Please share your thoughts on it",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uwh4zi/really_loved_tv_girls_album_french_exit_and/",
+      "thumbnail": "https://preview.redd.it/tebvt737o8dh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5992a400cdca4c9093948f2a4189c4367beefede",
+      "author": "r/photoshop · /u/Safe_Illustrator_568",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T14:12:36.397Z"
+      "collectedAt": "2026-07-15T15:53:12.776Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
