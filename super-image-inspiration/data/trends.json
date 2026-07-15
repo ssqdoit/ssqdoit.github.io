@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T19:38:07.809Z",
+  "generatedAt": "2026-07-15T21:16:40.983Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -48,17 +48,17 @@
     {
       "id": "douyin-2572453",
       "platform": "douyin",
-      "title": "英格兰vs阿根廷",
+      "title": "阿根廷2:1逆转绝杀英格兰",
       "url": "https://www.douyin.com/hot/2572453",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12108428,
-      "metric": "1210.8 万 热度",
+      "score": 12130807,
+      "metric": "1213.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.808Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "douyin-2571945",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2571945",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11545907,
-      "metric": "1154.6 万 热度",
+      "score": 10920313,
+      "metric": "1092.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "douyin-2572825",
@@ -82,13 +82,13 @@
       "url": "https://www.douyin.com/hot/2572825",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10715284,
-      "metric": "1071.5 万 热度",
+      "score": 10092959,
+      "metric": "1009.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "douyin-2572906",
@@ -97,13 +97,13 @@
       "url": "https://www.douyin.com/hot/2572906",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10703846,
-      "metric": "1070.4 万 热度",
+      "score": 9806579,
+      "metric": "980.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "douyin-2572292",
@@ -112,13 +112,13 @@
       "url": "https://www.douyin.com/hot/2572292",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10063928,
-      "metric": "1006.4 万 热度",
+      "score": 8710642,
+      "metric": "871.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "douyin-2572095",
@@ -127,13 +127,13 @@
       "url": "https://www.douyin.com/hot/2572095",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8984743,
-      "metric": "898.5 万 热度",
+      "score": 8699774,
+      "metric": "870.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "douyin-2570366",
@@ -142,13 +142,13 @@
       "url": "https://www.douyin.com/hot/2570366",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7972090,
-      "metric": "797.2 万 热度",
+      "score": 7782863,
+      "metric": "778.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "douyin-2572485",
@@ -157,13 +157,13 @@
       "url": "https://www.douyin.com/hot/2572485",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7964269,
-      "metric": "796.4 万 热度",
+      "score": 7756681,
+      "metric": "775.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "douyin-2572075",
@@ -172,13 +172,13 @@
       "url": "https://www.douyin.com/hot/2572075",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7884435,
-      "metric": "788.4 万 热度",
+      "score": 7747913,
+      "metric": "774.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "douyin-2572085",
@@ -187,13 +187,13 @@
       "url": "https://www.douyin.com/hot/2572085",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7866402,
-      "metric": "786.6 万 热度",
+      "score": 7733851,
+      "metric": "773.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "douyin-2572331",
@@ -202,28 +202,28 @@
       "url": "https://www.douyin.com/hot/2572331",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7848785,
-      "metric": "784.9 万 热度",
+      "score": 7694073,
+      "metric": "769.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
-      "id": "douyin-2570881",
+      "id": "douyin-2572887",
       "platform": "douyin",
-      "title": "世界人工智能大会逛展攻略来了",
-      "url": "https://www.douyin.com/hot/2570881",
+      "title": "四川一旅游车坠入河滩",
+      "url": "https://www.douyin.com/hot/2572887",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7784144,
-      "metric": "778.4 万 热度",
+      "score": 7682756,
+      "metric": "768.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:07.809Z"
+      "collectedAt": "2026-07-15T21:16:40.982Z"
     },
     {
       "id": "reddit-j3vyqn",
@@ -239,7 +239,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:06.506Z"
+      "collectedAt": "2026-07-15T21:16:39.101Z"
     },
     {
       "id": "reddit-difhf8",
@@ -255,7 +255,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:06.506Z"
+      "collectedAt": "2026-07-15T21:16:39.101Z"
     },
     {
       "id": "reddit-shukk",
@@ -271,7 +271,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:06.506Z"
+      "collectedAt": "2026-07-15T21:16:39.101Z"
     },
     {
       "id": "reddit-yy9wm7",
@@ -287,15 +287,15 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:06.506Z"
+      "collectedAt": "2026-07-15T21:16:39.101Z"
     },
     {
-      "id": "reddit-1a9o5ee",
+      "id": "reddit-2ktuu4",
       "platform": "reddit",
-      "title": "How can I edit a photo to look like it was taken in the early 2000s?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uxf742/how_can_i_edit_a_photo_to_look_like_it_was_taken/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/NateDickinson19",
+      "title": "Tips on Animation - Woman Exploring Surreal Realities",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uxf74c/tips_on_animation_woman_exploring_surreal/",
+      "thumbnail": "https://preview.redd.it/m1nnam4fyfdh1.gif?frame=1&amp;width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=379236f8731e35c83c340ac1749da72aef58c52b",
+      "author": "r/photoshop · /u/StellaLunaLucid",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
@@ -303,7 +303,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:06.506Z"
+      "collectedAt": "2026-07-15T21:16:39.101Z"
     },
     {
       "id": "reddit-ajmr2p",
@@ -319,7 +319,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:06.506Z"
+      "collectedAt": "2026-07-15T21:16:39.101Z"
     },
     {
       "id": "reddit-ufl0cw",
@@ -335,7 +335,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:06.506Z"
+      "collectedAt": "2026-07-15T21:16:39.101Z"
     },
     {
       "id": "reddit-jdwvw",
@@ -351,15 +351,15 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:06.506Z"
+      "collectedAt": "2026-07-15T21:16:39.101Z"
     },
     {
-      "id": "reddit-2ktuu4",
+      "id": "reddit-1a9o5ee",
       "platform": "reddit",
-      "title": "Tips on Animation - Woman Exploring Surreal Realities",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uxf74c/tips_on_animation_woman_exploring_surreal/",
-      "thumbnail": "https://preview.redd.it/m1nnam4fyfdh1.gif?frame=1&amp;width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=379236f8731e35c83c340ac1749da72aef58c52b",
-      "author": "r/photoshop · /u/StellaLunaLucid",
+      "title": "How can I edit a photo to look like it was taken in the early 2000s?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uxf742/how_can_i_edit_a_photo_to_look_like_it_was_taken/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/NateDickinson19",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
@@ -367,7 +367,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:06.506Z"
+      "collectedAt": "2026-07-15T21:16:39.101Z"
     },
     {
       "id": "reddit-154sxud",
@@ -383,7 +383,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T19:38:06.506Z"
+      "collectedAt": "2026-07-15T21:16:39.101Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
