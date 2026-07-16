@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T23:14:10.349Z",
+  "generatedAt": "2026-07-16T03:40:38.924Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,169 +46,19 @@
   ],
   "items": [
     {
-      "id": "douyin-2572453",
+      "id": "douyin-2572967",
       "platform": "douyin",
-      "title": "阿根廷2:1逆转绝杀英格兰",
-      "url": "https://www.douyin.com/hot/2572453",
+      "title": "长鑫科技IPO",
+      "url": "https://www.douyin.com/hot/2572967",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12233963,
-      "metric": "1223.4 万 热度",
+      "score": 12169476,
+      "metric": "1216.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
-    },
-    {
-      "id": "douyin-2571945",
-      "platform": "douyin",
-      "title": "暑假学习做饭成果展",
-      "url": "https://www.douyin.com/hot/2571945",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9882927,
-      "metric": "988.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
-    },
-    {
-      "id": "douyin-2572825",
-      "platform": "douyin",
-      "title": "四字解读中国经济上半年成绩单",
-      "url": "https://www.douyin.com/hot/2572825",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9216505,
-      "metric": "921.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
-    },
-    {
-      "id": "douyin-2572095",
-      "platform": "douyin",
-      "title": "感受云南菌子的N种打开方式",
-      "url": "https://www.douyin.com/hot/2572095",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9181363,
-      "metric": "918.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
-    },
-    {
-      "id": "douyin-2572906",
-      "platform": "douyin",
-      "title": "三个“最能打的”跳上手势舞了",
-      "url": "https://www.douyin.com/hot/2572906",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8676392,
-      "metric": "867.6 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
-    },
-    {
-      "id": "douyin-2572292",
-      "platform": "douyin",
-      "title": "抖火杯S3投票开启",
-      "url": "https://www.douyin.com/hot/2572292",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8667076,
-      "metric": "866.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
-    },
-    {
-      "id": "douyin-2570366",
-      "platform": "douyin",
-      "title": "日常不费力的复古氛围感穿搭",
-      "url": "https://www.douyin.com/hot/2570366",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 7749025,
-      "metric": "774.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
-    },
-    {
-      "id": "douyin-2572887",
-      "platform": "douyin",
-      "title": "四川一旅游车坠入河滩",
-      "url": "https://www.douyin.com/hot/2572887",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 7719130,
-      "metric": "771.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
-    },
-    {
-      "id": "douyin-2572075",
-      "platform": "douyin",
-      "title": "国台办回应两岸统一时间",
-      "url": "https://www.douyin.com/hot/2572075",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 7714461,
-      "metric": "771.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
-    },
-    {
-      "id": "douyin-2572432",
-      "platform": "douyin",
-      "title": "内塔尼亚胡遭反对派议员集体呵斥",
-      "url": "https://www.douyin.com/hot/2572432",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 7685050,
-      "metric": "768.5 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
-    },
-    {
-      "id": "douyin-2572485",
-      "platform": "douyin",
-      "title": "国行苹果AI完成备案",
-      "url": "https://www.douyin.com/hot/2572485",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 7675487,
-      "metric": "767.5 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
+      "collectedAt": "2026-07-16T03:40:38.924Z"
     },
     {
       "id": "douyin-2572811",
@@ -217,45 +67,163 @@
       "url": "https://www.douyin.com/hot/2572811",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7673452,
-      "metric": "767.3 万 热度",
+      "score": 10464430,
+      "metric": "1046.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:10.349Z"
+      "collectedAt": "2026-07-16T03:40:38.924Z"
     },
     {
-      "id": "reddit-j3vyqn",
-      "platform": "reddit",
-      "title": "Finally figured out pixel stretch!",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uwtw2i/finally_figured_out_pixel_stretch/",
-      "thumbnail": "https://preview.redd.it/xb6brg4u8bdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e43463acaac5998905a6060bd0cb3903d0cbbcd0",
-      "author": "r/photoshop · /u/PrincipleNational847",
-      "score": 10,
-      "metric": "社区日榜",
+      "id": "douyin-2572995",
+      "platform": "douyin",
+      "title": "透视经济半年报的“向新”脉动",
+      "url": "https://www.douyin.com/hot/2572995",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10214874,
+      "metric": "1021.5 万 热度",
       "tags": [
-        "r/photoshop",
-        "Reddit RSS"
+        "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:08.945Z"
+      "collectedAt": "2026-07-16T03:40:38.924Z"
     },
     {
-      "id": "reddit-difhf8",
-      "platform": "reddit",
-      "title": "what is the name of this art style?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uwrzhm/what_is_the_name_of_this_art_style/",
-      "thumbnail": "https://preview.redd.it/d6g62g1vsadh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d0a6431fabbaa4c512e507d093d9557f288d9cef",
-      "author": "r/photoshop · /u/No_Raise1969",
-      "score": 9,
-      "metric": "社区日榜",
+      "id": "douyin-2570881",
+      "platform": "douyin",
+      "title": "世界人工智能大会逛展攻略来了",
+      "url": "https://www.douyin.com/hot/2570881",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10078732,
+      "metric": "1007.9 万 热度",
       "tags": [
-        "r/photoshop",
-        "Reddit RSS"
+        "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:08.945Z"
+      "collectedAt": "2026-07-16T03:40:38.924Z"
+    },
+    {
+      "id": "douyin-2572887",
+      "platform": "douyin",
+      "title": "四川宝兴车辆坠崖致6死11伤",
+      "url": "https://www.douyin.com/hot/2572887",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9137903,
+      "metric": "913.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:38.924Z"
+    },
+    {
+      "id": "douyin-2573034",
+      "platform": "douyin",
+      "title": "动画东大高武学院开播",
+      "url": "https://www.douyin.com/hot/2573034",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7856592,
+      "metric": "785.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:38.924Z"
+    },
+    {
+      "id": "douyin-2572889",
+      "platform": "douyin",
+      "title": "亚马尔进行曲来了",
+      "url": "https://www.douyin.com/hot/2572889",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7730157,
+      "metric": "773.0 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:38.924Z"
+    },
+    {
+      "id": "douyin-2572668",
+      "platform": "douyin",
+      "title": "功夫女足7月17日启用新版片源",
+      "url": "https://www.douyin.com/hot/2572668",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7716079,
+      "metric": "771.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:38.924Z"
+    },
+    {
+      "id": "douyin-2572024",
+      "platform": "douyin",
+      "title": "美丽明天创业真人秀vlog",
+      "url": "https://www.douyin.com/hot/2572024",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7714107,
+      "metric": "771.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:38.924Z"
+    },
+    {
+      "id": "douyin-2571953",
+      "platform": "douyin",
+      "title": "一起进入世纪夏天",
+      "url": "https://www.douyin.com/hot/2571953",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7711662,
+      "metric": "771.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:38.924Z"
+    },
+    {
+      "id": "douyin-2572453",
+      "platform": "douyin",
+      "title": "阿根廷2:1逆转绝杀英格兰",
+      "url": "https://www.douyin.com/hot/2572453",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7705633,
+      "metric": "770.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:38.924Z"
+    },
+    {
+      "id": "douyin-2572941",
+      "platform": "douyin",
+      "title": "西班牙阿根廷会师世界杯决赛",
+      "url": "https://www.douyin.com/hot/2572941",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7695947,
+      "metric": "769.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:38.924Z"
     },
     {
       "id": "reddit-1ie5il7",
@@ -264,14 +232,30 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1uxj1zu/recent_airbrushed_shirt_design/",
       "thumbnail": "https://preview.redd.it/c8qv66hdpgdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=09b63da330d2f5f5c837ba101ef611f4a7abcf9b",
       "author": "r/photoshop · /u/Ryno_1",
-      "score": 8,
+      "score": 10,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:08.945Z"
+      "collectedAt": "2026-07-16T03:40:37.619Z"
+    },
+    {
+      "id": "reddit-1khnsfl",
+      "platform": "reddit",
+      "title": "First photoshopped image",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uxpg7u/first_photoshopped_image/",
+      "thumbnail": "https://preview.redd.it/wmolju8s0idh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=459d5a558ed68c8118ae05d4536147c917833310",
+      "author": "r/photoshop · /u/UselessEnteratiner",
+      "score": 9,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:37.619Z"
     },
     {
       "id": "reddit-shukk",
@@ -280,14 +264,14 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1ux1rog/why_is_this_happening/",
       "thumbnail": "https://preview.redd.it/wso5mxm0dddh1.png?width=140&amp;height=138&amp;auto=webp&amp;s=b629f8c8cb23204582608c7abba25e96f1c68ca1",
       "author": "r/photoshop · /u/Ok-Collar3431",
-      "score": 7,
+      "score": 8,
       "metric": "社区日榜",
       "tags": [
         "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:08.945Z"
+      "collectedAt": "2026-07-16T03:40:37.619Z"
     },
     {
       "id": "reddit-yy9wm7",
@@ -296,6 +280,22 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1uwvl7i/how_do_i_achieve_this_effecttexture/",
       "thumbnail": "https://preview.redd.it/ug408murnbdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33c9106ec82ae1a212d37ce6afb148ba37b357ba",
       "author": "r/photoshop · /u/Maleficent_Pool9434",
+      "score": 7,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:37.619Z"
+    },
+    {
+      "id": "reddit-bag5gz",
+      "platform": "reddit",
+      "title": "How do I make these glitchy, random trails of images?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uxno8x/how_do_i_make_these_glitchy_random_trails_of/",
+      "thumbnail": "https://preview.redd.it/3thf7c0emhdh1.jpg?width=140&amp;height=64&amp;auto=webp&amp;s=8a3200ec385d19ce5f8ae6e973fb206a0971b772",
+      "author": "r/photoshop · /u/judfls",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
@@ -303,7 +303,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:08.945Z"
+      "collectedAt": "2026-07-16T03:40:37.619Z"
     },
     {
       "id": "reddit-2ktuu4",
@@ -319,55 +319,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:08.945Z"
-    },
-    {
-      "id": "reddit-ajmr2p",
-      "platform": "reddit",
-      "title": "Hue/Saturation and Channel Mixer are a mess",
-      "url": "https://www.reddit.com/r/photoshop/comments/1ux4wcy/huesaturation_and_channel_mixer_are_a_mess/",
-      "thumbnail": "https://preview.redd.it/v6d6ic1k2edh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=03704de87423aca9db92acf7555ccf8fa56fb288",
-      "author": "r/photoshop · /u/GunterJanek",
-      "score": 4,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:08.945Z"
-    },
-    {
-      "id": "reddit-ufl0cw",
-      "platform": "reddit",
-      "title": "photoshop starts randomly lag out after a while running",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uwy7to/photoshop_starts_randomly_lag_out_after_a_while/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/Fullcaber",
-      "score": 3,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:08.945Z"
-    },
-    {
-      "id": "reddit-jdwvw",
-      "platform": "reddit",
-      "title": "New to Animation - Tips",
-      "url": "https://www.reddit.com/r/photoshop/comments/1uwpa3k/new_to_animation_tips/",
-      "thumbnail": "https://preview.redd.it/t3tqaoaf7adh1.gif?width=320&amp;crop=smart&amp;s=c1f94c6e5f09fc164f8a375b975c385f8a73b9e4",
-      "author": "r/photoshop · /u/StellaLunaLucid",
-      "score": 2,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:08.945Z"
+      "collectedAt": "2026-07-16T03:40:37.619Z"
     },
     {
       "id": "reddit-1a9o5ee",
@@ -376,6 +328,54 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1uxf742/how_can_i_edit_a_photo_to_look_like_it_was_taken/",
       "thumbnail": "",
       "author": "r/photoshop · /u/NateDickinson19",
+      "score": 4,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:37.619Z"
+    },
+    {
+      "id": "reddit-ajmr2p",
+      "platform": "reddit",
+      "title": "Hue/Saturation and Channel Mixer are a mess",
+      "url": "https://www.reddit.com/r/photoshop/comments/1ux4wcy/huesaturation_and_channel_mixer_are_a_mess/",
+      "thumbnail": "https://preview.redd.it/v6d6ic1k2edh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=03704de87423aca9db92acf7555ccf8fa56fb288",
+      "author": "r/photoshop · /u/GunterJanek",
+      "score": 3,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:37.619Z"
+    },
+    {
+      "id": "reddit-ufl0cw",
+      "platform": "reddit",
+      "title": "photoshop starts randomly lag out after a while running",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uwy7to/photoshop_starts_randomly_lag_out_after_a_while/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/Fullcaber",
+      "score": 2,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-16T03:40:37.619Z"
+    },
+    {
+      "id": "reddit-1a4i3wa",
+      "platform": "reddit",
+      "title": "What is the best way to extend this table?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uxlgxv/what_is_the_best_way_to_extend_this_table/",
+      "thumbnail": "https://preview.redd.it/bh5attol5hdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=624c09fe1fdc411e51e933ea91f10b7021e69a34",
+      "author": "r/photoshop · /u/kerrysluis",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
@@ -383,7 +383,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-15T23:14:08.945Z"
+      "collectedAt": "2026-07-16T03:40:37.619Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
