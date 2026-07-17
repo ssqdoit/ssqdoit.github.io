@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T11:42:49.428Z",
+  "generatedAt": "2026-07-17T14:05:13.254Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2574280",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12108485,
-      "metric": "1210.8 万 热度",
+      "score": 12153036,
+      "metric": "1215.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
+      "collectedAt": "2026-07-17T14:05:13.254Z"
     },
     {
       "id": "douyin-2574501",
@@ -67,28 +67,28 @@
       "url": "https://www.douyin.com/hot/2574501",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11611463,
-      "metric": "1161.1 万 热度",
+      "score": 12113569,
+      "metric": "1211.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
+      "collectedAt": "2026-07-17T14:05:13.254Z"
     },
     {
-      "id": "douyin-2574871",
+      "id": "douyin-2575352",
       "platform": "douyin",
-      "title": "就业新风口来了",
-      "url": "https://www.douyin.com/hot/2574871",
+      "title": "2026世界人工智能大会亮点速览",
+      "url": "https://www.douyin.com/hot/2575352",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11157155,
-      "metric": "1115.7 万 热度",
+      "score": 11582151,
+      "metric": "1158.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
+      "collectedAt": "2026-07-17T14:05:13.254Z"
     },
     {
       "id": "douyin-2574523",
@@ -97,13 +97,13 @@
       "url": "https://www.douyin.com/hot/2574523",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11045795,
-      "metric": "1104.6 万 热度",
+      "score": 11246364,
+      "metric": "1124.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
+      "collectedAt": "2026-07-17T14:05:13.254Z"
     },
     {
       "id": "douyin-2573429",
@@ -112,28 +112,13 @@
       "url": "https://www.douyin.com/hot/2573429",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10194412,
-      "metric": "1019.4 万 热度",
+      "score": 10254532,
+      "metric": "1025.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
-    },
-    {
-      "id": "douyin-2574631",
-      "platform": "douyin",
-      "title": "直击重庆彭水垮塌救援现场",
-      "url": "https://www.douyin.com/hot/2574631",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10150928,
-      "metric": "1015.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
+      "collectedAt": "2026-07-17T14:05:13.254Z"
     },
     {
       "id": "douyin-2573593",
@@ -142,28 +127,13 @@
       "url": "https://www.douyin.com/hot/2573593",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8899003,
-      "metric": "889.9 万 热度",
+      "score": 10226167,
+      "metric": "1022.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
-    },
-    {
-      "id": "douyin-2575257",
-      "platform": "douyin",
-      "title": "伯纳姆当选英国工党党首 将接任首相",
-      "url": "https://www.douyin.com/hot/2575257",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8801066,
-      "metric": "880.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
+      "collectedAt": "2026-07-17T14:05:13.254Z"
     },
     {
       "id": "douyin-2573578",
@@ -172,28 +142,28 @@
       "url": "https://www.douyin.com/hot/2573578",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8351152,
-      "metric": "835.1 万 热度",
+      "score": 8975379,
+      "metric": "897.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
+      "collectedAt": "2026-07-17T14:05:13.254Z"
     },
     {
-      "id": "douyin-2573962",
+      "id": "douyin-2575257",
       "platform": "douyin",
-      "title": "海可枯石可烂 我们肩并肩手牵手",
-      "url": "https://www.douyin.com/hot/2573962",
+      "title": "伯纳姆当选英国工党党首 将接任首相",
+      "url": "https://www.douyin.com/hot/2575257",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8249205,
-      "metric": "824.9 万 热度",
+      "score": 8865896,
+      "metric": "886.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
+      "collectedAt": "2026-07-17T14:05:13.254Z"
     },
     {
       "id": "douyin-2573766",
@@ -202,13 +172,13 @@
       "url": "https://www.douyin.com/hot/2573766",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7820793,
-      "metric": "782.1 万 热度",
+      "score": 8689856,
+      "metric": "869.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
+      "collectedAt": "2026-07-17T14:05:13.254Z"
     },
     {
       "id": "douyin-2574203",
@@ -217,173 +187,203 @@
       "url": "https://www.douyin.com/hot/2574203",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7818094,
-      "metric": "781.8 万 热度",
+      "score": 8396840,
+      "metric": "839.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:49.428Z"
+      "collectedAt": "2026-07-17T14:05:13.254Z"
     },
     {
-      "id": "reddit-db9ccm",
-      "platform": "reddit",
-      "title": "Got jumpscared during testing",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uy2421/got_jumpscared_during_testing/",
+      "id": "douyin-2573962",
+      "platform": "douyin",
+      "title": "海可枯石可烂 我们肩并肩手牵手",
+      "url": "https://www.douyin.com/hot/2573962",
       "thumbnail": "",
-      "author": "r/StableDiffusion · /u/OneMoreName1",
+      "author": "抖音热点榜",
+      "score": 8378234,
+      "metric": "837.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T14:05:13.254Z"
+    },
+    {
+      "id": "douyin-2574218",
+      "platform": "douyin",
+      "title": "SpaceX星舰第13次试飞临时中止",
+      "url": "https://www.douyin.com/hot/2574218",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8291805,
+      "metric": "829.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T14:05:13.254Z"
+    },
+    {
+      "id": "reddit-lwt8ez",
+      "platform": "reddit",
+      "title": "Squarespace 48% price increase!!!",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uy8yb5/squarespace_48_price_increase/",
+      "thumbnail": "https://preview.redd.it/awgrcaxkemdh1.png?width=140&amp;height=130&amp;auto=webp&amp;s=219c6790812858451a9ae8be5d24c3effd883e0e",
+      "author": "r/graphic_design · /u/Cookiebear5000",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:48.144Z"
+      "collectedAt": "2026-07-17T14:05:12.062Z"
     },
     {
-      "id": "reddit-18q1l4w",
+      "id": "reddit-pzis1v",
       "platform": "reddit",
-      "title": "I released two Krea 2 functional LoRAs: identity reference and positional outpainting (weights + Diffusers pipelines)",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uyp5z6/i_released_two_krea_2_functional_loras_identity/",
-      "thumbnail": "https://preview.redd.it/7uw275s9tpdh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=6ab056cf1681eddd098999ffdc429239435552ad",
-      "author": "r/StableDiffusion · /u/Upbeat_Birthday_6123",
+      "title": "hired as a Creative Director, and my staff hates me.",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyntym/hired_as_a_creative_director_and_my_staff_hates_me/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/guywhokekw",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:48.144Z"
+      "collectedAt": "2026-07-17T14:05:12.062Z"
     },
     {
-      "id": "reddit-2vp2r8",
+      "id": "reddit-tq6u48",
       "platform": "reddit",
-      "title": "2nd attempt at LTX2.3 + Krea2",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uy8zud/2nd_attempt_at_ltx23_krea2/",
-      "thumbnail": "https://external-preview.redd.it/dXFvNGJibWhqbWRoMXH6Gmuy_IcsrG7dKndoYo44BfvyCTEZBsdrDWC4LsvO.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5db1ed4eb06aa9c84d8bc7b5c7e2a1a492175b5",
-      "author": "r/StableDiffusion · /u/Beautiful_Egg6188",
+      "title": "First time participating in a branding challenge, I'm stuck and would really appreciate feedback",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyeeki/first_time_participating_in_a_branding_challenge/",
+      "thumbnail": "https://preview.redd.it/w6gi0skajndh1.jpg?width=140&amp;height=128&amp;auto=webp&amp;s=00cc78e2b392b5d316c5b90425c9c6b4d2428053",
+      "author": "r/graphic_design · /u/leaculpa",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:48.144Z"
+      "collectedAt": "2026-07-17T14:05:12.062Z"
     },
     {
-      "id": "reddit-w7bvc9",
+      "id": "reddit-14qmnw6",
       "platform": "reddit",
-      "title": "Ciri from Witcher 3 - Krea2 LoRA",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uygovd/ciri_from_witcher_3_krea2_lora/",
-      "thumbnail": "https://preview.redd.it/9dtz5geftndh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=16aac589b30dae16c7140b16f898870cbb756436",
-      "author": "r/StableDiffusion · /u/y3kdhmbdb2ch2fc6vpm2",
+      "title": "Small Town Senior Designer, Not Even Qualified in City?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyk4pz/small_town_senior_designer_not_even_qualified_in/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Zelameh",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:48.144Z"
+      "collectedAt": "2026-07-17T14:05:12.062Z"
     },
     {
-      "id": "reddit-1p0sjic",
+      "id": "reddit-a29ced",
       "platform": "reddit",
-      "title": "Google open-sourced a structured character description format",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uyumv0/google_opensourced_a_structured_character/",
-      "thumbnail": "https://preview.redd.it/5e51sbl3crdh1.gif?width=640&amp;crop=smart&amp;s=680bed51f84eb6e16cd0dff47866d31eb93f6d57",
-      "author": "r/StableDiffusion · /u/Additional-Cup-8889",
+      "title": "ATS resume feedback",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uye1u6/ats_resume_feedback/",
+      "thumbnail": "https://preview.redd.it/j36xen4wgndh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=238d5f9b4ffeb60ea30925797617edb5a54af57c",
+      "author": "r/graphic_design · /u/Epsilon_Music",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:48.144Z"
+      "collectedAt": "2026-07-17T14:05:12.062Z"
     },
     {
-      "id": "reddit-1adj6sq",
+      "id": "reddit-13g1xb6",
       "platform": "reddit",
-      "title": "New Foley LoRA of LTX-2.3 adds synced sound design to silent footage. Footsteps, impacts, materials, and ambience layered in to match the action. No music bed, no dialogue, ready t",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uy56gm/new_foley_lora_of_ltx23_adds_synced_sound_design/",
-      "thumbnail": "https://external-preview.redd.it/dnFveTRlMDl2bGRoMVGtFDXrhy2l-tUezUycFd74Uj1OV093eKt4BldDmEqR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c42adb50417a2b4ebf158cf5b2d5d314332e2ef",
-      "author": "r/StableDiffusion · /u/CeFurkan",
+      "title": "Some little cards I've been working on",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uydewa/some_little_cards_ive_been_working_on/",
+      "thumbnail": "https://preview.redd.it/joxu4axncndh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=194644facfabbd52c69067b0371c84c1f2eb9e19",
+      "author": "r/graphic_design · /u/PoMaloMadra",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:48.144Z"
+      "collectedAt": "2026-07-17T14:05:12.062Z"
     },
     {
-      "id": "reddit-1r2gqj5",
+      "id": "reddit-jwxsug",
       "platform": "reddit",
-      "title": "SenseNova U1-Infographic-V3 is here, it can now edit text in already-generated infographics + change global style",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uyok4q/sensenova_u1infographicv3_is_here_it_can_now_edit/",
-      "thumbnail": "https://preview.redd.it/a2839qfbopdh1.jpg?width=140&amp;height=109&amp;auto=webp&amp;s=04409453761dd9e3edb4aed838702f174db1af87",
-      "author": "r/StableDiffusion · /u/EzraWinner",
+      "title": "Help me senior designers",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uy4hqk/help_me_senior_designers/",
+      "thumbnail": "https://preview.redd.it/gyzr35kipldh1.png?width=140&amp;height=89&amp;auto=webp&amp;s=2984d5f94389fa1b0fcaa3c59b674eb8092ed19b",
+      "author": "r/graphic_design · /u/FreedomMysterious641",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:48.144Z"
+      "collectedAt": "2026-07-17T14:05:12.062Z"
     },
     {
-      "id": "reddit-ozppaq",
+      "id": "reddit-n12yq2",
       "platform": "reddit",
-      "title": "How do I uncensor/filters Krea 2? Doesn't the text encoder \"uncensored_int8_convrot\" solve this?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uy2oi1/how_do_i_uncensorfilters_krea_2_doesnt_the_text/",
-      "thumbnail": "https://preview.redd.it/bml6bmvidldh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e05f4871a7f3100555ea1b62224c2fbb05d89564",
-      "author": "r/StableDiffusion · /u/Hi7u7",
+      "title": "One of my favorite pieces of typography in Basel",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyb6dl/one_of_my_favorite_pieces_of_typography_in_basel/",
+      "thumbnail": "https://preview.redd.it/nxvsimwwxmdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd708856903a6885603ecd6f472546e92f805a0d",
+      "author": "r/graphic_design · /u/Key_Expression5007",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:48.144Z"
+      "collectedAt": "2026-07-17T14:05:12.062Z"
     },
     {
-      "id": "reddit-1k6e189",
+      "id": "reddit-hgh9bd",
       "platform": "reddit",
-      "title": "Comparison of Krea2 bypass LoRAs on illustration",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uyai98/comparison_of_krea2_bypass_loras_on_illustration/",
-      "thumbnail": "https://preview.redd.it/18e72q1irmdh1.jpg?width=140&amp;height=67&amp;auto=webp&amp;s=7c40684dcfb81d271c097f5a64db9272ca78b46c",
-      "author": "r/StableDiffusion · /u/PropagandaOfTheDude",
+      "title": "Help fix this",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uye2wu/help_fix_this/",
+      "thumbnail": "https://preview.redd.it/wo6wjfa3hndh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c9e59876dcdd2670ba92eedb61b8c5fe8b8d379",
+      "author": "r/graphic_design · /u/ghostfacedripah",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:48.144Z"
+      "collectedAt": "2026-07-17T14:05:12.062Z"
     },
     {
-      "id": "reddit-1y9qkds",
+      "id": "reddit-woiwb9",
       "platform": "reddit",
-      "title": "LTX 2.3 is amazing! Made full complex Anime sequence with it. LTX Director 2.0 node is extremely handy",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uyur0y/ltx_23_is_amazing_made_full_complex_anime/",
-      "thumbnail": "https://external-preview.redd.it/anR1cThjem1icmRoMW5duIP2EjrAtr-GAqlDAmdFXu0oipBcnuZWPbjjRQq4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c9ec399bb0aa96ceffa376831d106c3860391d3",
-      "author": "r/StableDiffusion · /u/marivicknight",
+      "title": "What is working at an agency like?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyp8aq/what_is_working_at_an_agency_like/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Careless-Security-63",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T11:42:48.144Z"
+      "collectedAt": "2026-07-17T14:05:12.062Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
