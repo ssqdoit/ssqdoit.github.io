@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T17:32:10.842Z",
+  "generatedAt": "2026-07-17T19:34:35.034Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,34 +46,34 @@
   ],
   "items": [
     {
-      "id": "douyin-2575457",
-      "platform": "douyin",
-      "title": "重庆彭水山体崩塌已致8死34失联",
-      "url": "https://www.douyin.com/hot/2575457",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12139033,
-      "metric": "1213.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.841Z"
-    },
-    {
       "id": "douyin-2574523",
       "platform": "douyin",
       "title": "在周五开启吃吃吃模式",
       "url": "https://www.douyin.com/hot/2574523",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12105741,
-      "metric": "1210.6 万 热度",
+      "score": 12100894,
+      "metric": "1210.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
+      "collectedAt": "2026-07-17T19:34:35.034Z"
+    },
+    {
+      "id": "douyin-2575457",
+      "platform": "douyin",
+      "title": "重庆彭水山体崩塌已致8死34失联",
+      "url": "https://www.douyin.com/hot/2575457",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11616757,
+      "metric": "1161.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T19:34:35.034Z"
     },
     {
       "id": "douyin-2575352",
@@ -82,28 +82,13 @@
       "url": "https://www.douyin.com/hot/2575352",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11415684,
-      "metric": "1141.6 万 热度",
+      "score": 11331126,
+      "metric": "1133.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
-    },
-    {
-      "id": "douyin-2573593",
-      "platform": "douyin",
-      "title": "慢充才是旅行最佳打开方式",
-      "url": "https://www.douyin.com/hot/2573593",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11271659,
-      "metric": "1127.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
+      "collectedAt": "2026-07-17T19:34:35.034Z"
     },
     {
       "id": "douyin-2574627",
@@ -112,13 +97,13 @@
       "url": "https://www.douyin.com/hot/2574627",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10699595,
-      "metric": "1070.0 万 热度",
+      "score": 11066555,
+      "metric": "1106.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
+      "collectedAt": "2026-07-17T19:34:35.034Z"
     },
     {
       "id": "douyin-2573429",
@@ -127,13 +112,13 @@
       "url": "https://www.douyin.com/hot/2573429",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10312044,
-      "metric": "1031.2 万 热度",
+      "score": 10485313,
+      "metric": "1048.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
+      "collectedAt": "2026-07-17T19:34:35.034Z"
     },
     {
       "id": "douyin-2573578",
@@ -142,13 +127,28 @@
       "url": "https://www.douyin.com/hot/2573578",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9115158,
-      "metric": "911.5 万 热度",
+      "score": 10291722,
+      "metric": "1029.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
+      "collectedAt": "2026-07-17T19:34:35.034Z"
+    },
+    {
+      "id": "douyin-2573593",
+      "platform": "douyin",
+      "title": "慢充才是旅行最佳打开方式",
+      "url": "https://www.douyin.com/hot/2573593",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9162137,
+      "metric": "916.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T19:34:35.034Z"
     },
     {
       "id": "douyin-2573766",
@@ -157,13 +157,13 @@
       "url": "https://www.douyin.com/hot/2573766",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8872889,
-      "metric": "887.3 万 热度",
+      "score": 9152492,
+      "metric": "915.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
+      "collectedAt": "2026-07-17T19:34:35.034Z"
     },
     {
       "id": "douyin-2574203",
@@ -172,28 +172,13 @@
       "url": "https://www.douyin.com/hot/2574203",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8858635,
-      "metric": "885.9 万 热度",
+      "score": 9121657,
+      "metric": "912.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
-    },
-    {
-      "id": "douyin-2575429",
-      "platform": "douyin",
-      "title": "中超北京国安1:1辽宁铁人",
-      "url": "https://www.douyin.com/hot/2575429",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8734489,
-      "metric": "873.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
+      "collectedAt": "2026-07-17T19:34:35.034Z"
     },
     {
       "id": "douyin-2574694",
@@ -202,188 +187,203 @@
       "url": "https://www.douyin.com/hot/2574694",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8683118,
+      "score": 8927573,
+      "metric": "892.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T19:34:35.034Z"
+    },
+    {
+      "id": "douyin-2574454",
+      "platform": "douyin",
+      "title": "萧华：联盟在等詹姆斯做决定",
+      "url": "https://www.douyin.com/hot/2574454",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8682815,
       "metric": "868.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
+      "collectedAt": "2026-07-17T19:34:35.034Z"
     },
     {
-      "id": "douyin-2574218",
+      "id": "douyin-2574908",
       "platform": "douyin",
-      "title": "SpaceX星舰第13次试飞临时中止",
-      "url": "https://www.douyin.com/hot/2574218",
+      "title": "单依纯上海演唱会",
+      "url": "https://www.douyin.com/hot/2574908",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8484920,
-      "metric": "848.5 万 热度",
+      "score": 8664454,
+      "metric": "866.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:10.842Z"
+      "collectedAt": "2026-07-17T19:34:35.034Z"
     },
     {
-      "id": "reddit-cfc2tq",
+      "id": "reddit-1nma6p2",
       "platform": "reddit",
-      "title": "Sitting here for Eternity.",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uyfdaj/sitting_here_for_eternity/",
-      "thumbnail": "https://preview.redd.it/alt5abevpndh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5519f8e83631d23951709eba993be65cc154dd0",
-      "author": "r/midjourney · /u/Mordrat_The_Grey",
+      "title": "One of my biggest typography icks",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uz4lzq/one_of_my_biggest_typography_icks/",
+      "thumbnail": "https://preview.redd.it/fc2kz7yfbtdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f04108d38975b50a09b51211fd7b41103e3bf4ef",
+      "author": "r/graphic_design · /u/nathanschiro",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:09.629Z"
+      "collectedAt": "2026-07-17T19:34:34.439Z"
     },
     {
-      "id": "reddit-x1p6sq",
+      "id": "reddit-pzis1v",
       "platform": "reddit",
-      "title": "Humannequins - [1/5]",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uz2xq2/humannequins_15/",
-      "thumbnail": "https://external-preview.redd.it/bnJzY2tnbXE1dGRoMaO9P7_cD0f5-moN3-o63cCtwH3FroEx80-fD2H39bpT.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=412d9d9111633b3c0c337a72482c4e8101215457",
-      "author": "r/midjourney · /u/uisato",
+      "title": "hired as a Creative Director, and my staff hates me.",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyntym/hired_as_a_creative_director_and_my_staff_hates_me/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/guywhokekw",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:09.629Z"
+      "collectedAt": "2026-07-17T19:34:34.439Z"
     },
     {
-      "id": "reddit-9nlah8",
+      "id": "reddit-1eipzul",
       "platform": "reddit",
-      "title": "Shaman",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uyym83/shaman/",
-      "thumbnail": "https://preview.redd.it/8fq5qnlhcsdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=08cf48e4e49681aa5f0202bc8fbed8d1aa80337c",
-      "author": "r/midjourney · /u/Zaicab",
+      "title": "What do you guys think of this packaging design so far?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uz0x33/what_do_you_guys_think_of_this_packaging_design/",
+      "thumbnail": "https://preview.redd.it/29h0ae96ssdh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=4a5ed51e04ec62b113ed5ea5465eb494f0a6317d",
+      "author": "r/graphic_design · /u/StellaNova_",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:09.629Z"
+      "collectedAt": "2026-07-17T19:34:34.439Z"
     },
     {
-      "id": "reddit-1505g6y",
+      "id": "reddit-tq6u48",
       "platform": "reddit",
-      "title": "Retrofuture Vault",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uysl1m/retrofuture_vault/",
-      "thumbnail": "https://preview.redd.it/touvg2hsqqdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=12845bafd172801748d682ab5015edff24ed9c97",
-      "author": "r/midjourney · /u/Organic_Monk6570",
+      "title": "First time participating in a branding challenge, I'm stuck and would really appreciate feedback",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyeeki/first_time_participating_in_a_branding_challenge/",
+      "thumbnail": "https://preview.redd.it/w6gi0skajndh1.jpg?width=140&amp;height=128&amp;auto=webp&amp;s=00cc78e2b392b5d316c5b90425c9c6b4d2428053",
+      "author": "r/graphic_design · /u/leaculpa",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:09.629Z"
+      "collectedAt": "2026-07-17T19:34:34.439Z"
     },
     {
-      "id": "reddit-7mai50",
+      "id": "reddit-14qmnw6",
       "platform": "reddit",
-      "title": "Pirate Attack",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uz1ttg/pirate_attack/",
-      "thumbnail": "https://preview.redd.it/ogzbmvahxsdh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=b869d0960cb360f7923f98a97c150a38905b6833",
-      "author": "r/midjourney · /u/WorkLucky4366",
+      "title": "Small Town Senior Designer, Not Even Qualified in City?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyk4pz/small_town_senior_designer_not_even_qualified_in/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Zelameh",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:09.629Z"
+      "collectedAt": "2026-07-17T19:34:34.439Z"
     },
     {
-      "id": "reddit-1jzstvq",
+      "id": "reddit-a29ced",
       "platform": "reddit",
-      "title": "Frank’s Farm",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uyozai/franks_farm/",
-      "thumbnail": "https://external-preview.redd.it/MGtiMmI2YTRzcGRoMVZ8TZatxfdea8TRTughNmyFEHJv7iYhfqj1hlrSBFSG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8dd0ff59fcc9a91134250c5cc97fa7cd5b921568",
-      "author": "r/midjourney · /u/metr0punk",
+      "title": "ATS resume feedback",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uye1u6/ats_resume_feedback/",
+      "thumbnail": "https://preview.redd.it/j36xen4wgndh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=238d5f9b4ffeb60ea30925797617edb5a54af57c",
+      "author": "r/graphic_design · /u/Epsilon_Music",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:09.629Z"
+      "collectedAt": "2026-07-17T19:34:34.439Z"
     },
     {
-      "id": "reddit-tblbjn",
+      "id": "reddit-13g1xb6",
       "platform": "reddit",
-      "title": "Oath of Glory Paladin",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uydtvb/oath_of_glory_paladin/",
-      "thumbnail": "https://preview.redd.it/2btx1otdfndh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b4d122d4bfa520e1cc81cbb5ffd503fdc0f82cc",
-      "author": "r/midjourney · /u/NaturalCrits",
+      "title": "Some little cards I've been working on",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uydewa/some_little_cards_ive_been_working_on/",
+      "thumbnail": "https://preview.redd.it/joxu4axncndh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=194644facfabbd52c69067b0371c84c1f2eb9e19",
+      "author": "r/graphic_design · /u/PoMaloMadra",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:09.629Z"
+      "collectedAt": "2026-07-17T19:34:34.439Z"
     },
     {
-      "id": "reddit-gvwqq4",
+      "id": "reddit-xty42i",
       "platform": "reddit",
-      "title": "Wildlings",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uydikv/wildlings/",
-      "thumbnail": "https://preview.redd.it/enbhlhzadndh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=21b19b8731f9b4ae9ae69b1c6b0ee3f601fea6cc",
-      "author": "r/midjourney · /u/Witty-Relation5743",
+      "title": "Logo for a self hosted music discovery platform",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uz4a1p/logo_for_a_self_hosted_music_discovery_platform/",
+      "thumbnail": "https://preview.redd.it/wkhjuunhetdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e231d1bad9323af42d2e75cfbf067b5b2e1fb6be",
+      "author": "r/graphic_design · /u/ponzi_gg",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:09.629Z"
+      "collectedAt": "2026-07-17T19:34:34.439Z"
     },
     {
-      "id": "reddit-s8yl3v",
+      "id": "reddit-1tr95e4",
       "platform": "reddit",
-      "title": "Tile Fallz",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uyua42/tile_fallz/",
-      "thumbnail": "https://preview.redd.it/xnvk3t2o8rdh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=76efae5bceb0d002fca8eb5e42ffbdf2ded0b5d3",
-      "author": "r/midjourney · /u/Standard-File-8187",
+      "title": "Senior Designer Portfolio Advice",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uz26ct/senior_designer_portfolio_advice/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Intelligent_Split_12",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:09.629Z"
+      "collectedAt": "2026-07-17T19:34:34.439Z"
     },
     {
-      "id": "reddit-1uois5m",
+      "id": "reddit-1600vk1",
       "platform": "reddit",
-      "title": "Desert Migration",
-      "url": "https://www.reddit.com/r/midjourney/comments/1uyw1sb/desert_migration/",
-      "thumbnail": "https://preview.redd.it/75msibhoqrdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c4c533c967db9ab6eb0e536530f917debae1a3a",
-      "author": "r/midjourney · /u/CrookedtalePirates",
+      "title": "Looking for advice on portfolio - What are we doing wrong?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uym2pn/looking_for_advice_on_portfolio_what_are_we_doing/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/tandertex",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T17:32:09.629Z"
+      "collectedAt": "2026-07-17T19:34:34.439Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
