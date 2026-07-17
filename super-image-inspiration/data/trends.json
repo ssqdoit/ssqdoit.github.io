@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T23:12:28.645Z",
+  "generatedAt": "2026-07-17T03:40:20.067Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,64 +46,49 @@
   ],
   "items": [
     {
+      "id": "douyin-2574280",
+      "platform": "douyin",
+      "title": "国内成品油价格迎本月第二次调整",
+      "url": "https://www.douyin.com/hot/2574280",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 12119484,
+      "metric": "1211.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T03:40:20.067Z"
+    },
+    {
       "id": "douyin-2574085",
       "platform": "douyin",
       "title": "跟着抖音网友吃一天",
       "url": "https://www.douyin.com/hot/2574085",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12098177,
-      "metric": "1209.8 万 热度",
+      "score": 12083464,
+      "metric": "1208.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
+      "collectedAt": "2026-07-17T03:40:20.067Z"
     },
     {
-      "id": "douyin-2573766",
+      "id": "douyin-2574370",
       "platform": "douyin",
-      "title": "人生要多一些支点",
-      "url": "https://www.douyin.com/hot/2573766",
+      "title": "AI站稳产业圈顶流C位",
+      "url": "https://www.douyin.com/hot/2574370",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12074307,
-      "metric": "1207.4 万 热度",
+      "score": 11981656,
+      "metric": "1198.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
-    },
-    {
-      "id": "douyin-2572949",
-      "platform": "douyin",
-      "title": "上半年中欧班列交出亮眼答卷",
-      "url": "https://www.douyin.com/hot/2572949",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12071328,
-      "metric": "1207.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
-    },
-    {
-      "id": "douyin-2573246",
-      "platform": "douyin",
-      "title": "吃贵阳菜都怕米饭不够",
-      "url": "https://www.douyin.com/hot/2573246",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11953542,
-      "metric": "1195.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
+      "collectedAt": "2026-07-17T03:40:20.067Z"
     },
     {
       "id": "douyin-2573429",
@@ -112,73 +97,28 @@
       "url": "https://www.douyin.com/hot/2573429",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10835865,
-      "metric": "1083.6 万 热度",
+      "score": 11842621,
+      "metric": "1184.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
+      "collectedAt": "2026-07-17T03:40:20.067Z"
     },
     {
-      "id": "douyin-2573781",
+      "id": "douyin-2573593",
       "platform": "douyin",
-      "title": "马龙许昕晋级男双16强",
-      "url": "https://www.douyin.com/hot/2573781",
+      "title": "慢充才是旅行最佳打开方式",
+      "url": "https://www.douyin.com/hot/2573593",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10541151,
-      "metric": "1054.1 万 热度",
+      "score": 10807208,
+      "metric": "1080.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
-    },
-    {
-      "id": "douyin-2574012",
-      "platform": "douyin",
-      "title": "BLG战胜T1晋级EWC淘汰赛",
-      "url": "https://www.douyin.com/hot/2574012",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9387111,
-      "metric": "938.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
-    },
-    {
-      "id": "douyin-2572975",
-      "platform": "douyin",
-      "title": "绿皮火车载着我的青春去拉萨",
-      "url": "https://www.douyin.com/hot/2572975",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9343506,
-      "metric": "934.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
-    },
-    {
-      "id": "douyin-2573578",
-      "platform": "douyin",
-      "title": "复刻煎蟹女王翡翠炒蟹肉",
-      "url": "https://www.douyin.com/hot/2573578",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9271818,
-      "metric": "927.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
+      "collectedAt": "2026-07-17T03:40:20.067Z"
     },
     {
       "id": "douyin-2574104",
@@ -187,13 +127,43 @@
       "url": "https://www.douyin.com/hot/2574104",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9204333,
-      "metric": "920.4 万 热度",
+      "score": 10549985,
+      "metric": "1055.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
+      "collectedAt": "2026-07-17T03:40:20.067Z"
+    },
+    {
+      "id": "douyin-2573578",
+      "platform": "douyin",
+      "title": "复刻煎蟹女王翡翠炒蟹肉",
+      "url": "https://www.douyin.com/hot/2573578",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9429277,
+      "metric": "942.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T03:40:20.067Z"
+    },
+    {
+      "id": "douyin-2573766",
+      "platform": "douyin",
+      "title": "人生要多一些支点",
+      "url": "https://www.douyin.com/hot/2573766",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9382559,
+      "metric": "938.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T03:40:20.067Z"
     },
     {
       "id": "douyin-2573767",
@@ -202,28 +172,58 @@
       "url": "https://www.douyin.com/hot/2573767",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9202516,
-      "metric": "920.3 万 热度",
+      "score": 9338576,
+      "metric": "933.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
+      "collectedAt": "2026-07-17T03:40:20.067Z"
     },
     {
-      "id": "douyin-2573272",
+      "id": "douyin-2574203",
       "platform": "douyin",
-      "title": "美国对三星等7家公司启动337调查",
-      "url": "https://www.douyin.com/hot/2573272",
+      "title": "字母哥加盟热火身披7号球衣",
+      "url": "https://www.douyin.com/hot/2574203",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9182860,
-      "metric": "918.3 万 热度",
+      "score": 9104176,
+      "metric": "910.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:28.645Z"
+      "collectedAt": "2026-07-17T03:40:20.067Z"
+    },
+    {
+      "id": "douyin-2574308",
+      "platform": "douyin",
+      "title": "A股",
+      "url": "https://www.douyin.com/hot/2574308",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8720436,
+      "metric": "872.0 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T03:40:20.067Z"
+    },
+    {
+      "id": "douyin-2574218",
+      "platform": "douyin",
+      "title": "SpaceX星舰第13次试飞临时中止",
+      "url": "https://www.douyin.com/hot/2574218",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8450790,
+      "metric": "845.1 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T03:40:20.067Z"
     },
     {
       "id": "reddit-lwt8ez",
@@ -239,7 +239,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:27.888Z"
+      "collectedAt": "2026-07-17T03:40:18.719Z"
     },
     {
       "id": "reddit-1162ovo",
@@ -255,7 +255,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:27.888Z"
+      "collectedAt": "2026-07-17T03:40:18.719Z"
     },
     {
       "id": "reddit-b4ibol",
@@ -271,15 +271,15 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:27.888Z"
+      "collectedAt": "2026-07-17T03:40:18.719Z"
     },
     {
-      "id": "reddit-1wniuuy",
+      "id": "reddit-b29mpx",
       "platform": "reddit",
-      "title": "I made this poster to get rid of my art block",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uxo3of/i_made_this_poster_to_get_rid_of_my_art_block/",
-      "thumbnail": "https://preview.redd.it/nmgvmrvpphdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=122f61b37ecb5a81e45cf27dd0b78679d6153f56",
-      "author": "r/graphic_design · /u/Cyan_Among",
+      "title": "Everyday calls with boss that last 6+ hours, constant micromanagement",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyhsw9/everyday_calls_with_boss_that_last_6_hours/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Expensive-Tea-3069",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
@@ -287,7 +287,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:27.888Z"
+      "collectedAt": "2026-07-17T03:40:18.719Z"
     },
     {
       "id": "reddit-wdnyty",
@@ -303,39 +303,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:27.888Z"
-    },
-    {
-      "id": "reddit-120nq9v",
-      "platform": "reddit",
-      "title": "What are recent design grads actually using for portfolios after they get their first job?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uxoqql/what_are_recent_design_grads_actually_using_for/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/eatmorepandas",
-      "score": 5,
-      "metric": "社区日榜",
-      "tags": [
-        "r/graphic_design",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:27.888Z"
-    },
-    {
-      "id": "reddit-jwxsug",
-      "platform": "reddit",
-      "title": "Help me senior designers",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uy4hqk/help_me_senior_designers/",
-      "thumbnail": "https://preview.redd.it/gyzr35kipldh1.png?width=140&amp;height=89&amp;auto=webp&amp;s=2984d5f94389fa1b0fcaa3c59b674eb8092ed19b",
-      "author": "r/graphic_design · /u/FreedomMysterious641",
-      "score": 4,
-      "metric": "社区日榜",
-      "tags": [
-        "r/graphic_design",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:27.888Z"
+      "collectedAt": "2026-07-17T03:40:18.719Z"
     },
     {
       "id": "reddit-tq6u48",
@@ -344,6 +312,38 @@
       "url": "https://www.reddit.com/r/graphic_design/comments/1uyeeki/first_time_participating_in_a_branding_challenge/",
       "thumbnail": "https://preview.redd.it/w6gi0skajndh1.jpg?width=140&amp;height=128&amp;auto=webp&amp;s=00cc78e2b392b5d316c5b90425c9c6b4d2428053",
       "author": "r/graphic_design · /u/leaculpa",
+      "score": 5,
+      "metric": "社区日榜",
+      "tags": [
+        "r/graphic_design",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T03:40:18.719Z"
+    },
+    {
+      "id": "reddit-pzis1v",
+      "platform": "reddit",
+      "title": "hired as a Creative Director, and my staff hates me.",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyntym/hired_as_a_creative_director_and_my_staff_hates_me/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/guywhokekw",
+      "score": 4,
+      "metric": "社区日榜",
+      "tags": [
+        "r/graphic_design",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T03:40:18.719Z"
+    },
+    {
+      "id": "reddit-14qmnw6",
+      "platform": "reddit",
+      "title": "Small Town Senior Designer, Not Even Qualified in City?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uyk4pz/small_town_senior_designer_not_even_qualified_in/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Zelameh",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
@@ -351,15 +351,15 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:27.888Z"
+      "collectedAt": "2026-07-17T03:40:18.719Z"
     },
     {
-      "id": "reddit-6kgnpo",
+      "id": "reddit-13g1xb6",
       "platform": "reddit",
-      "title": "Is Prepress stressing you out as much as me?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uy22cg/is_prepress_stressing_you_out_as_much_as_me/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/EmergencyDull3071",
+      "title": "Some little cards I've been working on",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uydewa/some_little_cards_ive_been_working_on/",
+      "thumbnail": "https://preview.redd.it/joxu4axncndh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=194644facfabbd52c69067b0371c84c1f2eb9e19",
+      "author": "r/graphic_design · /u/PoMaloMadra",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
@@ -367,15 +367,15 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:27.888Z"
+      "collectedAt": "2026-07-17T03:40:18.719Z"
     },
     {
-      "id": "reddit-1mcv9gv",
+      "id": "reddit-jwxsug",
       "platform": "reddit",
-      "title": "How can I make these wormhole-looking effects (like the lines across every object)?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uxyb10/how_can_i_make_these_wormholelooking_effects_like/",
-      "thumbnail": "https://preview.redd.it/3vszes45dkdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93188d66a5629b40d4b7e93c6efcdc54ed37d8cc",
-      "author": "r/graphic_design · /u/Fit_Surround9250",
+      "title": "Help me senior designers",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1uy4hqk/help_me_senior_designers/",
+      "thumbnail": "https://preview.redd.it/gyzr35kipldh1.png?width=140&amp;height=89&amp;auto=webp&amp;s=2984d5f94389fa1b0fcaa3c59b674eb8092ed19b",
+      "author": "r/graphic_design · /u/FreedomMysterious641",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
@@ -383,7 +383,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-16T23:12:27.888Z"
+      "collectedAt": "2026-07-17T03:40:18.719Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
