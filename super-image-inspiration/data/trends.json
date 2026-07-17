@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T19:34:35.034Z",
+  "generatedAt": "2026-07-17T21:09:37.976Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,34 +46,34 @@
   ],
   "items": [
     {
-      "id": "douyin-2574523",
-      "platform": "douyin",
-      "title": "在周五开启吃吃吃模式",
-      "url": "https://www.douyin.com/hot/2574523",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12100894,
-      "metric": "1210.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
-    },
-    {
       "id": "douyin-2575457",
       "platform": "douyin",
       "title": "重庆彭水山体崩塌已致8死34失联",
       "url": "https://www.douyin.com/hot/2575457",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11616757,
-      "metric": "1161.7 万 热度",
+      "score": 12098410,
+      "metric": "1209.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
+      "collectedAt": "2026-07-17T21:09:37.976Z"
+    },
+    {
+      "id": "douyin-2574523",
+      "platform": "douyin",
+      "title": "在周五开启吃吃吃模式",
+      "url": "https://www.douyin.com/hot/2574523",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 12017057,
+      "metric": "1201.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T21:09:37.976Z"
     },
     {
       "id": "douyin-2575352",
@@ -82,13 +82,13 @@
       "url": "https://www.douyin.com/hot/2575352",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11331126,
-      "metric": "1133.1 万 热度",
+      "score": 11541737,
+      "metric": "1154.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
+      "collectedAt": "2026-07-17T21:09:37.976Z"
     },
     {
       "id": "douyin-2574627",
@@ -97,13 +97,13 @@
       "url": "https://www.douyin.com/hot/2574627",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11066555,
-      "metric": "1106.7 万 热度",
+      "score": 11128735,
+      "metric": "1112.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
+      "collectedAt": "2026-07-17T21:09:37.976Z"
     },
     {
       "id": "douyin-2573429",
@@ -112,28 +112,13 @@
       "url": "https://www.douyin.com/hot/2573429",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10485313,
-      "metric": "1048.5 万 热度",
+      "score": 10525596,
+      "metric": "1052.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
-    },
-    {
-      "id": "douyin-2573578",
-      "platform": "douyin",
-      "title": "复刻煎蟹女王翡翠炒蟹肉",
-      "url": "https://www.douyin.com/hot/2573578",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10291722,
-      "metric": "1029.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
+      "collectedAt": "2026-07-17T21:09:37.976Z"
     },
     {
       "id": "douyin-2573593",
@@ -142,13 +127,28 @@
       "url": "https://www.douyin.com/hot/2573593",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9162137,
-      "metric": "916.2 万 热度",
+      "score": 10446243,
+      "metric": "1044.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
+      "collectedAt": "2026-07-17T21:09:37.976Z"
+    },
+    {
+      "id": "douyin-2575135",
+      "platform": "douyin",
+      "title": "网友亲历重庆彭水山体崩塌",
+      "url": "https://www.douyin.com/hot/2575135",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9206497,
+      "metric": "920.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-17T21:09:37.976Z"
     },
     {
       "id": "douyin-2573766",
@@ -157,43 +157,43 @@
       "url": "https://www.douyin.com/hot/2573766",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9152492,
-      "metric": "915.2 万 热度",
+      "score": 9156239,
+      "metric": "915.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
+      "collectedAt": "2026-07-17T21:09:37.976Z"
     },
     {
-      "id": "douyin-2574203",
+      "id": "douyin-2574541",
       "platform": "douyin",
-      "title": "字母哥加盟热火身披7号球衣",
-      "url": "https://www.douyin.com/hot/2574203",
+      "title": "沧元图孟川十字神尊相登场",
+      "url": "https://www.douyin.com/hot/2574541",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9121657,
+      "score": 9121964,
       "metric": "912.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
+      "collectedAt": "2026-07-17T21:09:37.976Z"
     },
     {
-      "id": "douyin-2574694",
+      "id": "douyin-2573578",
       "platform": "douyin",
-      "title": "百分大战杰伦格林vs陈泽文",
-      "url": "https://www.douyin.com/hot/2574694",
+      "title": "复刻煎蟹女王翡翠炒蟹肉",
+      "url": "https://www.douyin.com/hot/2573578",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8927573,
-      "metric": "892.8 万 热度",
+      "score": 8872506,
+      "metric": "887.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
+      "collectedAt": "2026-07-17T21:09:37.976Z"
     },
     {
       "id": "douyin-2574454",
@@ -202,188 +202,188 @@
       "url": "https://www.douyin.com/hot/2574454",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8682815,
-      "metric": "868.3 万 热度",
+      "score": 8267130,
+      "metric": "826.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
+      "collectedAt": "2026-07-17T21:09:37.976Z"
     },
     {
-      "id": "douyin-2574908",
+      "id": "douyin-2574203",
       "platform": "douyin",
-      "title": "单依纯上海演唱会",
-      "url": "https://www.douyin.com/hot/2574908",
+      "title": "字母哥加盟热火身披7号球衣",
+      "url": "https://www.douyin.com/hot/2574203",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8664454,
-      "metric": "866.4 万 热度",
+      "score": 8181901,
+      "metric": "818.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:35.034Z"
+      "collectedAt": "2026-07-17T21:09:37.976Z"
     },
     {
-      "id": "reddit-1nma6p2",
+      "id": "reddit-xfa91v",
       "platform": "reddit",
-      "title": "One of my biggest typography icks",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uz4lzq/one_of_my_biggest_typography_icks/",
-      "thumbnail": "https://preview.redd.it/fc2kz7yfbtdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f04108d38975b50a09b51211fd7b41103e3bf4ef",
-      "author": "r/graphic_design · /u/nathanschiro",
+      "title": "Some of recent work",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uyxuep/some_of_recent_work/",
+      "thumbnail": "https://preview.redd.it/aelf0i2b6sdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=6477569ee833aa8b018c0c626b277e827bdf9654",
+      "author": "r/photoshop · /u/ExcellentPineapple70",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:34.439Z"
+      "collectedAt": "2026-07-17T21:09:36.985Z"
     },
     {
-      "id": "reddit-pzis1v",
+      "id": "reddit-2v191h",
       "platform": "reddit",
-      "title": "hired as a Creative Director, and my staff hates me.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uyntym/hired_as_a_creative_director_and_my_staff_hates_me/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/guywhokekw",
+      "title": "How to achieve this effect helppp",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uytd49/how_to_achieve_this_effect_helppp/",
+      "thumbnail": "https://preview.redd.it/g7bfuv63zqdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d6c4f0f8422b448a1778691d37e98bec8b39a9c",
+      "author": "r/photoshop · /u/Technical-Buy-7049",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:34.439Z"
+      "collectedAt": "2026-07-17T21:09:36.985Z"
     },
     {
-      "id": "reddit-1eipzul",
+      "id": "reddit-c4otee",
       "platform": "reddit",
-      "title": "What do you guys think of this packaging design so far?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uz0x33/what_do_you_guys_think_of_this_packaging_design/",
-      "thumbnail": "https://preview.redd.it/29h0ae96ssdh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=4a5ed51e04ec62b113ed5ea5465eb494f0a6317d",
-      "author": "r/graphic_design · /u/StellaNova_",
+      "title": "If your type looks jagged...",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uyh1rx/if_your_type_looks_jagged/",
+      "thumbnail": "https://preview.redd.it/91qwi8zo0odh1.png?width=140&amp;height=100&amp;auto=webp&amp;s=f8d55ee9439f000f4b7e7f455ac31ae7bfcc2b86",
+      "author": "r/photoshop · /u/artfellig",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:34.439Z"
+      "collectedAt": "2026-07-17T21:09:36.985Z"
     },
     {
-      "id": "reddit-tq6u48",
+      "id": "reddit-6xccqr",
       "platform": "reddit",
-      "title": "First time participating in a branding challenge, I'm stuck and would really appreciate feedback",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uyeeki/first_time_participating_in_a_branding_challenge/",
-      "thumbnail": "https://preview.redd.it/w6gi0skajndh1.jpg?width=140&amp;height=128&amp;auto=webp&amp;s=00cc78e2b392b5d316c5b90425c9c6b4d2428053",
-      "author": "r/graphic_design · /u/leaculpa",
+      "title": "How to add a specific lighting effect to a product",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uz2krt/how_to_add_a_specific_lighting_effect_to_a_product/",
+      "thumbnail": "https://preview.redd.it/9fnucs493tdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=eb8b5b00fab222de0250fcf9fad59700eda2f35e",
+      "author": "r/photoshop · /u/Eth22n",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:34.439Z"
+      "collectedAt": "2026-07-17T21:09:36.985Z"
     },
     {
-      "id": "reddit-14qmnw6",
+      "id": "reddit-1jo6zjd",
       "platform": "reddit",
-      "title": "Small Town Senior Designer, Not Even Qualified in City?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uyk4pz/small_town_senior_designer_not_even_qualified_in/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/Zelameh",
+      "title": "How to make sign less dirty looking and uniform",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uz262x/how_to_make_sign_less_dirty_looking_and_uniform/",
+      "thumbnail": "https://preview.redd.it/uyte48gs0tdh1.png?width=140&amp;height=43&amp;auto=webp&amp;s=2a9e05e5756ce4f8fb73cfe070cae4d748c04ed3",
+      "author": "r/photoshop · /u/Conscious-Design7411",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:34.439Z"
+      "collectedAt": "2026-07-17T21:09:36.985Z"
     },
     {
-      "id": "reddit-a29ced",
+      "id": "reddit-12umsne",
       "platform": "reddit",
-      "title": "ATS resume feedback",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uye1u6/ats_resume_feedback/",
-      "thumbnail": "https://preview.redd.it/j36xen4wgndh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=238d5f9b4ffeb60ea30925797617edb5a54af57c",
-      "author": "r/graphic_design · /u/Epsilon_Music",
+      "title": "Trying to remember a Uber process I found years ago with street photograph.",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uz931s/trying_to_remember_a_uber_process_i_found_years/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/katybassist",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:34.439Z"
+      "collectedAt": "2026-07-17T21:09:36.985Z"
     },
     {
-      "id": "reddit-13g1xb6",
+      "id": "reddit-7c1d2",
       "platform": "reddit",
-      "title": "Some little cards I've been working on",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uydewa/some_little_cards_ive_been_working_on/",
-      "thumbnail": "https://preview.redd.it/joxu4axncndh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=194644facfabbd52c69067b0371c84c1f2eb9e19",
-      "author": "r/graphic_design · /u/PoMaloMadra",
+      "title": "Anyone else get this purple kinda layover on the screen when working on certain pics?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uz8z0n/anyone_else_get_this_purple_kinda_layover_on_the/",
+      "thumbnail": "https://preview.redd.it/densqc3q8udh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b20f2eaf139f723361b5866184454ef8a56c312c",
+      "author": "r/photoshop · /u/altecsz",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:34.439Z"
+      "collectedAt": "2026-07-17T21:09:36.985Z"
     },
     {
-      "id": "reddit-xty42i",
+      "id": "reddit-1wtqueq",
       "platform": "reddit",
-      "title": "Logo for a self hosted music discovery platform",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uz4a1p/logo_for_a_self_hosted_music_discovery_platform/",
-      "thumbnail": "https://preview.redd.it/wkhjuunhetdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e231d1bad9323af42d2e75cfbf067b5b2e1fb6be",
-      "author": "r/graphic_design · /u/ponzi_gg",
+      "title": "Problem with lower information panel and scrollbars",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uz8d0l/problem_with_lower_information_panel_and/",
+      "thumbnail": "https://preview.redd.it/8w1b4mfm4udh1.png?width=140&amp;height=75&amp;auto=webp&amp;s=3b29044e5127507a5775b38d12712136f22b1035",
+      "author": "r/photoshop · /u/Rude-Ad1319",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:34.439Z"
+      "collectedAt": "2026-07-17T21:09:36.985Z"
     },
     {
-      "id": "reddit-1tr95e4",
+      "id": "reddit-icrr4",
       "platform": "reddit",
-      "title": "Senior Designer Portfolio Advice",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uz26ct/senior_designer_portfolio_advice/",
+      "title": "Saving all as a jpeg automatically",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uz4rh4/saving_all_as_a_jpeg_automatically/",
       "thumbnail": "",
-      "author": "r/graphic_design · /u/Intelligent_Split_12",
+      "author": "r/photoshop · /u/ReganLynch",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:34.439Z"
+      "collectedAt": "2026-07-17T21:09:36.985Z"
     },
     {
-      "id": "reddit-1600vk1",
+      "id": "reddit-9wxc4v",
       "platform": "reddit",
-      "title": "Looking for advice on portfolio - What are we doing wrong?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uym2pn/looking_for_advice_on_portfolio_what_are_we_doing/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/tandertex",
+      "title": "The default brush spacing is 25%",
+      "url": "https://www.reddit.com/r/photoshop/comments/1uylnyd/the_default_brush_spacing_is_25/",
+      "thumbnail": "https://preview.redd.it/kn7daue80pdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=75376e51fd5586a703f8ccca0a635478c7797da4",
+      "author": "r/photoshop · /u/CompetitiveRow3818",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-17T19:34:34.439Z"
+      "collectedAt": "2026-07-17T21:09:36.985Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
