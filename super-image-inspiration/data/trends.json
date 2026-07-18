@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T15:16:44.437Z",
+  "generatedAt": "2026-07-18T17:16:34.436Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,118 +52,13 @@
       "url": "https://www.douyin.com/hot/2575757",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12147910,
-      "metric": "1214.8 万 热度",
+      "score": 12043020,
+      "metric": "1204.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
-    },
-    {
-      "id": "douyin-2575545",
-      "platform": "douyin",
-      "title": "峨眉山会惩罚每一个嘴硬的人",
-      "url": "https://www.douyin.com/hot/2575545",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12105886,
-      "metric": "1210.6 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
-    },
-    {
-      "id": "douyin-2575994",
-      "platform": "douyin",
-      "title": "全国首张脑机接口处方开出",
-      "url": "https://www.douyin.com/hot/2575994",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10802992,
-      "metric": "1080.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
-    },
-    {
-      "id": "douyin-2576369",
-      "platform": "douyin",
-      "title": "鸣潮演唱会",
-      "url": "https://www.douyin.com/hot/2576369",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10707170,
-      "metric": "1070.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
-    },
-    {
-      "id": "douyin-2576589",
-      "platform": "douyin",
-      "title": "重庆彭水山体崩塌搜救进展",
-      "url": "https://www.douyin.com/hot/2576589",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9981878,
-      "metric": "998.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
-    },
-    {
-      "id": "douyin-2575781",
-      "platform": "douyin",
-      "title": "苏超宿迁0:3常州",
-      "url": "https://www.douyin.com/hot/2575781",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9810671,
-      "metric": "981.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
-    },
-    {
-      "id": "douyin-2575773",
-      "platform": "douyin",
-      "title": "老爸评测实测拼豆安全性",
-      "url": "https://www.douyin.com/hot/2575773",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8198595,
-      "metric": "819.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
-    },
-    {
-      "id": "douyin-2575788",
-      "platform": "douyin",
-      "title": "捷克众议长冈村富夫将访华",
-      "url": "https://www.douyin.com/hot/2575788",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8132461,
-      "metric": "813.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
+      "collectedAt": "2026-07-18T17:16:34.436Z"
     },
     {
       "id": "douyin-2575827",
@@ -172,28 +67,118 @@
       "url": "https://www.douyin.com/hot/2575827",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7853856,
-      "metric": "785.4 万 热度",
+      "score": 11962278,
+      "metric": "1196.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
+      "collectedAt": "2026-07-18T17:16:34.436Z"
     },
     {
-      "id": "douyin-2575490",
+      "id": "douyin-2575994",
       "platform": "douyin",
-      "title": "陈泽杯S2钢牙夺冠",
-      "url": "https://www.douyin.com/hot/2575490",
+      "title": "全国首张脑机接口处方开出",
+      "url": "https://www.douyin.com/hot/2575994",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7840251,
-      "metric": "784.0 万 热度",
+      "score": 11827688,
+      "metric": "1182.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
+      "collectedAt": "2026-07-18T17:16:34.436Z"
+    },
+    {
+      "id": "douyin-2576567",
+      "platform": "douyin",
+      "title": "孙颖莎王楚钦无缘混双决赛",
+      "url": "https://www.douyin.com/hot/2576567",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11348492,
+      "metric": "1134.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-18T17:16:34.436Z"
+    },
+    {
+      "id": "douyin-2576589",
+      "platform": "douyin",
+      "title": "重庆彭水山体崩塌搜救进展",
+      "url": "https://www.douyin.com/hot/2576589",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10701608,
+      "metric": "1070.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-18T17:16:34.436Z"
+    },
+    {
+      "id": "douyin-2575788",
+      "platform": "douyin",
+      "title": "捷克众议长冈村富夫将访华",
+      "url": "https://www.douyin.com/hot/2575788",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10622913,
+      "metric": "1062.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-18T17:16:34.436Z"
+    },
+    {
+      "id": "douyin-2575545",
+      "platform": "douyin",
+      "title": "峨眉山会惩罚每一个嘴硬的人",
+      "url": "https://www.douyin.com/hot/2575545",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9398834,
+      "metric": "939.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-18T17:16:34.436Z"
+    },
+    {
+      "id": "douyin-2575773",
+      "platform": "douyin",
+      "title": "老爸评测实测拼豆安全性",
+      "url": "https://www.douyin.com/hot/2575773",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9213459,
+      "metric": "921.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-18T17:16:34.436Z"
+    },
+    {
+      "id": "douyin-2575786",
+      "platform": "douyin",
+      "title": "泰国总理阿努廷抵达成都",
+      "url": "https://www.douyin.com/hot/2575786",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9191445,
+      "metric": "919.1 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-18T17:16:34.436Z"
     },
     {
       "id": "douyin-2575593",
@@ -202,13 +187,28 @@
       "url": "https://www.douyin.com/hot/2575593",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7831954,
-      "metric": "783.2 万 热度",
+      "score": 9161466,
+      "metric": "916.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
+      "collectedAt": "2026-07-18T17:16:34.436Z"
+    },
+    {
+      "id": "douyin-2576254",
+      "platform": "douyin",
+      "title": "马龙许昕全锦赛晋级四强",
+      "url": "https://www.douyin.com/hot/2576254",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9138223,
+      "metric": "913.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-18T17:16:34.436Z"
     },
     {
       "id": "douyin-2576377",
@@ -217,173 +217,173 @@
       "url": "https://www.douyin.com/hot/2576377",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7806080,
-      "metric": "780.6 万 热度",
+      "score": 9127169,
+      "metric": "912.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:44.437Z"
+      "collectedAt": "2026-07-18T17:16:34.436Z"
     },
     {
-      "id": "reddit-1nma6p2",
+      "id": "reddit-1bi5dzo",
       "platform": "reddit",
-      "title": "One of my biggest typography icks",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uz4lzq/one_of_my_biggest_typography_icks/",
-      "thumbnail": "https://preview.redd.it/fc2kz7yfbtdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f04108d38975b50a09b51211fd7b41103e3bf4ef",
-      "author": "r/graphic_design · /u/nathanschiro",
+      "title": "Krea 2 : styles (wildcards txt)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uzdj7o/krea_2_styles_wildcards_txt/",
+      "thumbnail": "https://preview.redd.it/gj43aaww3vdh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=0c63ea31b3aa81481b17a341833c44685d0d4349",
+      "author": "r/StableDiffusion · /u/Dear-Spend-2865",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:43.227Z"
+      "collectedAt": "2026-07-18T17:16:33.542Z"
     },
     {
-      "id": "reddit-1o1bdio",
+      "id": "reddit-1tytnwq",
       "platform": "reddit",
-      "title": "Designed a vintage travel poster for what will likely be our family's final all-family reunion",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzaapr/designed_a_vintage_travel_poster_for_what_will/",
-      "thumbnail": "https://preview.redd.it/mme0ayyieudh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=83d1cb8cd96a5a25e0423c785a6d336fd3a9ae39",
-      "author": "r/graphic_design · /u/BranderChatfield",
+      "title": "In love with how simple the process is (ltx2.3+krea2)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uz6nza/in_love_with_how_simple_the_process_is_ltx23krea2/",
+      "thumbnail": "https://external-preview.redd.it/NzhuNDhxcjJ1dGRoMcF5K-rBEOBDqgc09W81q8UWUJa81cfc2W44DJs-aiab.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=dec8f9f617b3235ed23f81c5bc6e784071c50b2f",
+      "author": "r/StableDiffusion · /u/Beautiful_Egg6188",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:43.227Z"
+      "collectedAt": "2026-07-18T17:16:33.542Z"
     },
     {
-      "id": "reddit-jqkj9g",
+      "id": "reddit-1kc0ro",
       "platform": "reddit",
-      "title": "Some more Visual Experiments. Made in Illustrator and Photoshop.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzvhu2/some_more_visual_experiments_made_in_illustrator/",
-      "thumbnail": "https://preview.redd.it/waatq5f4mzdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=394736e2e0affa696f52e12efd58a3054d062999",
-      "author": "r/graphic_design · /u/prateek69123",
+      "title": "Krea 2 Identity Edit v1.2 LoRA released today and it's amazing. Samples.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uzpxxy/krea_2_identity_edit_v12_lora_released_today_and/",
+      "thumbnail": "https://preview.redd.it/ssam3jt83ydh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=03c7642f6d4e455c34699c01fd11b62662636625",
+      "author": "r/StableDiffusion · /u/Fishmongr",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:43.227Z"
+      "collectedAt": "2026-07-18T17:16:33.542Z"
     },
     {
-      "id": "reddit-16nfnxx",
+      "id": "reddit-1nula0b",
       "platform": "reddit",
-      "title": "I got tired of Adobe so I built my own effects editor. You can use it now too",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzfa1r/i_got_tired_of_adobe_so_i_built_my_own_effects/",
-      "thumbnail": "https://preview.redd.it/nx9olpoygvdh1.jpg?width=140&amp;height=86&amp;auto=webp&amp;s=aef4250a878a1bf9d90152b535aaa900a72bc4db",
-      "author": "r/graphic_design · /u/_nthony",
+      "title": "Krea2's knowledge of Vehicles is Amazing",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uzluci/krea2s_knowledge_of_vehicles_is_amazing/",
+      "thumbnail": "https://preview.redd.it/6101xp4uzwdh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=e9f25f525cf6990ba1025f139fd98e26a4c0177d",
+      "author": "r/StableDiffusion · /u/ForesterAI",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:43.227Z"
+      "collectedAt": "2026-07-18T17:16:33.542Z"
     },
     {
-      "id": "reddit-qq1chn",
+      "id": "reddit-e4hg9b",
       "platform": "reddit",
-      "title": "Hello, I am a film poster designer and I did this poster for a documentary about a small family business of tombstone engraving. The film follows the artisans who are succeeded by ",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzuldd/hello_i_am_a_film_poster_designer_and_i_did_this/",
-      "thumbnail": "https://preview.redd.it/dl5jkjd0fzdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1e95022d320875daa3fdee4665ab8faa8ae2088",
-      "author": "r/graphic_design · /u/Puzzleheaded_Age3563",
+      "title": "Krea2 - Style transfer - experimental",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uzu9ri/krea2_style_transfer_experimental/",
+      "thumbnail": "https://preview.redd.it/wkkygu7rbzdh1.png?width=140&amp;height=136&amp;auto=webp&amp;s=cd1f1c8371630e71ba1c0708d63987c1216f2d06",
+      "author": "r/StableDiffusion · /u/TheDudeWithThePlan",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:43.227Z"
+      "collectedAt": "2026-07-18T17:16:33.542Z"
     },
     {
-      "id": "reddit-13qjugu",
+      "id": "reddit-1qyx2gm",
       "platform": "reddit",
-      "title": "Pick a logo for a dystopian world where a future company is the government and in control of the black hole in earth's past.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uz4ezj/pick_a_logo_for_a_dystopian_world_where_a_future/",
-      "thumbnail": "https://preview.redd.it/uxprjf2mftdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=96b066d4b18fcacf7cc76620385943d9c097f938",
-      "author": "r/graphic_design · /u/Fun_Let2385",
+      "title": "Is Klein Edit still the best we have for image editing?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uz7thl/is_klein_edit_still_the_best_we_have_for_image/",
+      "thumbnail": "",
+      "author": "r/StableDiffusion · /u/Beneficial_Toe_2347",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:43.227Z"
+      "collectedAt": "2026-07-18T17:16:33.542Z"
     },
     {
-      "id": "reddit-d7g4k4",
+      "id": "reddit-57urew",
       "platform": "reddit",
-      "title": "I'm trying to make flyers for my social club, any feed back?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzey6s/im_trying_to_make_flyers_for_my_social_club_any/",
-      "thumbnail": "https://preview.redd.it/9o720d9jevdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=12b379dc2ddd3476b4dd005309c1f9b95a5dc638",
-      "author": "r/graphic_design · /u/_HoneyyPot_",
+      "title": "I trained an interactive Hollow Knight diffusion world model from scratch on around 400k frames of my own gameplay",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uzkwt0/i_trained_an_interactive_hollow_knight_diffusion/",
+      "thumbnail": "https://preview.redd.it/ycso6qi1swdh1.gif?frame=1&amp;width=140&amp;height=80&amp;auto=webp&amp;s=35a26739ee4efff92d8971906fd85d84886da821",
+      "author": "r/StableDiffusion · /u/gamajuice1",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:43.227Z"
+      "collectedAt": "2026-07-18T17:16:33.542Z"
     },
     {
-      "id": "reddit-od8i66",
+      "id": "reddit-pq061n",
       "platform": "reddit",
-      "title": "UK job ads offering below minimum wage for a full time role",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzwu98/uk_job_ads_offering_below_minimum_wage_for_a_full/",
-      "thumbnail": "https://preview.redd.it/i1w4p7lmwzdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8032964100c12d3ef9ee93c4ebcfe79e6dc2887",
-      "author": "r/graphic_design · /u/Electronic_Drink5074",
+      "title": "BRKN-PROMPT-RANDOMIZER. HAVE FUN WITH IT !",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uzj62a/brknpromptrandomizer_have_fun_with_it/",
+      "thumbnail": "https://preview.redd.it/wuc9aeytewdh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=64bb819a487911fe07c30a60938b38e9ce25b8ca",
+      "author": "r/StableDiffusion · /u/Front-Republic1441",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:43.227Z"
+      "collectedAt": "2026-07-18T17:16:33.542Z"
     },
     {
-      "id": "reddit-n6pe00",
+      "id": "reddit-rd0bbh",
       "platform": "reddit",
-      "title": "I love font foundries.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzhhpm/i_love_font_foundries/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/MaenHoffiCoffi",
+      "title": "Made another Style LoRA on Krea2",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uzuypa/made_another_style_lora_on_krea2/",
+      "thumbnail": "https://preview.redd.it/iqlnyq2dgzdh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f96787f0568081f9fe665304c8ffa3160bc9699c",
+      "author": "r/StableDiffusion · /u/Beautiful_Egg6188",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:43.227Z"
+      "collectedAt": "2026-07-18T17:16:33.542Z"
     },
     {
-      "id": "reddit-1kq4xdq",
+      "id": "reddit-1g1schp",
       "platform": "reddit",
-      "title": "47 and looking for a new career move.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzvj46/47_and_looking_for_a_new_career_move/",
+      "title": "LTX 2.3 is totally unusable",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1uzan5h/ltx_23_is_totally_unusable/",
       "thumbnail": "",
-      "author": "r/graphic_design · /u/BelgarFirebeard",
+      "author": "r/StableDiffusion · /u/thawahryan",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T15:16:43.227Z"
+      "collectedAt": "2026-07-18T17:16:33.542Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
