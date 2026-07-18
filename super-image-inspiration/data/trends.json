@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T21:07:21.189Z",
+  "generatedAt": "2026-07-18T23:12:44.644Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,28 +52,28 @@
       "url": "https://www.douyin.com/hot/2576589",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12099628,
-      "metric": "1210.0 万 热度",
+      "score": 12151830,
+      "metric": "1215.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
+      "collectedAt": "2026-07-18T23:12:44.644Z"
     },
     {
-      "id": "douyin-2575757",
+      "id": "douyin-2576388",
       "platform": "douyin",
-      "title": "旅游那达慕开幕了",
-      "url": "https://www.douyin.com/hot/2575757",
+      "title": "英格兰6:4法国收获铜牌",
+      "url": "https://www.douyin.com/hot/2576388",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12013335,
-      "metric": "1201.3 万 热度",
+      "score": 12108418,
+      "metric": "1210.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
+      "collectedAt": "2026-07-18T23:12:44.644Z"
     },
     {
       "id": "douyin-2575994",
@@ -82,43 +82,28 @@
       "url": "https://www.douyin.com/hot/2575994",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11654371,
-      "metric": "1165.4 万 热度",
+      "score": 11457705,
+      "metric": "1145.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
+      "collectedAt": "2026-07-18T23:12:44.644Z"
     },
     {
-      "id": "douyin-2575827",
+      "id": "douyin-2575757",
       "platform": "douyin",
-      "title": "足协通报申思祁宏参与青训",
-      "url": "https://www.douyin.com/hot/2575827",
+      "title": "旅游那达慕开幕了",
+      "url": "https://www.douyin.com/hot/2575757",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11330977,
-      "metric": "1133.1 万 热度",
+      "score": 11154255,
+      "metric": "1115.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
-    },
-    {
-      "id": "douyin-2576567",
-      "platform": "douyin",
-      "title": "孙颖莎王楚钦无缘混双决赛",
-      "url": "https://www.douyin.com/hot/2576567",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10736741,
-      "metric": "1073.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
+      "collectedAt": "2026-07-18T23:12:44.644Z"
     },
     {
       "id": "douyin-2575545",
@@ -127,13 +112,13 @@
       "url": "https://www.douyin.com/hot/2575545",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10547577,
-      "metric": "1054.8 万 热度",
+      "score": 10335206,
+      "metric": "1033.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
+      "collectedAt": "2026-07-18T23:12:44.644Z"
     },
     {
       "id": "douyin-2575773",
@@ -142,13 +127,28 @@
       "url": "https://www.douyin.com/hot/2575773",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9223639,
-      "metric": "922.4 万 热度",
+      "score": 10114875,
+      "metric": "1011.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
+      "collectedAt": "2026-07-18T23:12:44.644Z"
+    },
+    {
+      "id": "douyin-2575827",
+      "platform": "douyin",
+      "title": "足协通报申思祁宏参与青训",
+      "url": "https://www.douyin.com/hot/2575827",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8780993,
+      "metric": "878.1 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-18T23:12:44.644Z"
     },
     {
       "id": "douyin-2575593",
@@ -157,43 +157,28 @@
       "url": "https://www.douyin.com/hot/2575593",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9217853,
-      "metric": "921.8 万 热度",
+      "score": 7959411,
+      "metric": "795.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
+      "collectedAt": "2026-07-18T23:12:44.644Z"
     },
     {
-      "id": "douyin-2575786",
+      "id": "douyin-2576567",
       "platform": "douyin",
-      "title": "泰国总理阿努廷抵达成都",
-      "url": "https://www.douyin.com/hot/2575786",
+      "title": "孙颖莎王楚钦无缘混双决赛",
+      "url": "https://www.douyin.com/hot/2576567",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9200587,
-      "metric": "920.1 万 热度",
+      "score": 7818611,
+      "metric": "781.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
-    },
-    {
-      "id": "douyin-2575788",
-      "platform": "douyin",
-      "title": "捷克众议长冈村富夫将访华",
-      "url": "https://www.douyin.com/hot/2575788",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9191106,
-      "metric": "919.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
+      "collectedAt": "2026-07-18T23:12:44.644Z"
     },
     {
       "id": "douyin-2575736",
@@ -202,13 +187,28 @@
       "url": "https://www.douyin.com/hot/2575736",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9148917,
-      "metric": "914.9 万 热度",
+      "score": 7807833,
+      "metric": "780.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
+      "collectedAt": "2026-07-18T23:12:44.644Z"
+    },
+    {
+      "id": "douyin-2575788",
+      "platform": "douyin",
+      "title": "捷克众议长冈村富夫将访华",
+      "url": "https://www.douyin.com/hot/2575788",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7801824,
+      "metric": "780.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-18T23:12:44.644Z"
     },
     {
       "id": "douyin-2576377",
@@ -217,173 +217,173 @@
       "url": "https://www.douyin.com/hot/2576377",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9141433,
-      "metric": "914.1 万 热度",
+      "score": 7779632,
+      "metric": "778.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:21.189Z"
+      "collectedAt": "2026-07-18T23:12:44.644Z"
     },
     {
-      "id": "reddit-jqkj9g",
+      "id": "reddit-1azsszu",
       "platform": "reddit",
-      "title": "Some more Visual Experiments. Made in Illustrator and Photoshop.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzvhu2/some_more_visual_experiments_made_in_illustrator/",
-      "thumbnail": "https://preview.redd.it/waatq5f4mzdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=394736e2e0affa696f52e12efd58a3054d062999",
-      "author": "r/graphic_design · /u/prateek69123",
+      "title": "Mythology Anthology",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v03mjm/mythology_anthology/",
+      "thumbnail": "https://preview.redd.it/whqi72a381eh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=7fd12dfd550eed7f0b12869609823a1161a1a250",
+      "author": "r/midjourney · /u/Zenchilada",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:20.097Z"
+      "collectedAt": "2026-07-18T23:12:43.223Z"
     },
     {
-      "id": "reddit-qq1chn",
+      "id": "reddit-k0ph4k",
       "platform": "reddit",
-      "title": "Hello, I am a film poster designer and I did this poster for a documentary about a small family business of tombstone engraving. The film follows the artisans who are succeeded by ",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzuldd/hello_i_am_a_film_poster_designer_and_i_did_this/",
-      "thumbnail": "https://preview.redd.it/dl5jkjd0fzdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1e95022d320875daa3fdee4665ab8faa8ae2088",
-      "author": "r/graphic_design · /u/Puzzleheaded_Age3563",
+      "title": "Attempted my longest Full GenAI Film ever",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uzixvd/attempted_my_longest_full_genai_film_ever/",
+      "thumbnail": "https://external-preview.redd.it/dnNrNDdwcHBhd2RoMf9pFeESW8roP7CjfOFHpMLzj6Unl9vAzXCC6PZXR9Vu.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a02cba499a0c29962a9243b5feadfcef7ff83caa",
+      "author": "r/midjourney · /u/Theblasian35",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:20.097Z"
+      "collectedAt": "2026-07-18T23:12:43.223Z"
     },
     {
-      "id": "reddit-16nfnxx",
+      "id": "reddit-1l4revl",
       "platform": "reddit",
-      "title": "I got tired of Adobe so I built my own effects editor. You can use it now too",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzfa1r/i_got_tired_of_adobe_so_i_built_my_own_effects/",
-      "thumbnail": "https://preview.redd.it/nx9olpoygvdh1.jpg?width=140&amp;height=86&amp;auto=webp&amp;s=aef4250a878a1bf9d90152b535aaa900a72bc4db",
-      "author": "r/graphic_design · /u/_nthony",
+      "title": "Europa III",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uzvlq6/europa_iii/",
+      "thumbnail": "https://external-preview.redd.it/MHByZGk2MzZuemRoMaS-MM4xHsNECjty4rub5MAuFn1cV0TbcC4YcF4zUFWm.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3421d7be4a3a4ce686bafcf753be09a619ee80f5",
+      "author": "r/midjourney · /u/Dropdeadlegs84",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:20.097Z"
+      "collectedAt": "2026-07-18T23:12:43.223Z"
     },
     {
-      "id": "reddit-od8i66",
+      "id": "reddit-qnrses",
       "platform": "reddit",
-      "title": "UK job ads offering below minimum wage for a full time role",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzwu98/uk_job_ads_offering_below_minimum_wage_for_a_full/",
-      "thumbnail": "https://preview.redd.it/i1w4p7lmwzdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8032964100c12d3ef9ee93c4ebcfe79e6dc2887",
-      "author": "r/graphic_design · /u/Electronic_Drink5074",
+      "title": "Fantasy Fair",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v04f71/fantasy_fair/",
+      "thumbnail": "https://external-preview.redd.it/YTV5c2dkeXpkMWVoMXpa46mHbkzrlbVrPRWh4C_cNDwRj0CM-VWFzd5LHaIZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=310a38c3dd028c352c14f5f0ce18a9f05d9d891d",
+      "author": "r/midjourney · /u/metr0punk",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:20.097Z"
+      "collectedAt": "2026-07-18T23:12:43.223Z"
     },
     {
-      "id": "reddit-yv5yp9",
+      "id": "reddit-16q83f9",
       "platform": "reddit",
-      "title": "Poster designs I made",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzyta3/poster_designs_i_made/",
-      "thumbnail": "https://preview.redd.it/3btjemiua0eh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=49f4eb065e1f60b4449ac5871f505010ae63a8d9",
-      "author": "r/graphic_design · /u/S0da_cryptid",
+      "title": "Seventeen minutes before the rain, she had to cross the field.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uzzr88/seventeen_minutes_before_the_rain_she_had_to/",
+      "thumbnail": "https://preview.redd.it/8ljkgho4h0eh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=b5ee0596a0a998935d72963972a30b139b5fcbf0",
+      "author": "r/midjourney · /u/Total-Opposite4792",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:20.097Z"
+      "collectedAt": "2026-07-18T23:12:43.223Z"
     },
     {
-      "id": "reddit-1kq4xdq",
+      "id": "reddit-mwpzvu",
       "platform": "reddit",
-      "title": "47 and looking for a new career move.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzvj46/47_and_looking_for_a_new_career_move/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/BelgarFirebeard",
+      "title": "Cosmic Ghoul.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uzus7g/cosmic_ghoul/",
+      "thumbnail": "https://preview.redd.it/iemtly6ngzdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=45b771cd248ac90aad022fbbbfd4202e439b16b3",
+      "author": "r/midjourney · /u/Mordrat_The_Grey",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:20.097Z"
+      "collectedAt": "2026-07-18T23:12:43.223Z"
     },
     {
-      "id": "reddit-1t9qfz5",
+      "id": "reddit-1ujy9gx",
       "platform": "reddit",
-      "title": "Part 02 of trying to create my first truly emblematic typeface. A little progress update on Flamor. Playing with the uppercase and ligatures 🫰",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzrxvl/part_02_of_trying_to_create_my_first_truly/",
-      "thumbnail": "https://preview.redd.it/hxaq0ihipydh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=49bb1a50797a188eee2ab0b89c83831800f3a121",
-      "author": "r/graphic_design · /u/VP_creativeshop",
+      "title": "Romanticism",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uzg9rs/romanticism/",
+      "thumbnail": "https://preview.redd.it/3ntl5ukkovdh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=c116ff7563621f711a0a5cc3e6b9e82b66b01a3a",
+      "author": "r/midjourney · /u/Sapere_aude_69",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:20.097Z"
+      "collectedAt": "2026-07-18T23:12:43.223Z"
     },
     {
-      "id": "reddit-d7g4k4",
+      "id": "reddit-1073qfb",
       "platform": "reddit",
-      "title": "I'm trying to make flyers for my social club, any feed back?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzey6s/im_trying_to_make_flyers_for_my_social_club_any/",
-      "thumbnail": "https://preview.redd.it/9o720d9jevdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=12b379dc2ddd3476b4dd005309c1f9b95a5dc638",
-      "author": "r/graphic_design · /u/_HoneyyPot_",
+      "title": "Space groceries",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uzuc4c/space_groceries/",
+      "thumbnail": "https://preview.redd.it/dcqlrivoczdh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e9882b2f2c652aa858779b28d25313a913d03d10",
+      "author": "r/midjourney · /u/Zaicab",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:20.097Z"
+      "collectedAt": "2026-07-18T23:12:43.223Z"
     },
     {
-      "id": "reddit-n6pe00",
+      "id": "reddit-18a1fe0",
       "platform": "reddit",
-      "title": "I love font foundries.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzhhpm/i_love_font_foundries/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/MaenHoffiCoffi",
+      "title": "Mesozonic era - 2",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uzwsy6/mesozonic_era_2/",
+      "thumbnail": "https://preview.redd.it/rpx5o7lbwzdh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=f8791facba98cd605dea76307f07ec95ea435e45",
+      "author": "r/midjourney · /u/Sharp_Alternative845",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:20.097Z"
+      "collectedAt": "2026-07-18T23:12:43.223Z"
     },
     {
-      "id": "reddit-j2kfx",
+      "id": "reddit-ai3ans",
       "platform": "reddit",
-      "title": "Lamine Yamal x Adidas editorial design",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzjumh/lamine_yamal_x_adidas_editorial_design/",
-      "thumbnail": "https://preview.redd.it/6gtedlfmiwdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=7a062cb2d4288c05ac33cbbd66a796ee1522401e",
-      "author": "r/graphic_design · /u/zionzfxx",
+      "title": "Retrofuture Vault - Furniture",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uzp1pd/retrofuture_vault_furniture/",
+      "thumbnail": "https://preview.redd.it/k2i9em05vxdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=928c25595e4fae9bbae492d06778a9d91b6be547",
+      "author": "r/midjourney · /u/Organic_Monk6570",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-18T21:07:20.097Z"
+      "collectedAt": "2026-07-18T23:12:43.223Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
