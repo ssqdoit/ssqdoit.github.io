@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T19:34:11.733Z",
+  "generatedAt": "2026-07-19T21:09:04.993Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,49 +46,19 @@
   ],
   "items": [
     {
-      "id": "douyin-2577706",
-      "platform": "douyin",
-      "title": "世界杯决赛：西班牙vs阿根廷",
-      "url": "https://www.douyin.com/hot/2577706",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12113818,
-      "metric": "1211.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
-    },
-    {
       "id": "douyin-2577536",
       "platform": "douyin",
       "title": "上海暴雨部分街道积水",
       "url": "https://www.douyin.com/hot/2577536",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12093159,
-      "metric": "1209.3 万 热度",
+      "score": 12124002,
+      "metric": "1212.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
-    },
-    {
-      "id": "douyin-2577641",
-      "platform": "douyin",
-      "title": "中国大模型首次登顶全球代码榜",
-      "url": "https://www.douyin.com/hot/2577641",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11961573,
-      "metric": "1196.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
+      "collectedAt": "2026-07-19T21:09:04.993Z"
     },
     {
       "id": "douyin-2577213",
@@ -97,43 +67,28 @@
       "url": "https://www.douyin.com/hot/2577213",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10819891,
-      "metric": "1082.0 万 热度",
+      "score": 11803394,
+      "metric": "1180.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
+      "collectedAt": "2026-07-19T21:09:04.993Z"
     },
     {
-      "id": "douyin-2577586",
+      "id": "douyin-2577641",
       "platform": "douyin",
-      "title": "凯尔登孙铭徽vs赖益烨郭洋",
-      "url": "https://www.douyin.com/hot/2577586",
+      "title": "中国大模型首次登顶全球代码榜",
+      "url": "https://www.douyin.com/hot/2577641",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9952914,
-      "metric": "995.3 万 热度",
+      "score": 11474384,
+      "metric": "1147.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
-    },
-    {
-      "id": "douyin-2577550",
-      "platform": "douyin",
-      "title": "马龙许昕男双冠军",
-      "url": "https://www.douyin.com/hot/2577550",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9722158,
-      "metric": "972.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
+      "collectedAt": "2026-07-19T21:09:04.993Z"
     },
     {
       "id": "douyin-2577386",
@@ -142,28 +97,13 @@
       "url": "https://www.douyin.com/hot/2577386",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8504902,
-      "metric": "850.5 万 热度",
+      "score": 11069594,
+      "metric": "1107.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
-    },
-    {
-      "id": "douyin-2576295",
-      "platform": "douyin",
-      "title": "光遇走进梵高",
-      "url": "https://www.douyin.com/hot/2576295",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8419170,
-      "metric": "841.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
+      "collectedAt": "2026-07-19T21:09:04.993Z"
     },
     {
       "id": "douyin-2577316",
@@ -172,28 +112,58 @@
       "url": "https://www.douyin.com/hot/2577316",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7840014,
-      "metric": "784.0 万 热度",
+      "score": 9540027,
+      "metric": "954.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
+      "collectedAt": "2026-07-19T21:09:04.993Z"
     },
     {
-      "id": "douyin-2577680",
+      "id": "douyin-2577550",
       "platform": "douyin",
-      "title": "舞法天女十周年",
-      "url": "https://www.douyin.com/hot/2577680",
+      "title": "马龙许昕男双冠军",
+      "url": "https://www.douyin.com/hot/2577550",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7836889,
-      "metric": "783.7 万 热度",
+      "score": 8748454,
+      "metric": "874.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
+      "collectedAt": "2026-07-19T21:09:04.993Z"
+    },
+    {
+      "id": "douyin-2576295",
+      "platform": "douyin",
+      "title": "光遇走进梵高",
+      "url": "https://www.douyin.com/hot/2576295",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7807311,
+      "metric": "780.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-19T21:09:04.993Z"
+    },
+    {
+      "id": "douyin-2577586",
+      "platform": "douyin",
+      "title": "凯尔登孙铭徽vs赖益烨郭洋",
+      "url": "https://www.douyin.com/hot/2577586",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7798685,
+      "metric": "779.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-19T21:09:04.993Z"
     },
     {
       "id": "douyin-2577561",
@@ -202,188 +172,218 @@
       "url": "https://www.douyin.com/hot/2577561",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7795100,
-      "metric": "779.5 万 热度",
+      "score": 7781486,
+      "metric": "778.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
+      "collectedAt": "2026-07-19T21:09:04.993Z"
     },
     {
-      "id": "douyin-2577248",
+      "id": "douyin-2577680",
       "platform": "douyin",
-      "title": "孟博龙陈畅不敌许涛谷玥灼",
-      "url": "https://www.douyin.com/hot/2577248",
+      "title": "舞法天女十周年",
+      "url": "https://www.douyin.com/hot/2577680",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7778955,
-      "metric": "777.9 万 热度",
+      "score": 7779812,
+      "metric": "778.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:11.733Z"
+      "collectedAt": "2026-07-19T21:09:04.993Z"
     },
     {
-      "id": "reddit-qku5k2",
+      "id": "douyin-2577706",
+      "platform": "douyin",
+      "title": "世界杯决赛：西班牙vs阿根廷",
+      "url": "https://www.douyin.com/hot/2577706",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7774852,
+      "metric": "777.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-19T21:09:04.993Z"
+    },
+    {
+      "id": "douyin-2577591",
+      "platform": "douyin",
+      "title": "怪我曾爱你爱得太深",
+      "url": "https://www.douyin.com/hot/2577591",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7765081,
+      "metric": "776.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-19T21:09:04.993Z"
+    },
+    {
+      "id": "reddit-1njne53",
       "platform": "reddit",
-      "title": "Seeking honest advice for pro bono tshirt design in the works",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0cnoz/seeking_honest_advice_for_pro_bono_tshirt_design/",
-      "thumbnail": "https://preview.redd.it/uu44o4r043eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0992be93df313193057b0132416bf9515f4a9e3e",
-      "author": "r/graphic_design · /u/CheerioBarbie",
+      "title": "I expanded an entire movie from 4x3 to 16x9 using LTX 2.3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v0ofkg/i_expanded_an_entire_movie_from_4x3_to_16x9_using/",
+      "thumbnail": "https://external-preview.redd.it/0AYEbI7bxHOF3obWU5yoY7Xi38P_0FNELbrppC2Nbfo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=643516892e06a1083899b1c5ae08f974c81b3846",
+      "author": "r/StableDiffusion · /u/dtaddis",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:10.868Z"
+      "collectedAt": "2026-07-19T21:09:04.377Z"
     },
     {
-      "id": "reddit-127adwe",
+      "id": "reddit-ssg0n7",
       "platform": "reddit",
-      "title": "Digital work that i made, based on a MtG card",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0sa1s/digital_work_that_i_made_based_on_a_mtg_card/",
-      "thumbnail": "https://preview.redd.it/hdgh96k777eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9de2d554b08190199c094f378a5beb4586026de9",
-      "author": "r/graphic_design · /u/isefol",
+      "title": "AI is moving so fast that I don't even know where to start",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v0fglx/ai_is_moving_so_fast_that_i_dont_even_know_where/",
+      "thumbnail": "",
+      "author": "r/StableDiffusion · /u/NavXIII",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:10.868Z"
+      "collectedAt": "2026-07-19T21:09:04.377Z"
     },
     {
-      "id": "reddit-m0mzlp",
+      "id": "reddit-d2ahzj",
       "platform": "reddit",
-      "title": "KROMATIME- Color Theory Game.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v081hz/kromatime_color_theory_game/",
-      "thumbnail": "https://preview.redd.it/4jc376nd42eh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f1601e5ed2434c804909790aa50616cb5dc8eb1a",
-      "author": "r/graphic_design · /u/AGENT_XIAN",
+      "title": "I compressed films to <1MB of text and regenerated them with Wan 2.2",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v0otg1/i_compressed_films_to_1mb_of_text_and_regenerated/",
+      "thumbnail": "https://external-preview.redd.it/ZXI1c3dzMGR4NWVoMdfgTcA9l7rPJoS9ZmJQ4-RQrl96H7JpVvCM603AwEB1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e36e2db937e983912b03b8b31e14c33082e3323c",
+      "author": "r/StableDiffusion · /u/Willsolo",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:10.868Z"
+      "collectedAt": "2026-07-19T21:09:04.377Z"
     },
     {
-      "id": "reddit-14lpiil",
+      "id": "reddit-1nbup3c",
       "platform": "reddit",
-      "title": "Deleting Instagram?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0nyun/deleting_instagram/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/Applesauce_Spook",
+      "title": "Some Krea2 Testing",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v0aayi/some_krea2_testing/",
+      "thumbnail": "https://preview.redd.it/myqqekmxl2eh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=de98ae4019fe1d3ec0abf150b4a2833511846cd4",
+      "author": "r/StableDiffusion · /u/hansimann0",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:10.868Z"
+      "collectedAt": "2026-07-19T21:09:04.377Z"
     },
     {
-      "id": "reddit-k2nqf4",
+      "id": "reddit-1l40ov9",
       "platform": "reddit",
-      "title": "B + Chat Bubble Logo for a Hotel Management App. The logo is suppose to represent communication between a customer and hotel management.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0ojlz/b_chat_bubble_logo_for_a_hotel_management_app_the/",
-      "thumbnail": "https://preview.redd.it/r2r14bwdd6eh1.jpg?width=140&amp;height=139&amp;auto=webp&amp;s=0ca1d1404e53525fdf9c13d572104886a9b52fee",
-      "author": "r/graphic_design · /u/uchi93",
+      "title": "Krea2 expressions with muscle prompting",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v10uub/krea2_expressions_with_muscle_prompting/",
+      "thumbnail": "https://preview.redd.it/9j4lvahbs8eh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=f3ca436a7470ae4feead94ae67e5f07962dc2e39",
+      "author": "r/StableDiffusion · /u/listopalafoto",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:10.868Z"
+      "collectedAt": "2026-07-19T21:09:04.377Z"
     },
     {
-      "id": "reddit-x3xwkv",
+      "id": "reddit-p1jhtt",
       "platform": "reddit",
-      "title": "Switching From Advertising Art Director to Designer?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v09070/switching_from_advertising_art_director_to/",
+      "title": "Krea 2 Raw for low VRAM (12GB). Good quality preservation and speed!",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v0t3un/krea_2_raw_for_low_vram_12gb_good_quality/",
       "thumbnail": "",
-      "author": "r/graphic_design · /u/wannadieswannalives",
+      "author": "r/StableDiffusion · /u/Status-Sherbert-6063",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:10.868Z"
+      "collectedAt": "2026-07-19T21:09:04.377Z"
     },
     {
-      "id": "reddit-1u2r42",
+      "id": "reddit-afeswf",
       "platform": "reddit",
-      "title": "Craft time",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0cjfw/craft_time/",
-      "thumbnail": "https://preview.redd.it/r3oxvaa833eh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=116943ff2676812a206e6078a88522e6e900f4a9",
-      "author": "r/graphic_design · /u/UnordinaryPeoplePod",
+      "title": "Some krea 2 anime images.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v0s772/some_krea_2_anime_images/",
+      "thumbnail": "https://preview.redd.it/a1aoovkd67eh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=decd04cc9b38d6362706a4e144c10427f70c3e28",
+      "author": "r/StableDiffusion · /u/CupSure9806",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:10.868Z"
+      "collectedAt": "2026-07-19T21:09:04.377Z"
     },
     {
-      "id": "reddit-az3732",
+      "id": "reddit-113ry39",
       "platform": "reddit",
-      "title": "Moving cities: Denmark/Sweden",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0t28c/moving_cities_denmarksweden/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/Moist-Durian-2718",
+      "title": "LTX 2.3 + Audio-reactive LoRA - Still can't get over how good this works",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v0r1m6/ltx_23_audioreactive_lora_still_cant_get_over_how/",
+      "thumbnail": "https://external-preview.redd.it/c3FlcnZncjR4NmVoMal7jaRNYyAWKcLnz023suLj_vyrDFWLzf8_8zPIW-gg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7a47eb1e0a11217e8fa89b3ff16f182eae531af",
+      "author": "r/StableDiffusion · /u/ART-ficial-Ignorance",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:10.868Z"
+      "collectedAt": "2026-07-19T21:09:04.377Z"
     },
     {
-      "id": "reddit-36evt3",
+      "id": "reddit-p9ursg",
       "platform": "reddit",
-      "title": "Looking for feedback on the typography and readability of a map label",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0y9z4/looking_for_feedback_on_the_typography_and/",
-      "thumbnail": "https://preview.redd.it/xrlpd4ljc8eh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cd7b0a4dbdfb9d7d9d36a997bc31b17770ac9b8",
-      "author": "r/graphic_design · /u/litttlleone",
+      "title": "Prompt/Style Selector node for comfyui (u/dear-spend-2865 krea2 presets included seperately)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v0ji47/promptstyle_selector_node_for_comfyui/",
+      "thumbnail": "https://preview.redd.it/ay8ilpkms4eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e09ab8014db33c9be68ca11f23f4e8bb56e85bb",
+      "author": "r/StableDiffusion · /u/berlinbaer",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:10.868Z"
+      "collectedAt": "2026-07-19T21:09:04.377Z"
     },
     {
-      "id": "reddit-1y8qfmj",
+      "id": "reddit-11u8dkd",
       "platform": "reddit",
-      "title": "Wondering if you're partnering with local service businesses?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0kisf/wondering_if_youre_partnering_with_local_service/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/dulerakun",
+      "title": "AnimeGen-T2V",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v099rv/animegent2v/",
+      "thumbnail": "https://external-preview.redd.it/OG94NHNoOW5kMmVoMW1SRsu2jPsoAP8_73UmcRr7tufgQYoeW3UGiwxHW1ik.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=928b0005436a43727947b6df21c249db8ea0a150",
+      "author": "r/StableDiffusion · /u/Different_Fix_2217",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T19:34:10.868Z"
+      "collectedAt": "2026-07-19T21:09:04.377Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
