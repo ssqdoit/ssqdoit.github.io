@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T11:32:01.906Z",
+  "generatedAt": "2026-07-19T13:55:36.510Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,58 +52,73 @@
       "url": "https://www.douyin.com/hot/2577213",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12103423,
-      "metric": "1210.3 万 热度",
+      "score": 12089208,
+      "metric": "1208.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
+      "collectedAt": "2026-07-19T13:55:36.510Z"
     },
     {
-      "id": "douyin-2577516",
+      "id": "douyin-2577386",
       "platform": "douyin",
-      "title": "新闻联播",
-      "url": "https://www.douyin.com/hot/2577516",
+      "title": "华山论剑首战宿命感拉满",
+      "url": "https://www.douyin.com/hot/2577386",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12091360,
-      "metric": "1209.1 万 热度",
+      "score": 11909806,
+      "metric": "1191.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
+      "collectedAt": "2026-07-19T13:55:36.510Z"
     },
     {
-      "id": "douyin-2577012",
+      "id": "douyin-2577641",
       "platform": "douyin",
-      "title": "中国AI站上全球治理主场",
-      "url": "https://www.douyin.com/hot/2577012",
+      "title": "中国大模型首次登顶全球代码榜",
+      "url": "https://www.douyin.com/hot/2577641",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11554097,
-      "metric": "1155.4 万 热度",
+      "score": 11611132,
+      "metric": "1161.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
+      "collectedAt": "2026-07-19T13:55:36.510Z"
     },
     {
-      "id": "douyin-2575495",
+      "id": "douyin-2577316",
       "platform": "douyin",
-      "title": "解锁那达慕全攻略",
-      "url": "https://www.douyin.com/hot/2575495",
+      "title": "那达慕射箭场高燃瞬间来了",
+      "url": "https://www.douyin.com/hot/2577316",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11338378,
-      "metric": "1133.8 万 热度",
+      "score": 11279152,
+      "metric": "1127.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
+      "collectedAt": "2026-07-19T13:55:36.510Z"
+    },
+    {
+      "id": "douyin-2577550",
+      "platform": "douyin",
+      "title": "马龙许昕男双冠军",
+      "url": "https://www.douyin.com/hot/2577550",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10195678,
+      "metric": "1019.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-19T13:55:36.510Z"
     },
     {
       "id": "douyin-2576720",
@@ -112,58 +127,28 @@
       "url": "https://www.douyin.com/hot/2576720",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10717262,
-      "metric": "1071.7 万 热度",
+      "score": 10113936,
+      "metric": "1011.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
+      "collectedAt": "2026-07-19T13:55:36.510Z"
     },
     {
-      "id": "douyin-2577501",
+      "id": "douyin-2577553",
       "platform": "douyin",
-      "title": "懂球天团终极预测阿根廷能否卫冕",
-      "url": "https://www.douyin.com/hot/2577501",
+      "title": "蒙超第十轮积分排名",
+      "url": "https://www.douyin.com/hot/2577553",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10615923,
-      "metric": "1061.6 万 热度",
+      "score": 8897539,
+      "metric": "889.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
-    },
-    {
-      "id": "douyin-2577156",
-      "platform": "douyin",
-      "title": "马龙许昕晋级男双决赛",
-      "url": "https://www.douyin.com/hot/2577156",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9243507,
-      "metric": "924.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
-    },
-    {
-      "id": "douyin-2576705",
-      "platform": "douyin",
-      "title": "记者：切尔西签下罗杰斯",
-      "url": "https://www.douyin.com/hot/2576705",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9162413,
-      "metric": "916.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
+      "collectedAt": "2026-07-19T13:55:36.510Z"
     },
     {
       "id": "douyin-2576814",
@@ -172,43 +157,28 @@
       "url": "https://www.douyin.com/hot/2576814",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9068180,
-      "metric": "906.8 万 热度",
+      "score": 8268072,
+      "metric": "826.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
+      "collectedAt": "2026-07-19T13:55:36.510Z"
     },
     {
-      "id": "douyin-2577008",
+      "id": "douyin-2577481",
       "platform": "douyin",
-      "title": "蔡磊获2026年度AI特别贡献人物",
-      "url": "https://www.douyin.com/hot/2577008",
+      "title": "凯尔登约翰逊抵达中国",
+      "url": "https://www.douyin.com/hot/2577481",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8828373,
-      "metric": "882.8 万 热度",
+      "score": 7847512,
+      "metric": "784.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
-    },
-    {
-      "id": "douyin-2576669",
-      "platform": "douyin",
-      "title": "姆巴佩22球登顶世界杯历史射手榜",
-      "url": "https://www.douyin.com/hot/2576669",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8744640,
-      "metric": "874.5 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
+      "collectedAt": "2026-07-19T13:55:36.510Z"
     },
     {
       "id": "douyin-2577376",
@@ -217,173 +187,203 @@
       "url": "https://www.douyin.com/hot/2577376",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8397512,
-      "metric": "839.8 万 热度",
+      "score": 7845572,
+      "metric": "784.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:01.906Z"
+      "collectedAt": "2026-07-19T13:55:36.510Z"
     },
     {
-      "id": "reddit-jqkj9g",
+      "id": "douyin-2577586",
+      "platform": "douyin",
+      "title": "凯尔登孙铭徽vs赖益烨郭洋",
+      "url": "https://www.douyin.com/hot/2577586",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7837972,
+      "metric": "783.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-19T13:55:36.510Z"
+    },
+    {
+      "id": "douyin-2577506",
+      "platform": "douyin",
+      "title": "14年后陈心灵重回主持台",
+      "url": "https://www.douyin.com/hot/2577506",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7828809,
+      "metric": "782.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-19T13:55:36.510Z"
+    },
+    {
+      "id": "reddit-1azsszu",
       "platform": "reddit",
-      "title": "Some more Visual Experiments. Made in Illustrator and Photoshop.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzvhu2/some_more_visual_experiments_made_in_illustrator/",
-      "thumbnail": "https://preview.redd.it/waatq5f4mzdh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=394736e2e0affa696f52e12efd58a3054d062999",
-      "author": "r/graphic_design · /u/prateek69123",
+      "title": "Mythology Anthology",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v03mjm/mythology_anthology/",
+      "thumbnail": "https://preview.redd.it/whqi72a381eh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=7fd12dfd550eed7f0b12869609823a1161a1a250",
+      "author": "r/midjourney · /u/Zenchilada",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:00.815Z"
+      "collectedAt": "2026-07-19T13:55:35.287Z"
     },
     {
-      "id": "reddit-qq1chn",
+      "id": "reddit-qnrses",
       "platform": "reddit",
-      "title": "Hello, I am a film poster designer and I did this poster for a documentary about a small family business of tombstone engraving. The film follows the artisans who are succeeded by ",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzuldd/hello_i_am_a_film_poster_designer_and_i_did_this/",
-      "thumbnail": "https://preview.redd.it/dl5jkjd0fzdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1e95022d320875daa3fdee4665ab8faa8ae2088",
-      "author": "r/graphic_design · /u/Puzzleheaded_Age3563",
+      "title": "Fantasy Fair",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v04f71/fantasy_fair/",
+      "thumbnail": "https://external-preview.redd.it/YTV5c2dkeXpkMWVoMXpa46mHbkzrlbVrPRWh4C_cNDwRj0CM-VWFzd5LHaIZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=310a38c3dd028c352c14f5f0ce18a9f05d9d891d",
+      "author": "r/midjourney · /u/metr0punk",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:00.815Z"
+      "collectedAt": "2026-07-19T13:55:35.287Z"
     },
     {
-      "id": "reddit-yv5yp9",
+      "id": "reddit-16q83f9",
       "platform": "reddit",
-      "title": "Poster designs I made",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzyta3/poster_designs_i_made/",
-      "thumbnail": "https://preview.redd.it/3btjemiua0eh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=49f4eb065e1f60b4449ac5871f505010ae63a8d9",
-      "author": "r/graphic_design · /u/S0da_cryptid",
+      "title": "Seventeen minutes before the rain, she had to cross the field.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uzzr88/seventeen_minutes_before_the_rain_she_had_to/",
+      "thumbnail": "https://preview.redd.it/8ljkgho4h0eh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=b5ee0596a0a998935d72963972a30b139b5fcbf0",
+      "author": "r/midjourney · /u/Total-Opposite4792",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:00.815Z"
+      "collectedAt": "2026-07-19T13:55:35.287Z"
     },
     {
-      "id": "reddit-od8i66",
+      "id": "reddit-1ymikxr",
       "platform": "reddit",
-      "title": "UK job ads offering below minimum wage for a full time role",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzwu98/uk_job_ads_offering_below_minimum_wage_for_a_full/",
-      "thumbnail": "https://preview.redd.it/i1w4p7lmwzdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8032964100c12d3ef9ee93c4ebcfe79e6dc2887",
-      "author": "r/graphic_design · /u/Electronic_Drink5074",
+      "title": "Dragoncat",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v070qc/dragoncat/",
+      "thumbnail": "https://preview.redd.it/ulbfhpyjw1eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=277547551878499b710ee3055dd2e7465e4a3791",
+      "author": "r/midjourney · /u/Nebula-Mechanica",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:00.815Z"
+      "collectedAt": "2026-07-19T13:55:35.287Z"
     },
     {
-      "id": "reddit-1kq4xdq",
+      "id": "reddit-18a1fe0",
       "platform": "reddit",
-      "title": "47 and looking for a new career move.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzvj46/47_and_looking_for_a_new_career_move/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/BelgarFirebeard",
+      "title": "Mesozonic era - 2",
+      "url": "https://www.reddit.com/r/midjourney/comments/1uzwsy6/mesozonic_era_2/",
+      "thumbnail": "https://preview.redd.it/rpx5o7lbwzdh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=f8791facba98cd605dea76307f07ec95ea435e45",
+      "author": "r/midjourney · /u/Sharp_Alternative845",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:00.815Z"
+      "collectedAt": "2026-07-19T13:55:35.287Z"
     },
     {
-      "id": "reddit-qku5k2",
+      "id": "reddit-1y8l3vp",
       "platform": "reddit",
-      "title": "Seeking honest advice for pro bono tshirt design in the works",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0cnoz/seeking_honest_advice_for_pro_bono_tshirt_design/",
-      "thumbnail": "https://preview.redd.it/uu44o4r043eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0992be93df313193057b0132416bf9515f4a9e3e",
-      "author": "r/graphic_design · /u/CheerioBarbie",
+      "title": "Fashion",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v0dtis/fashion/",
+      "thumbnail": "https://preview.redd.it/2o2oki2cf3eh1.jpg?width=140&amp;height=137&amp;auto=webp&amp;s=6c4f49e7c22ce8ea828bedf7c3d547d7d6786d83",
+      "author": "r/midjourney · /u/EleanorKalatheraine",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:00.815Z"
+      "collectedAt": "2026-07-19T13:55:35.287Z"
     },
     {
-      "id": "reddit-m0mzlp",
+      "id": "reddit-oxgduk",
       "platform": "reddit",
-      "title": "KROMATIME- Color Theory Game.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v081hz/kromatime_color_theory_game/",
-      "thumbnail": "https://preview.redd.it/4jc376nd42eh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f1601e5ed2434c804909790aa50616cb5dc8eb1a",
-      "author": "r/graphic_design · /u/AGENT_XIAN",
+      "title": "DM here, I made 30-second AI cutscenes for my D&D campaign. My players lost their minds at the bbeg reveal.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v0ob3p/dm_here_i_made_30second_ai_cutscenes_for_my_dd/",
+      "thumbnail": "https://external-preview.redd.it/YmYwZHFoMnhhNmVoMe9ad63USE2fVka9bGtCvQi78s40NsW3VafB2y-S7eZZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=783449c3f473617e57859504ae9b92b50277e681",
+      "author": "r/midjourney · /u/Proud-Marsupial-6696",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:00.815Z"
+      "collectedAt": "2026-07-19T13:55:35.287Z"
     },
     {
-      "id": "reddit-x3xwkv",
+      "id": "reddit-opct6o",
       "platform": "reddit",
-      "title": "Switching From Advertising Art Director to Designer?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v09070/switching_from_advertising_art_director_to/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/wannadieswannalives",
+      "title": "The Ghoul.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v0pg16/the_ghoul/",
+      "thumbnail": "https://preview.redd.it/1n0brda2l6eh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a18958353e663d2d1c21a30525680b84dae5cb3e",
+      "author": "r/midjourney · /u/Mordrat_The_Grey",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:00.815Z"
+      "collectedAt": "2026-07-19T13:55:35.287Z"
     },
     {
-      "id": "reddit-1u2r42",
+      "id": "reddit-tod6y2",
       "platform": "reddit",
-      "title": "Craft time",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0cjfw/craft_time/",
-      "thumbnail": "https://preview.redd.it/r3oxvaa833eh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=116943ff2676812a206e6078a88522e6e900f4a9",
-      "author": "r/graphic_design · /u/UnordinaryPeoplePod",
+      "title": "POVERTY (Claire Gaskin)",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v0aqat/poverty_claire_gaskin/",
+      "thumbnail": "https://preview.redd.it/r32oewj0p2eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=38a3fb166864c6fd24a730f871d01ab848de1463",
+      "author": "r/midjourney · /u/tladb",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:00.815Z"
+      "collectedAt": "2026-07-19T13:55:35.287Z"
     },
     {
-      "id": "reddit-16zrei0",
+      "id": "reddit-y2bd1n",
       "platform": "reddit",
-      "title": "Backing Up Design Source Files from a 20-year Career",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1uzumci/backing_up_design_source_files_from_a_20year/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/MicronTon",
+      "title": "nuro: biomimicry weapons platform Arachnida",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v0fisk/nuro_biomimicry_weapons_platform_arachnida/",
+      "thumbnail": "https://preview.redd.it/7i2ekyoju3eh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbb7d988641a6e1eed5fb0bfa212570e21f2b0ac",
+      "author": "r/midjourney · /u/Big_Addendum_9920",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-19T11:32:00.815Z"
+      "collectedAt": "2026-07-19T13:55:35.287Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
