@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T18:21:39.890Z",
+  "generatedAt": "2026-07-20T21:34:16.750Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -40,7 +40,7 @@
       "label": "Reddit",
       "status": "live",
       "message": "公开社区日榜",
-      "count": 10,
+      "count": 9,
       "mode": "public-api"
     }
   ],
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2578185",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12110394,
-      "metric": "1211.0 万 热度",
+      "score": 12089833,
+      "metric": "1209.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
+      "collectedAt": "2026-07-20T21:34:16.750Z"
     },
     {
       "id": "douyin-2579013",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2579013",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12107448,
-      "metric": "1210.7 万 热度",
+      "score": 12076100,
+      "metric": "1207.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
+      "collectedAt": "2026-07-20T21:34:16.750Z"
     },
     {
       "id": "douyin-2578965",
@@ -82,28 +82,13 @@
       "url": "https://www.douyin.com/hot/2578965",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12084386,
-      "metric": "1208.4 万 热度",
+      "score": 11592514,
+      "metric": "1159.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
-    },
-    {
-      "id": "douyin-2578911",
-      "platform": "douyin",
-      "title": "中国海警回应菲方蓄意挑衅",
-      "url": "https://www.douyin.com/hot/2578911",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11785974,
-      "metric": "1178.6 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
+      "collectedAt": "2026-07-20T21:34:16.750Z"
     },
     {
       "id": "douyin-2579061",
@@ -112,13 +97,28 @@
       "url": "https://www.douyin.com/hot/2579061",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10969289,
-      "metric": "1096.9 万 热度",
+      "score": 11501173,
+      "metric": "1150.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
+      "collectedAt": "2026-07-20T21:34:16.750Z"
+    },
+    {
+      "id": "douyin-2578911",
+      "platform": "douyin",
+      "title": "中国海警回应菲方蓄意挑衅",
+      "url": "https://www.douyin.com/hot/2578911",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10898651,
+      "metric": "1089.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T21:34:16.750Z"
     },
     {
       "id": "douyin-2579085",
@@ -127,13 +127,13 @@
       "url": "https://www.douyin.com/hot/2579085",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10929167,
-      "metric": "1092.9 万 热度",
+      "score": 10756896,
+      "metric": "1075.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
+      "collectedAt": "2026-07-20T21:34:16.750Z"
     },
     {
       "id": "douyin-2578703",
@@ -142,28 +142,13 @@
       "url": "https://www.douyin.com/hot/2578703",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9511119,
-      "metric": "951.1 万 热度",
+      "score": 9430055,
+      "metric": "943.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
-    },
-    {
-      "id": "douyin-2577675",
-      "platform": "douyin",
-      "title": "袁烜松发文感谢林高远",
-      "url": "https://www.douyin.com/hot/2577675",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9485957,
-      "metric": "948.6 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
+      "collectedAt": "2026-07-20T21:34:16.750Z"
     },
     {
       "id": "douyin-2578534",
@@ -172,13 +157,13 @@
       "url": "https://www.douyin.com/hot/2578534",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9391216,
-      "metric": "939.1 万 热度",
+      "score": 9378137,
+      "metric": "937.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
+      "collectedAt": "2026-07-20T21:34:16.750Z"
     },
     {
       "id": "douyin-2578068",
@@ -187,13 +172,28 @@
       "url": "https://www.douyin.com/hot/2578068",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9334792,
-      "metric": "933.5 万 热度",
+      "score": 9357247,
+      "metric": "935.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
+      "collectedAt": "2026-07-20T21:34:16.750Z"
+    },
+    {
+      "id": "douyin-2577675",
+      "platform": "douyin",
+      "title": "袁烜松发文感谢林高远",
+      "url": "https://www.douyin.com/hot/2577675",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9272644,
+      "metric": "927.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T21:34:16.750Z"
     },
     {
       "id": "douyin-2578637",
@@ -202,188 +202,172 @@
       "url": "https://www.douyin.com/hot/2578637",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9203847,
-      "metric": "920.4 万 热度",
+      "score": 9170322,
+      "metric": "917.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
+      "collectedAt": "2026-07-20T21:34:16.750Z"
     },
     {
-      "id": "douyin-2578553",
+      "id": "douyin-2576677",
       "platform": "douyin",
-      "title": "谢贤去世",
-      "url": "https://www.douyin.com/hot/2578553",
+      "title": "WAIC机器人格斗拳拳到铁",
+      "url": "https://www.douyin.com/hot/2576677",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9109389,
-      "metric": "910.9 万 热度",
+      "score": 8799393,
+      "metric": "879.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.890Z"
+      "collectedAt": "2026-07-20T21:34:16.750Z"
     },
     {
-      "id": "reddit-18g9i04",
+      "id": "reddit-1arifr0",
       "platform": "reddit",
-      "title": "The Odyssey (2026) - A Retro Film Poster that I made!",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v19dbi/the_odyssey_2026_a_retro_film_poster_that_i_made/",
-      "thumbnail": "https://preview.redd.it/rlii7g3rsaeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0c33f39487f880de90e9f6513cdd7c140d2e3f0",
-      "author": "r/graphic_design · /u/ripaldi44",
+      "title": "my photo manipulation art work any tips",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v1m6vf/my_photo_manipulation_art_work_any_tips/",
+      "thumbnail": "https://preview.redd.it/mvhe26zo2eeh1.png?width=140&amp;height=93&amp;auto=webp&amp;s=308be0867ee885989771d8ff387c617f72500e34",
+      "author": "r/photoshop · /u/Dizzy_Examination562",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.230Z"
+      "collectedAt": "2026-07-20T21:34:15.667Z"
     },
     {
-      "id": "reddit-162xvpf",
+      "id": "reddit-kh6wn9",
       "platform": "reddit",
-      "title": "New free font (Surfer 129)",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0zjzg/new_free_font_surfer_129/",
-      "thumbnail": "https://preview.redd.it/3hmk7ifvm8eh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=b08923a03fc56b903b11d83003ab1d54e94cee6f",
-      "author": "r/graphic_design · /u/Tricky_Musician7165",
+      "title": "nouvelle affiche pour Anomalisa de Satine!",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v1xw9v/nouvelle_affiche_pour_anomalisa_de_satine/",
+      "thumbnail": "https://preview.redd.it/g0r9jeq68geh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50edfa3e2ab2a4f6aecc4a0694d97de1a871ebd0",
+      "author": "r/photoshop · /u/Agreeable_Desk_1625",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.230Z"
+      "collectedAt": "2026-07-20T21:34:15.667Z"
     },
     {
-      "id": "reddit-vwgawg",
+      "id": "reddit-6cnytg",
       "platform": "reddit",
-      "title": "After how long should I consider \"maybe it isn't for me\"? 10 years trying to build a career or get a job, nothing",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v118sw/after_how_long_should_i_consider_maybe_it_isnt/",
+      "title": "Trying to do the opposite of a layer mask...",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v1sqg9/trying_to_do_the_opposite_of_a_layer_mask/",
       "thumbnail": "",
-      "author": "r/graphic_design · /u/DynamaxedWooloo",
+      "author": "r/photoshop · /u/eldersveld",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.230Z"
+      "collectedAt": "2026-07-20T21:34:15.667Z"
     },
     {
-      "id": "reddit-m6wln3",
+      "id": "reddit-1xq54p5",
       "platform": "reddit",
-      "title": "What do you think of this package/ branding idea?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v1j1ik/what_do_you_think_of_this_package_branding_idea/",
-      "thumbnail": "https://preview.redd.it/9pa1jadqedeh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=297f0b3e76cee521f316ef67246502775a66a4ba",
-      "author": "r/graphic_design · /u/nokdi1",
+      "title": "What Tools Do You Use for Skin Retouch?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v1n57h/what_tools_do_you_use_for_skin_retouch/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/Diligent_Climate_554",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.230Z"
+      "collectedAt": "2026-07-20T21:34:15.667Z"
     },
     {
-      "id": "reddit-16i8r7f",
+      "id": "reddit-7gy7mh",
       "platform": "reddit",
-      "title": "soda label newbie, looking for feedback!",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v1d599/soda_label_newbie_looking_for_feedback/",
-      "thumbnail": "https://preview.redd.it/b40bk7apsbeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d6a656179b2145a6d5076c51cf9634f58782db8",
-      "author": "r/graphic_design · /u/akrsnu",
+      "title": "Eraser not working with Kyles splatter brushes",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v1ttfx/eraser_not_working_with_kyles_splatter_brushes/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/StankyKeys",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.230Z"
+      "collectedAt": "2026-07-20T21:34:15.667Z"
     },
     {
-      "id": "reddit-e7k5jw",
+      "id": "reddit-d12e38",
       "platform": "reddit",
-      "title": "How did this turn out?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0zj8n/how_did_this_turn_out/",
-      "thumbnail": "https://preview.redd.it/d25ln5dbm8eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8743484263078243465ed5bc60e7bf86e14abb2e",
-      "author": "r/graphic_design · /u/Superb_Ad_6460",
-      "score": 5,
-      "metric": "社区日榜",
-      "tags": [
-        "r/graphic_design",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.230Z"
-    },
-    {
-      "id": "reddit-36evt3",
-      "platform": "reddit",
-      "title": "Looking for feedback on the typography and readability of a map label",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v0y9z4/looking_for_feedback_on_the_typography_and/",
-      "thumbnail": "https://preview.redd.it/xrlpd4ljc8eh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cd7b0a4dbdfb9d7d9d36a997bc31b17770ac9b8",
-      "author": "r/graphic_design · /u/litttlleone",
+      "title": "Transitioning from mobile photo editing to desktop, but don't know where to start",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v1qeun/transitioning_from_mobile_photo_editing_to/",
+      "thumbnail": "https://preview.redd.it/uap3be6mveeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=309cf480fe0b2a44862ec8101ab90d6827db7b54",
+      "author": "r/photoshop · /u/Ok-Purpose-6718",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.230Z"
+      "collectedAt": "2026-07-20T21:34:15.667Z"
     },
     {
-      "id": "reddit-f7hh4a",
+      "id": "reddit-wmqdsg",
       "platform": "reddit",
-      "title": "High School Student Here",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v1ieze/high_school_student_here/",
-      "thumbnail": "https://preview.redd.it/v15ubmviadeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1d58eca924938a8efa27bc3fa7d51deeb3813a12",
-      "author": "r/graphic_design · /u/Careless_Ad_6508",
+      "title": "Contextual Task Bar changes position to top left corner",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v1ehbl/contextual_task_bar_changes_position_to_top_left/",
+      "thumbnail": "https://preview.redd.it/ws2h95bp3ceh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=1ca33df2de7213211e2c5419e6afa40ec1ed96e2",
+      "author": "r/photoshop · /u/friutfulmonk5888",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.230Z"
+      "collectedAt": "2026-07-20T21:34:15.667Z"
     },
     {
-      "id": "reddit-wg5yfk",
+      "id": "reddit-11u5myu",
       "platform": "reddit",
-      "title": "Senior Graphic Designer that never get accepted Worldwide",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v1frjb/senior_graphic_designer_that_never_get_accepted/",
+      "title": "Two noob questions; PNG saving and stamper",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v1pi6j/two_noob_questions_png_saving_and_stamper/",
       "thumbnail": "",
-      "author": "r/graphic_design · /u/Lone-Journey-OR7",
+      "author": "r/photoshop · /u/Spirited-Pop7467",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.230Z"
+      "collectedAt": "2026-07-20T21:34:15.667Z"
     },
     {
-      "id": "reddit-1dki53l",
+      "id": "reddit-1nbe4ta",
       "platform": "reddit",
-      "title": "Advice on breaking into the industry",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v12fqe/advice_on_breaking_into_the_industry/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/Tired_Potato",
+      "title": "How to change the colour of the thing outside the canvas back to normal?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v1fd1d/how_to_change_the_colour_of_the_thing_outside_the/",
+      "thumbnail": "https://preview.redd.it/rszzgb0pfceh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a42025ed47f5ef5c14424b92a1f43ed065a091c5",
+      "author": "r/photoshop · /u/MuffinSpawner",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T18:21:39.230Z"
+      "collectedAt": "2026-07-20T21:34:15.667Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
