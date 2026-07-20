@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T11:15:14.351Z",
+  "generatedAt": "2026-07-20T14:34:32.691Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,118 +52,13 @@
       "url": "https://www.douyin.com/hot/2578185",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12328752,
-      "metric": "1232.9 万 热度",
+      "score": 12170426,
+      "metric": "1217.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
-    },
-    {
-      "id": "douyin-2577975",
-      "platform": "douyin",
-      "title": "A股",
-      "url": "https://www.douyin.com/hot/2577975",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12143693,
-      "metric": "1214.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
-    },
-    {
-      "id": "douyin-2578684",
-      "platform": "douyin",
-      "title": "我国人形机器人产品超全球半数",
-      "url": "https://www.douyin.com/hot/2578684",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12140387,
-      "metric": "1214.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
-    },
-    {
-      "id": "douyin-2578780",
-      "platform": "douyin",
-      "title": "369入驻抖音",
-      "url": "https://www.douyin.com/hot/2578780",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 12040307,
-      "metric": "1204.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
-    },
-    {
-      "id": "douyin-2578884",
-      "platform": "douyin",
-      "title": "新闻联播",
-      "url": "https://www.douyin.com/hot/2578884",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11300896,
-      "metric": "1130.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
-    },
-    {
-      "id": "douyin-2578553",
-      "platform": "douyin",
-      "title": "谢贤去世",
-      "url": "https://www.douyin.com/hot/2578553",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11058346,
-      "metric": "1105.8 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
-    },
-    {
-      "id": "douyin-2578637",
-      "platform": "douyin",
-      "title": "谢霆锋兄妹发布讣告",
-      "url": "https://www.douyin.com/hot/2578637",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9696654,
-      "metric": "969.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
-    },
-    {
-      "id": "douyin-2578191",
-      "platform": "douyin",
-      "title": "浪费一套完美穿搭",
-      "url": "https://www.douyin.com/hot/2578191",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9157049,
-      "metric": "915.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
+      "collectedAt": "2026-07-20T14:34:32.691Z"
     },
     {
       "id": "douyin-2577127",
@@ -172,218 +67,323 @@
       "url": "https://www.douyin.com/hot/2577127",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9073963,
-      "metric": "907.4 万 热度",
+      "score": 12100689,
+      "metric": "1210.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
+      "collectedAt": "2026-07-20T14:34:32.691Z"
     },
     {
-      "id": "douyin-2577686",
+      "id": "douyin-2578965",
       "platform": "douyin",
-      "title": "拉塞尔遭汉密尔顿撞击遗憾退赛",
-      "url": "https://www.douyin.com/hot/2577686",
+      "title": "E法同行 法润塞上",
+      "url": "https://www.douyin.com/hot/2578965",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8080360,
-      "metric": "808.0 万 热度",
+      "score": 12091957,
+      "metric": "1209.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
+      "collectedAt": "2026-07-20T14:34:32.691Z"
     },
     {
-      "id": "douyin-2577792",
+      "id": "douyin-2578929",
       "platform": "douyin",
-      "title": "西班牙阿根廷赛后打起来了",
-      "url": "https://www.douyin.com/hot/2577792",
+      "title": "BLG对阵XLG",
+      "url": "https://www.douyin.com/hot/2578929",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7918182,
-      "metric": "791.8 万 热度",
+      "score": 12046252,
+      "metric": "1204.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
+      "collectedAt": "2026-07-20T14:34:32.691Z"
     },
     {
-      "id": "douyin-2577848",
+      "id": "douyin-2579013",
       "platform": "douyin",
-      "title": "姆巴佩蝉联世界杯金靴奖",
-      "url": "https://www.douyin.com/hot/2577848",
+      "title": "菲方围顶冲撞中方巡逻艇画面公开",
+      "url": "https://www.douyin.com/hot/2579013",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 7808308,
-      "metric": "780.8 万 热度",
+      "score": 11325900,
+      "metric": "1132.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:14.351Z"
+      "collectedAt": "2026-07-20T14:34:32.691Z"
     },
     {
-      "id": "reddit-1tduuk4",
+      "id": "douyin-2578911",
+      "platform": "douyin",
+      "title": "中国海警回应菲方蓄意挑衅",
+      "url": "https://www.douyin.com/hot/2578911",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11248692,
+      "metric": "1124.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T14:34:32.691Z"
+    },
+    {
+      "id": "douyin-2578534",
+      "platform": "douyin",
+      "title": "证监会：全力维护市场平稳运行",
+      "url": "https://www.douyin.com/hot/2578534",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10047241,
+      "metric": "1004.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T14:34:32.691Z"
+    },
+    {
+      "id": "douyin-2578846",
+      "platform": "douyin",
+      "title": "抖音乒乓百分大战再次开战",
+      "url": "https://www.douyin.com/hot/2578846",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9715419,
+      "metric": "971.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T14:34:32.691Z"
+    },
+    {
+      "id": "douyin-2578703",
+      "platform": "douyin",
+      "title": "洛克王国S3赛季异色精灵",
+      "url": "https://www.douyin.com/hot/2578703",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9678148,
+      "metric": "967.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T14:34:32.691Z"
+    },
+    {
+      "id": "douyin-2578391",
+      "platform": "douyin",
+      "title": "2026全国公安特警挑战赛今日开赛",
+      "url": "https://www.douyin.com/hot/2578391",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9375729,
+      "metric": "937.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T14:34:32.691Z"
+    },
+    {
+      "id": "douyin-2578637",
+      "platform": "douyin",
+      "title": "谢霆锋兄妹发布讣告",
+      "url": "https://www.douyin.com/hot/2578637",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9142744,
+      "metric": "914.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T14:34:32.691Z"
+    },
+    {
+      "id": "douyin-2578553",
+      "platform": "douyin",
+      "title": "谢贤去世",
+      "url": "https://www.douyin.com/hot/2578553",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8981702,
+      "metric": "898.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T14:34:32.691Z"
+    },
+    {
+      "id": "reddit-18g9i04",
       "platform": "reddit",
-      "title": "Barrio Tour, 2 AM",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v0qbeq/barrio_tour_2_am/",
-      "thumbnail": "https://external-preview.redd.it/c3N4bDVicDRzNmVoMW37RqyNYfLByQZwbhR3FyoZVaL3FI1swm-NmyG8xeG8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d7798f06955fdc13e09f40cea332337b3f6bd03",
-      "author": "r/midjourney · /u/metr0punk",
+      "title": "The Odyssey (2026) - A Retro Film Poster that I made!",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v19dbi/the_odyssey_2026_a_retro_film_poster_that_i_made/",
+      "thumbnail": "https://preview.redd.it/rlii7g3rsaeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0c33f39487f880de90e9f6513cdd7c140d2e3f0",
+      "author": "r/graphic_design · /u/ripaldi44",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:12.857Z"
+      "collectedAt": "2026-07-20T14:34:31.386Z"
     },
     {
-      "id": "reddit-1y6402t",
+      "id": "reddit-162xvpf",
       "platform": "reddit",
-      "title": "Europa Water Falls",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v0tdyp/europa_water_falls/",
-      "thumbnail": "https://external-preview.redd.it/ZWYwYmt1ejlmN2VoMRW7ribZ3RZi1fp6g2P-kcL2gg38MoTYHfvi2FlFVKn6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b70b806bdf275b9224b4cfc25e797e73b12e9ad9",
-      "author": "r/midjourney · /u/Dropdeadlegs84",
+      "title": "New free font (Surfer 129)",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v0zjzg/new_free_font_surfer_129/",
+      "thumbnail": "https://preview.redd.it/3hmk7ifvm8eh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=b08923a03fc56b903b11d83003ab1d54e94cee6f",
+      "author": "r/graphic_design · /u/Tricky_Musician7165",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:12.857Z"
+      "collectedAt": "2026-07-20T14:34:31.386Z"
     },
     {
-      "id": "reddit-1l6tzux",
+      "id": "reddit-vwgawg",
       "platform": "reddit",
-      "title": "Untitled 68",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v0x9d1/untitled_68/",
-      "thumbnail": "https://preview.redd.it/n0zwcbe768eh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=933d5b06653d54932c0f1f09ee76ce9b8d225d00",
-      "author": "r/midjourney · /u/12washingbeard",
+      "title": "After how long should I consider \"maybe it isn't for me\"? 10 years trying to build a career or get a job, nothing",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v118sw/after_how_long_should_i_consider_maybe_it_isnt/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/DynamaxedWooloo",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:12.857Z"
+      "collectedAt": "2026-07-20T14:34:31.386Z"
     },
     {
-      "id": "reddit-1ayk3i4",
+      "id": "reddit-127adwe",
       "platform": "reddit",
-      "title": "Ashen Mausoleum",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v150k0/ashen_mausoleum/",
-      "thumbnail": "https://preview.redd.it/65tdwujes9eh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=11eb5602ae7fc973ef084a870a09d198be1daf3f",
-      "author": "r/midjourney · /u/WorkLucky4366",
+      "title": "Digital work that i made, based on a MtG card",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v0sa1s/digital_work_that_i_made_based_on_a_mtg_card/",
+      "thumbnail": "https://preview.redd.it/hdgh96k777eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9de2d554b08190199c094f378a5beb4586026de9",
+      "author": "r/graphic_design · /u/isefol",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:12.857Z"
+      "collectedAt": "2026-07-20T14:34:31.386Z"
     },
     {
-      "id": "reddit-opct6o",
+      "id": "reddit-16i8r7f",
       "platform": "reddit",
-      "title": "The Ghoul.",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v0pg16/the_ghoul/",
-      "thumbnail": "https://preview.redd.it/1n0brda2l6eh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a18958353e663d2d1c21a30525680b84dae5cb3e",
-      "author": "r/midjourney · /u/Mordrat_The_Grey",
+      "title": "soda label newbie, looking for feedback!",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v1d599/soda_label_newbie_looking_for_feedback/",
+      "thumbnail": "https://preview.redd.it/b40bk7apsbeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d6a656179b2145a6d5076c51cf9634f58782db8",
+      "author": "r/graphic_design · /u/akrsnu",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:12.857Z"
+      "collectedAt": "2026-07-20T14:34:31.386Z"
     },
     {
-      "id": "reddit-ugexvu",
+      "id": "reddit-m6wln3",
       "platform": "reddit",
-      "title": "NEURALNETWORK.EXE",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v12dqt/neuralnetworkexe/",
-      "thumbnail": "https://preview.redd.it/w2n772jx89eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c273c91d36e82e55e891ac3c2d616c852d19821",
-      "author": "r/midjourney · /u/Zaicab",
+      "title": "What do you think of this package/ branding idea?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v1j1ik/what_do_you_think_of_this_package_branding_idea/",
+      "thumbnail": "https://preview.redd.it/9pa1jadqedeh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=297f0b3e76cee521f316ef67246502775a66a4ba",
+      "author": "r/graphic_design · /u/nokdi1",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:12.857Z"
+      "collectedAt": "2026-07-20T14:34:31.386Z"
     },
     {
-      "id": "reddit-1cwl1co",
+      "id": "reddit-e7k5jw",
       "platform": "reddit",
-      "title": "Black Oil",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v0trto/black_oil/",
-      "thumbnail": "https://preview.redd.it/5p1m4e71i7eh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=8e1f2a89d12e336137357e94d0cf9bc4371507de",
-      "author": "r/midjourney · /u/CrookedtalePirates",
+      "title": "How did this turn out?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v0zj8n/how_did_this_turn_out/",
+      "thumbnail": "https://preview.redd.it/d25ln5dbm8eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8743484263078243465ed5bc60e7bf86e14abb2e",
+      "author": "r/graphic_design · /u/Superb_Ad_6460",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:12.857Z"
+      "collectedAt": "2026-07-20T14:34:31.387Z"
     },
     {
-      "id": "reddit-1qs53px",
+      "id": "reddit-1yljz8u",
       "platform": "reddit",
-      "title": "Cyberpunk 1877",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v14nrd/cyberpunk_1877/",
-      "thumbnail": "https://preview.redd.it/9x8xojg9q9eh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=79e461a967d84b888ba259d8d8b395a6b25166a0",
-      "author": "r/midjourney · /u/Fearless_Marsupial98",
+      "title": "Been doing design for about 10 years and it's driving me insane",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v1aokw/been_doing_design_for_about_10_years_and_its/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/f1122660",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:12.857Z"
+      "collectedAt": "2026-07-20T14:34:31.387Z"
     },
     {
-      "id": "reddit-rh8ebu",
+      "id": "reddit-wg5yfk",
       "platform": "reddit",
-      "title": "The warriors",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v1a3i0/the_warriors/",
-      "thumbnail": "https://preview.redd.it/c7jp644gzaeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=8a1d308f4ad4391b6aafa7c060ee40fd840efef8",
-      "author": "r/midjourney · /u/Shopstumblergurl",
+      "title": "Senior Graphic Designer that never get accepted Worldwide",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v1frjb/senior_graphic_designer_that_never_get_accepted/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Lone-Journey-OR7",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:12.857Z"
+      "collectedAt": "2026-07-20T14:34:31.387Z"
     },
     {
-      "id": "reddit-18uls6d",
+      "id": "reddit-1dki53l",
       "platform": "reddit",
-      "title": "Autofiction | ŚIME KNEŽEVIĆ",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v182yl/autofiction_śime_knežević/",
-      "thumbnail": "https://preview.redd.it/yhf4htwehaeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7799f162933c0ec508d1c703341259488daff528",
-      "author": "r/midjourney · /u/tladb",
+      "title": "Advice on breaking into the industry",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v12fqe/advice_on_breaking_into_the_industry/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Tired_Potato",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T11:15:12.857Z"
+      "collectedAt": "2026-07-20T14:34:31.387Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
