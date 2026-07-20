@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T21:34:16.750Z",
+  "generatedAt": "2026-07-20T23:16:21.598Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2578185",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12089833,
-      "metric": "1209.0 万 热度",
+      "score": 12094584,
+      "metric": "1209.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
+      "collectedAt": "2026-07-20T23:16:21.598Z"
     },
     {
       "id": "douyin-2579013",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2579013",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12076100,
-      "metric": "1207.6 万 热度",
+      "score": 12052603,
+      "metric": "1205.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
+      "collectedAt": "2026-07-20T23:16:21.598Z"
     },
     {
       "id": "douyin-2578965",
@@ -82,13 +82,13 @@
       "url": "https://www.douyin.com/hot/2578965",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11592514,
-      "metric": "1159.3 万 热度",
+      "score": 11986708,
+      "metric": "1198.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
+      "collectedAt": "2026-07-20T23:16:21.598Z"
     },
     {
       "id": "douyin-2579061",
@@ -97,73 +97,13 @@
       "url": "https://www.douyin.com/hot/2579061",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11501173,
-      "metric": "1150.1 万 热度",
+      "score": 11902171,
+      "metric": "1190.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
-    },
-    {
-      "id": "douyin-2578911",
-      "platform": "douyin",
-      "title": "中国海警回应菲方蓄意挑衅",
-      "url": "https://www.douyin.com/hot/2578911",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10898651,
-      "metric": "1089.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
-    },
-    {
-      "id": "douyin-2579085",
-      "platform": "douyin",
-      "title": "广西崇左扶绥县发生3.7级地震",
-      "url": "https://www.douyin.com/hot/2579085",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10756896,
-      "metric": "1075.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
-    },
-    {
-      "id": "douyin-2578703",
-      "platform": "douyin",
-      "title": "洛克王国S3赛季异色精灵",
-      "url": "https://www.douyin.com/hot/2578703",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9430055,
-      "metric": "943.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
-    },
-    {
-      "id": "douyin-2578534",
-      "platform": "douyin",
-      "title": "证监会：全力维护市场平稳运行",
-      "url": "https://www.douyin.com/hot/2578534",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9378137,
-      "metric": "937.8 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
+      "collectedAt": "2026-07-20T23:16:21.598Z"
     },
     {
       "id": "douyin-2578068",
@@ -172,13 +112,43 @@
       "url": "https://www.douyin.com/hot/2578068",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9357247,
-      "metric": "935.7 万 热度",
+      "score": 10624991,
+      "metric": "1062.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
+      "collectedAt": "2026-07-20T23:16:21.598Z"
+    },
+    {
+      "id": "douyin-2578703",
+      "platform": "douyin",
+      "title": "洛克王国S3赛季异色精灵",
+      "url": "https://www.douyin.com/hot/2578703",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10586669,
+      "metric": "1058.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T23:16:21.598Z"
+    },
+    {
+      "id": "douyin-2578846",
+      "platform": "douyin",
+      "title": "抖音乒乓百分大战再次开战",
+      "url": "https://www.douyin.com/hot/2578846",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9388858,
+      "metric": "938.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T23:16:21.598Z"
     },
     {
       "id": "douyin-2577675",
@@ -187,28 +157,13 @@
       "url": "https://www.douyin.com/hot/2577675",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9272644,
-      "metric": "927.3 万 热度",
+      "score": 9206291,
+      "metric": "920.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
-    },
-    {
-      "id": "douyin-2578637",
-      "platform": "douyin",
-      "title": "谢霆锋兄妹发布讣告",
-      "url": "https://www.douyin.com/hot/2578637",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9170322,
-      "metric": "917.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
+      "collectedAt": "2026-07-20T23:16:21.598Z"
     },
     {
       "id": "douyin-2576677",
@@ -217,13 +172,58 @@
       "url": "https://www.douyin.com/hot/2576677",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8799393,
-      "metric": "879.9 万 热度",
+      "score": 9198575,
+      "metric": "919.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:16.750Z"
+      "collectedAt": "2026-07-20T23:16:21.598Z"
+    },
+    {
+      "id": "douyin-2578913",
+      "platform": "douyin",
+      "title": "“公交从南沙大桥上冲出”不实",
+      "url": "https://www.douyin.com/hot/2578913",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8618174,
+      "metric": "861.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T23:16:21.598Z"
+    },
+    {
+      "id": "douyin-2578553",
+      "platform": "douyin",
+      "title": "谢贤去世",
+      "url": "https://www.douyin.com/hot/2578553",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7885939,
+      "metric": "788.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T23:16:21.598Z"
+    },
+    {
+      "id": "douyin-2578824",
+      "platform": "douyin",
+      "title": "功夫女足票房突破15亿",
+      "url": "https://www.douyin.com/hot/2578824",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 7789796,
+      "metric": "779.0 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-20T23:16:21.598Z"
     },
     {
       "id": "reddit-1arifr0",
@@ -239,7 +239,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:15.667Z"
+      "collectedAt": "2026-07-20T23:16:18.294Z"
     },
     {
       "id": "reddit-kh6wn9",
@@ -255,7 +255,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:15.667Z"
+      "collectedAt": "2026-07-20T23:16:18.294Z"
     },
     {
       "id": "reddit-6cnytg",
@@ -271,7 +271,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:15.667Z"
+      "collectedAt": "2026-07-20T23:16:18.294Z"
     },
     {
       "id": "reddit-1xq54p5",
@@ -287,7 +287,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:15.667Z"
+      "collectedAt": "2026-07-20T23:16:18.294Z"
     },
     {
       "id": "reddit-7gy7mh",
@@ -303,7 +303,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:15.667Z"
+      "collectedAt": "2026-07-20T23:16:18.294Z"
     },
     {
       "id": "reddit-d12e38",
@@ -319,7 +319,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:15.667Z"
+      "collectedAt": "2026-07-20T23:16:18.294Z"
     },
     {
       "id": "reddit-wmqdsg",
@@ -335,7 +335,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:15.667Z"
+      "collectedAt": "2026-07-20T23:16:18.294Z"
     },
     {
       "id": "reddit-11u5myu",
@@ -351,7 +351,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:15.667Z"
+      "collectedAt": "2026-07-20T23:16:18.294Z"
     },
     {
       "id": "reddit-1nbe4ta",
@@ -367,7 +367,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-20T21:34:15.667Z"
+      "collectedAt": "2026-07-20T23:16:18.294Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
