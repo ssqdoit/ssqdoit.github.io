@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T19:53:58.352Z",
+  "generatedAt": "2026-07-21T21:33:53.352Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -40,7 +40,7 @@
       "label": "Reddit",
       "status": "live",
       "message": "公开社区日榜",
-      "count": 8,
+      "count": 9,
       "mode": "public-api"
     }
   ],
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2579762",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11164699,
-      "metric": "1116.5 万 热度",
+      "score": 11095445,
+      "metric": "1109.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
       "id": "douyin-2579842",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2579842",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11113122,
-      "metric": "1111.3 万 热度",
+      "score": 10995246,
+      "metric": "1099.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
       "id": "douyin-2579390",
@@ -82,13 +82,13 @@
       "url": "https://www.douyin.com/hot/2579390",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11107468,
-      "metric": "1110.7 万 热度",
+      "score": 10858612,
+      "metric": "1085.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
       "id": "douyin-2579980",
@@ -97,13 +97,13 @@
       "url": "https://www.douyin.com/hot/2579980",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11101586,
-      "metric": "1110.2 万 热度",
+      "score": 10804749,
+      "metric": "1080.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
       "id": "douyin-2579333",
@@ -112,13 +112,13 @@
       "url": "https://www.douyin.com/hot/2579333",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10544999,
-      "metric": "1054.5 万 热度",
+      "score": 10245023,
+      "metric": "1024.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
       "id": "douyin-2579352",
@@ -127,28 +127,13 @@
       "url": "https://www.douyin.com/hot/2579352",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10344239,
-      "metric": "1034.4 万 热度",
+      "score": 10197616,
+      "metric": "1019.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
-    },
-    {
-      "id": "douyin-2579734",
-      "platform": "douyin",
-      "title": "菲方恶意攻击致中方人员受伤",
-      "url": "https://www.douyin.com/hot/2579734",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9186661,
-      "metric": "918.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
       "id": "douyin-2579493",
@@ -157,28 +142,43 @@
       "url": "https://www.douyin.com/hot/2579493",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9109031,
-      "metric": "910.9 万 热度",
+      "score": 8947588,
+      "metric": "894.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
-      "id": "douyin-2579445",
+      "id": "douyin-2579734",
       "platform": "douyin",
-      "title": "印度首都爆发大规模抗议",
-      "url": "https://www.douyin.com/hot/2579445",
+      "title": "菲方恶意攻击致中方人员受伤",
+      "url": "https://www.douyin.com/hot/2579734",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9003666,
-      "metric": "900.4 万 热度",
+      "score": 8885897,
+      "metric": "888.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
+    },
+    {
+      "id": "douyin-2580108",
+      "platform": "douyin",
+      "title": "云南普洱发生5.0级地震",
+      "url": "https://www.douyin.com/hot/2580108",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8815209,
+      "metric": "881.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
       "id": "douyin-2579607",
@@ -187,43 +187,43 @@
       "url": "https://www.douyin.com/hot/2579607",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8943258,
-      "metric": "894.3 万 热度",
+      "score": 8744288,
+      "metric": "874.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
-      "id": "douyin-2580245",
+      "id": "douyin-2579445",
       "platform": "douyin",
-      "title": "重庆铜梁龙晋级足协杯八强",
-      "url": "https://www.douyin.com/hot/2580245",
+      "title": "印度首都爆发大规模抗议",
+      "url": "https://www.douyin.com/hot/2579445",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8791722,
-      "metric": "879.2 万 热度",
+      "score": 8670667,
+      "metric": "867.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
-      "id": "douyin-2580145",
+      "id": "douyin-2579339",
       "platform": "douyin",
-      "title": "足协杯上海申花4:1青岛海牛",
-      "url": "https://www.douyin.com/hot/2580145",
+      "title": "一念江南开机",
+      "url": "https://www.douyin.com/hot/2579339",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8776231,
-      "metric": "877.6 万 热度",
+      "score": 8291270,
+      "metric": "829.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:58.352Z"
+      "collectedAt": "2026-07-21T21:33:53.352Z"
     },
     {
       "id": "reddit-11c90tp",
@@ -239,15 +239,15 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:57.308Z"
+      "collectedAt": "2026-07-21T21:33:52.236Z"
     },
     {
-      "id": "reddit-kh6wn9",
+      "id": "reddit-10bjgyj",
       "platform": "reddit",
-      "title": "nouvelle affiche pour Anomalisa de Satine!",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v1xw9v/nouvelle_affiche_pour_anomalisa_de_satine/",
-      "thumbnail": "https://preview.redd.it/g0r9jeq68geh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50edfa3e2ab2a4f6aecc4a0694d97de1a871ebd0",
-      "author": "r/photoshop · /u/Agreeable_Desk_1625",
+      "title": "Is there something I'm not doing correctly with how Photoshop 2026 is saving my files?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2vmut/is_there_something_im_not_doing_correctly_with/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/KelvinBelmont",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
@@ -255,87 +255,7 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:57.308Z"
-    },
-    {
-      "id": "reddit-hla02i",
-      "platform": "reddit",
-      "title": "Help me become moana lisa",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v2hafq/help_me_become_moana_lisa/",
-      "thumbnail": "https://preview.redd.it/kikcancrvkeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e56f4e79f2126fd2178acddb272f870952f09e42",
-      "author": "r/photoshop · /u/Vast-Horse-2881",
-      "score": 8,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:57.308Z"
-    },
-    {
-      "id": "reddit-ug4kmr",
-      "platform": "reddit",
-      "title": "I wrote a script to automatically cut along the guides.",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v2mril/i_wrote_a_script_to_automatically_cut_along_the/",
-      "thumbnail": "https://preview.redd.it/y6h3cf6wvleh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2bbf8baee880b50428394d0c7dcaa8f4977f2b69",
-      "author": "r/photoshop · /u/watermelonywtf",
-      "score": 7,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:57.308Z"
-    },
-    {
-      "id": "reddit-c8gua7",
-      "platform": "reddit",
-      "title": "Cursor frustratingly difficult to see at high resolutions",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v2kng5/cursor_frustratingly_difficult_to_see_at_high/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/mordea",
-      "score": 6,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:57.308Z"
-    },
-    {
-      "id": "reddit-9ulph2",
-      "platform": "reddit",
-      "title": "How do I get this effect?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v2h9t2/how_do_i_get_this_effect/",
-      "thumbnail": "https://preview.redd.it/1iw0qfiqvkeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5409757d5173352f6de9f57254f5a00fd4fed4cb",
-      "author": "r/photoshop · /u/ClapYaKufi",
-      "score": 5,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:57.308Z"
-    },
-    {
-      "id": "reddit-ogos2a",
-      "platform": "reddit",
-      "title": "SCRATCH DISK FULL",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v2fubx/scratch_disk_full/",
-      "thumbnail": "https://preview.redd.it/aoug3j4zjkeh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=470bdd0c70356707ac87f63c325b02e0b2e8756d",
-      "author": "r/photoshop · /u/Junior-Wishbone9621",
-      "score": 4,
-      "metric": "社区日榜",
-      "tags": [
-        "r/photoshop",
-        "Reddit RSS"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:57.308Z"
+      "collectedAt": "2026-07-21T21:33:52.236Z"
     },
     {
       "id": "reddit-167x6xd",
@@ -344,6 +264,86 @@
       "url": "https://www.reddit.com/r/photoshop/comments/1v2qdmp/how_do_you_maintain_transparent_packaging_when/",
       "thumbnail": "https://preview.redd.it/3zqi5brphmeh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ffa94e05b1936676e9bc79895afcb7b0212c180a",
       "author": "r/photoshop · /u/TheRocketsox",
+      "score": 8,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-21T21:33:52.236Z"
+    },
+    {
+      "id": "reddit-9ulph2",
+      "platform": "reddit",
+      "title": "How do I get this effect?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2h9t2/how_do_i_get_this_effect/",
+      "thumbnail": "https://preview.redd.it/1iw0qfiqvkeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5409757d5173352f6de9f57254f5a00fd4fed4cb",
+      "author": "r/photoshop · /u/ClapYaKufi",
+      "score": 7,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-21T21:33:52.236Z"
+    },
+    {
+      "id": "reddit-ug4kmr",
+      "platform": "reddit",
+      "title": "I wrote a script to automatically cut along the guides.",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2mril/i_wrote_a_script_to_automatically_cut_along_the/",
+      "thumbnail": "https://preview.redd.it/y6h3cf6wvleh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2bbf8baee880b50428394d0c7dcaa8f4977f2b69",
+      "author": "r/photoshop · /u/watermelonywtf",
+      "score": 6,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-21T21:33:52.236Z"
+    },
+    {
+      "id": "reddit-c8gua7",
+      "platform": "reddit",
+      "title": "Cursor frustratingly difficult to see at high resolutions",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2kng5/cursor_frustratingly_difficult_to_see_at_high/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/mordea",
+      "score": 5,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-21T21:33:52.236Z"
+    },
+    {
+      "id": "reddit-hla02i",
+      "platform": "reddit",
+      "title": "Help me become moana lisa",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2hafq/help_me_become_moana_lisa/",
+      "thumbnail": "https://preview.redd.it/kikcancrvkeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e56f4e79f2126fd2178acddb272f870952f09e42",
+      "author": "r/photoshop · /u/Vast-Horse-2881",
+      "score": 4,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-21T21:33:52.236Z"
+    },
+    {
+      "id": "reddit-ogos2a",
+      "platform": "reddit",
+      "title": "SCRATCH DISK FULL",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2fubx/scratch_disk_full/",
+      "thumbnail": "https://preview.redd.it/aoug3j4zjkeh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=470bdd0c70356707ac87f63c325b02e0b2e8756d",
+      "author": "r/photoshop · /u/Junior-Wishbone9621",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
@@ -351,7 +351,23 @@
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-21T19:53:57.308Z"
+      "collectedAt": "2026-07-21T21:33:52.236Z"
+    },
+    {
+      "id": "reddit-2yckq1",
+      "platform": "reddit",
+      "title": "Has anyone found a reliable way to remove unwanted AI metadata from images?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2vjd6/has_anyone_found_a_reliable_way_to_remove/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/lgndmorbid",
+      "score": 2,
+      "metric": "社区日榜",
+      "tags": [
+        "r/photoshop",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-21T21:33:52.236Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
