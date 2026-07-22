@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T06:43:42.804Z",
+  "generatedAt": "2026-07-22T10:34:49.489Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,154 +46,49 @@
   ],
   "items": [
     {
-      "id": "douyin-2580391",
-      "platform": "douyin",
-      "title": "最后一位长征女红军王全英逝世",
-      "url": "https://www.douyin.com/hot/2580391",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11802757,
-      "metric": "1180.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
-    },
-    {
-      "id": "douyin-2580433",
-      "platform": "douyin",
-      "title": "金价银价油价集体上涨",
-      "url": "https://www.douyin.com/hot/2580433",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11111951,
-      "metric": "1111.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
-    },
-    {
-      "id": "douyin-2580671",
-      "platform": "douyin",
-      "title": "中国入境旅游市场持续升温",
-      "url": "https://www.douyin.com/hot/2580671",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11065562,
-      "metric": "1106.6 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
-    },
-    {
       "id": "douyin-2580683",
       "platform": "douyin",
       "title": "广州早茶已经next level了",
       "url": "https://www.douyin.com/hot/2580683",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11035130,
-      "metric": "1103.5 万 热度",
+      "score": 11179577,
+      "metric": "1118.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
+      "collectedAt": "2026-07-22T10:34:49.489Z"
     },
     {
-      "id": "douyin-2580875",
+      "id": "douyin-2580760",
       "platform": "douyin",
-      "title": "我的夏日主线任务online",
-      "url": "https://www.douyin.com/hot/2580875",
+      "title": "在家也能复刻成吉思鸡",
+      "url": "https://www.douyin.com/hot/2580760",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10288505,
-      "metric": "1028.9 万 热度",
+      "score": 11058024,
+      "metric": "1105.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
+      "collectedAt": "2026-07-22T10:34:49.489Z"
     },
     {
-      "id": "douyin-2579707",
+      "id": "douyin-2581057",
       "platform": "douyin",
-      "title": "2026年财富中国500强出炉",
-      "url": "https://www.douyin.com/hot/2579707",
+      "title": "十五五交通蓝图出炉",
+      "url": "https://www.douyin.com/hot/2581057",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10248970,
-      "metric": "1024.9 万 热度",
+      "score": 11046619,
+      "metric": "1104.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
-    },
-    {
-      "id": "douyin-2580308",
-      "platform": "douyin",
-      "title": "苗凯获大田赛十项全能冠军",
-      "url": "https://www.douyin.com/hot/2580308",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9112481,
-      "metric": "911.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
-    },
-    {
-      "id": "douyin-2580623",
-      "platform": "douyin",
-      "title": "这届非遗手作太好玩了",
-      "url": "https://www.douyin.com/hot/2580623",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9101111,
-      "metric": "910.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
-    },
-    {
-      "id": "douyin-2579352",
-      "platform": "douyin",
-      "title": "我收到高考录取通知书了",
-      "url": "https://www.douyin.com/hot/2579352",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9087185,
-      "metric": "908.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
-    },
-    {
-      "id": "douyin-2579842",
-      "platform": "douyin",
-      "title": "沿虚线撕开我的旅行日记",
-      "url": "https://www.douyin.com/hot/2579842",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9078537,
-      "metric": "907.9 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
+      "collectedAt": "2026-07-22T10:34:49.489Z"
     },
     {
       "id": "douyin-2579333",
@@ -202,188 +97,293 @@
       "url": "https://www.douyin.com/hot/2579333",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9044330,
-      "metric": "904.4 万 热度",
+      "score": 10903205,
+      "metric": "1090.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
+      "collectedAt": "2026-07-22T10:34:49.489Z"
     },
     {
-      "id": "douyin-2580058",
+      "id": "douyin-2580689",
       "platform": "douyin",
-      "title": "如果你也刚好抬头看树",
-      "url": "https://www.douyin.com/hot/2580058",
+      "title": "名人堂官宣为库里举办展览",
+      "url": "https://www.douyin.com/hot/2580689",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8975084,
-      "metric": "897.5 万 热度",
+      "score": 10352125,
+      "metric": "1035.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:42.804Z"
+      "collectedAt": "2026-07-22T10:34:49.489Z"
     },
     {
-      "id": "reddit-1qpfun0",
+      "id": "douyin-2580342",
+      "platform": "douyin",
+      "title": "俄远程战略轰炸机巡航日本海",
+      "url": "https://www.douyin.com/hot/2580342",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10327725,
+      "metric": "1032.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-22T10:34:49.489Z"
+    },
+    {
+      "id": "douyin-2581081",
+      "platform": "douyin",
+      "title": "大禹新皮肤翡翠华章",
+      "url": "https://www.douyin.com/hot/2581081",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9210598,
+      "metric": "921.1 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-22T10:34:49.489Z"
+    },
+    {
+      "id": "douyin-2580492",
+      "platform": "douyin",
+      "title": "胖东来禁止员工相互借钱",
+      "url": "https://www.douyin.com/hot/2580492",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9191921,
+      "metric": "919.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-22T10:34:49.489Z"
+    },
+    {
+      "id": "douyin-2580308",
+      "platform": "douyin",
+      "title": "苗凯获大田赛十项全能冠军",
+      "url": "https://www.douyin.com/hot/2580308",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9187581,
+      "metric": "918.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-22T10:34:49.489Z"
+    },
+    {
+      "id": "douyin-2580623",
+      "platform": "douyin",
+      "title": "这届非遗手作太好玩了",
+      "url": "https://www.douyin.com/hot/2580623",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9146891,
+      "metric": "914.7 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-22T10:34:49.489Z"
+    },
+    {
+      "id": "douyin-2580893",
+      "platform": "douyin",
+      "title": "抖火杯反三之夜有多燃",
+      "url": "https://www.douyin.com/hot/2580893",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9122981,
+      "metric": "912.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-22T10:34:49.489Z"
+    },
+    {
+      "id": "douyin-2580803",
+      "platform": "douyin",
+      "title": "九门提档至7月30日",
+      "url": "https://www.douyin.com/hot/2580803",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9109620,
+      "metric": "911.0 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-22T10:34:49.489Z"
+    },
+    {
+      "id": "reddit-167x6xd",
       "platform": "reddit",
-      "title": "Flux 3?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v2w9gy/flux_3/",
-      "thumbnail": "https://external-preview.redd.it/MGN2bXRnNWZrbmVoMfJMUbKdoMVDMue4CHovCbwHSSatQxkuTtshyNE_zWuN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c4b78815ffea3f4183314c82abb3285c344be26",
-      "author": "r/StableDiffusion · /u/rerri",
+      "title": "How do you maintain transparent packaging when exporting a PNG?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2qdmp/how_do_you_maintain_transparent_packaging_when/",
+      "thumbnail": "https://preview.redd.it/3zqi5brphmeh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ffa94e05b1936676e9bc79895afcb7b0212c180a",
+      "author": "r/photoshop · /u/TheRocketsox",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:40.895Z"
+      "collectedAt": "2026-07-22T10:34:48.232Z"
     },
     {
-      "id": "reddit-1g60csh",
+      "id": "reddit-t7fvww",
       "platform": "reddit",
-      "title": "Krea2 Ksampler recommendations {for quality}",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v2ns63/krea2_ksampler_recommendations_for_quality/",
-      "thumbnail": "https://preview.redd.it/kbl0mmd0qleh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=a8d4a1c82d2d30d493bccfb7ce2ac22d8ae1c6da",
-      "author": "r/StableDiffusion · /u/listopalafoto",
+      "title": "Adobe Photoshop Elements 12",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2yzok/adobe_photoshop_elements_12/",
+      "thumbnail": "https://preview.redd.it/9kjlztm24oeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d142de0ad66fb30a8ff95ef3c2180d2442efcfc",
+      "author": "r/photoshop · /u/Hohwuzu",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:40.895Z"
+      "collectedAt": "2026-07-22T10:34:48.232Z"
     },
     {
-      "id": "reddit-1czjrcs",
+      "id": "reddit-9ulph2",
       "platform": "reddit",
-      "title": "(Almost) Perfect Likeness in 750 Steps - Krea 2 LoKr Training Guide with Examples",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v2vsqm/almost_perfect_likeness_in_750_steps_krea_2_lokr/",
-      "thumbnail": "https://preview.redd.it/klfhzbvaeneh1.jpg?width=140&amp;height=61&amp;auto=webp&amp;s=7e885cd02a4e3ac8940fceff19f8a57f88fff515",
-      "author": "r/StableDiffusion · /u/LilBrownBebeShoes",
+      "title": "How do I get this effect?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2h9t2/how_do_i_get_this_effect/",
+      "thumbnail": "https://preview.redd.it/1iw0qfiqvkeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5409757d5173352f6de9f57254f5a00fd4fed4cb",
+      "author": "r/photoshop · /u/ClapYaKufi",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:40.895Z"
+      "collectedAt": "2026-07-22T10:34:48.232Z"
     },
     {
-      "id": "reddit-1hce4mz",
+      "id": "reddit-ws4357",
       "platform": "reddit",
-      "title": "Blender Depth to Final Video with LTX-2.3 IC-LoRA",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v2i4jz/blender_depth_to_final_video_with_ltx23_iclora/",
-      "thumbnail": "https://external-preview.redd.it/amRibmR4Z2YxbGVoMYfUJOEDEk4Psicaz0OxWu2i2n0aGaucJ6FZTtS4RIlZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=875233b730414844b6135dba4e30a9ab2b6885fe",
-      "author": "r/StableDiffusion · /u/waterarttrkgl",
+      "title": "Some art I made in photoshop",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v36j5o/some_art_i_made_in_photoshop/",
+      "thumbnail": "https://preview.redd.it/j0zd1ufetpeh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3c2ac1a5d2813919ae50b6abb9f6ffa85770367e",
+      "author": "r/photoshop · /u/randomoldrap",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:40.896Z"
+      "collectedAt": "2026-07-22T10:34:48.232Z"
     },
     {
-      "id": "reddit-5w4tmd",
+      "id": "reddit-1wchy7k",
       "platform": "reddit",
-      "title": "Been experimenting with Krea 2's new ControlNet Depth model... and I'm really impressed",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v2vctn/been_experimenting_with_krea_2s_new_controlnet/",
-      "thumbnail": "https://preview.redd.it/msltd86eeneh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=bf4853cc0e15c838c9d7d4e33400bd783bdcaa37",
-      "author": "r/StableDiffusion · /u/iiTzMYUNG",
+      "title": "Disculpen la calidad de la foto",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v30fqd/disculpen_la_calidad_de_la_foto/",
+      "thumbnail": "https://preview.redd.it/rqdtp59veoeh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=85c6840addcd25bca33882a740a9b33ab140ac16",
+      "author": "r/photoshop · /u/Ill-Fisherman3241",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:40.896Z"
+      "collectedAt": "2026-07-22T10:34:48.232Z"
     },
     {
-      "id": "reddit-1ki94y5",
+      "id": "reddit-83hvqx",
       "platform": "reddit",
-      "title": "Krea2 - haven't been this impressed with AI since the early days",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v2j4dr/krea2_havent_been_this_impressed_with_ai_since/",
-      "thumbnail": "https://preview.redd.it/mx1h71d26leh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5af779ce44300fef6b5bb1b7551c3ea061faba8f",
-      "author": "r/StableDiffusion · /u/bravesirkiwi",
+      "title": "Tinting White Balance and Colors to a Reference Hex Color",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v359vf/tinting_white_balance_and_colors_to_a_reference/",
+      "thumbnail": "https://preview.redd.it/prndqrwjhpeh1.png?width=140&amp;height=102&amp;auto=webp&amp;s=11cc6e75ffd02429658155da5389e194572fc18d",
+      "author": "r/photoshop · /u/HeapVR6",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:40.896Z"
+      "collectedAt": "2026-07-22T10:34:48.232Z"
     },
     {
-      "id": "reddit-16jdfu",
+      "id": "reddit-ug4kmr",
       "platform": "reddit",
-      "title": "Mage-Flow - An Efficient Native-Resolution Foundation Model for Image Generation and Editing (4B T2I model by Microsoft Asia)",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v33af2/mageflow_an_efficient_nativeresolution_foundation/",
-      "thumbnail": "https://external-preview.redd.it/iN1rGDMxtE9SVEWfpBOF8is42ikQJjWaot_fm6CjF44.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9bbba7b896597b02cfbe64684dbcebf177fee0f4",
-      "author": "r/StableDiffusion · /u/FizzarolliAI",
+      "title": "I wrote a script to automatically cut along the guides.",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2mril/i_wrote_a_script_to_automatically_cut_along_the/",
+      "thumbnail": "https://preview.redd.it/y6h3cf6wvleh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2bbf8baee880b50428394d0c7dcaa8f4977f2b69",
+      "author": "r/photoshop · /u/watermelonywtf",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:40.896Z"
+      "collectedAt": "2026-07-22T10:34:48.232Z"
     },
     {
-      "id": "reddit-anowry",
+      "id": "reddit-c8gua7",
       "platform": "reddit",
-      "title": "HOMIE - Human-object centric video personalization | Qwen3-VL-2B + Wan2.1 | R2V",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v2h68v/homie_humanobject_centric_video_personalization/",
-      "thumbnail": "https://external-preview.redd.it/anA0dWVwbXl1a2VoMW8ixei9lVibru64fw_XakAID1xWe8DL896XPIJspt-I.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e63d87efbe91f87ac04a557cad2d4d5e1b5aa4a",
-      "author": "r/StableDiffusion · /u/switch2stock",
+      "title": "Cursor frustratingly difficult to see at high resolutions",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2kng5/cursor_frustratingly_difficult_to_see_at_high/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/mordea",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:40.896Z"
+      "collectedAt": "2026-07-22T10:34:48.232Z"
     },
     {
-      "id": "reddit-zyopdc",
+      "id": "reddit-hla02i",
       "platform": "reddit",
-      "title": "Changing Video's camera angle with LTX 2.3 lora (CrossView Prompt)",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v2e4le/changing_videos_camera_angle_with_ltx_23_lora/",
-      "thumbnail": "https://external-preview.redd.it/Ke_XYflA-RxNxnDRRYPaV0xPKcWHj8u77QBD9kljNDY.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9b62c4c094a2bda412ef663616f2d6150e96122d",
-      "author": "r/StableDiffusion · /u/CQDSN",
+      "title": "Help me become moana lisa",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2hafq/help_me_become_moana_lisa/",
+      "thumbnail": "https://preview.redd.it/kikcancrvkeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e56f4e79f2126fd2178acddb272f870952f09e42",
+      "author": "r/photoshop · /u/Vast-Horse-2881",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:40.896Z"
+      "collectedAt": "2026-07-22T10:34:48.232Z"
     },
     {
-      "id": "reddit-f5lz",
+      "id": "reddit-ogos2a",
       "platform": "reddit",
-      "title": "Krea 2 with editable 3D pose, composition and lighting control",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v2j59y/krea_2_with_editable_3d_pose_composition_and/",
-      "thumbnail": "https://preview.redd.it/najxozja8leh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=46fad68ed70b2b1215b40e0a17e4f06f43cf95d1",
-      "author": "r/StableDiffusion · /u/chaltee",
+      "title": "SCRATCH DISK FULL",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v2fubx/scratch_disk_full/",
+      "thumbnail": "https://preview.redd.it/aoug3j4zjkeh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=470bdd0c70356707ac87f63c325b02e0b2e8756d",
+      "author": "r/photoshop · /u/Junior-Wishbone9621",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T06:43:40.896Z"
+      "collectedAt": "2026-07-22T10:34:48.232Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
