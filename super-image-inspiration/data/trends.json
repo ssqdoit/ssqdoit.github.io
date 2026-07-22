@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T17:42:52.566Z",
+  "generatedAt": "2026-07-22T19:46:01.422Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -40,11 +40,26 @@
       "label": "Reddit",
       "status": "live",
       "message": "公开社区日榜",
-      "count": 8,
+      "count": 9,
       "mode": "public-api"
     }
   ],
   "items": [
+    {
+      "id": "douyin-2580585",
+      "platform": "douyin",
+      "title": "曝詹姆斯重新考量下家去向",
+      "url": "https://www.douyin.com/hot/2580585",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 12085269,
+      "metric": "1208.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-22T19:46:01.422Z"
+    },
     {
       "id": "douyin-2581137",
       "platform": "douyin",
@@ -52,28 +67,13 @@
       "url": "https://www.douyin.com/hot/2581137",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12079606,
-      "metric": "1208.0 万 热度",
+      "score": 11593617,
+      "metric": "1159.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
-    },
-    {
-      "id": "douyin-2580893",
-      "platform": "douyin",
-      "title": "抖火杯反三之夜有多燃",
-      "url": "https://www.douyin.com/hot/2580893",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11583629,
-      "metric": "1158.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
+      "collectedAt": "2026-07-22T19:46:01.422Z"
     },
     {
       "id": "douyin-2581465",
@@ -82,13 +82,28 @@
       "url": "https://www.douyin.com/hot/2581465",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11101282,
-      "metric": "1110.1 万 热度",
+      "score": 11205174,
+      "metric": "1120.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
+      "collectedAt": "2026-07-22T19:46:01.422Z"
+    },
+    {
+      "id": "douyin-2580893",
+      "platform": "douyin",
+      "title": "抖火杯反三之夜有多燃",
+      "url": "https://www.douyin.com/hot/2580893",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11112827,
+      "metric": "1111.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-22T19:46:01.422Z"
     },
     {
       "id": "douyin-2581303",
@@ -97,13 +112,13 @@
       "url": "https://www.douyin.com/hot/2581303",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11099781,
-      "metric": "1110.0 万 热度",
+      "score": 10540235,
+      "metric": "1054.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
+      "collectedAt": "2026-07-22T19:46:01.422Z"
     },
     {
       "id": "douyin-2581157",
@@ -112,13 +127,13 @@
       "url": "https://www.douyin.com/hot/2581157",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10341569,
-      "metric": "1034.2 万 热度",
+      "score": 10420170,
+      "metric": "1042.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
+      "collectedAt": "2026-07-22T19:46:01.422Z"
     },
     {
       "id": "douyin-2580875",
@@ -127,28 +142,13 @@
       "url": "https://www.douyin.com/hot/2580875",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10341253,
-      "metric": "1034.1 万 热度",
+      "score": 9237147,
+      "metric": "923.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
-    },
-    {
-      "id": "douyin-2580623",
-      "platform": "douyin",
-      "title": "这届非遗手作太好玩了",
-      "url": "https://www.douyin.com/hot/2580623",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9117545,
-      "metric": "911.8 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
+      "collectedAt": "2026-07-22T19:46:01.422Z"
     },
     {
       "id": "douyin-2580964",
@@ -157,13 +157,13 @@
       "url": "https://www.douyin.com/hot/2580964",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9108681,
-      "metric": "910.9 万 热度",
+      "score": 9173658,
+      "metric": "917.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
+      "collectedAt": "2026-07-22T19:46:01.422Z"
     },
     {
       "id": "douyin-2580760",
@@ -172,186 +172,202 @@
       "url": "https://www.douyin.com/hot/2580760",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9107212,
-      "metric": "910.7 万 热度",
+      "score": 9145409,
+      "metric": "914.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
+      "collectedAt": "2026-07-22T19:46:01.422Z"
     },
     {
-      "id": "douyin-2580585",
+      "id": "douyin-2580623",
       "platform": "douyin",
-      "title": "曝詹姆斯重新考量下家去向",
-      "url": "https://www.douyin.com/hot/2580585",
+      "title": "这届非遗手作太好玩了",
+      "url": "https://www.douyin.com/hot/2580623",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9105817,
-      "metric": "910.6 万 热度",
+      "score": 9137134,
+      "metric": "913.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
+      "collectedAt": "2026-07-22T19:46:01.422Z"
     },
     {
-      "id": "douyin-2580492",
+      "id": "douyin-2581443",
       "platform": "douyin",
-      "title": "胖东来禁止员工相互借钱",
-      "url": "https://www.douyin.com/hot/2580492",
+      "title": "东山精密回应光模块被盗窃",
+      "url": "https://www.douyin.com/hot/2581443",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9000657,
-      "metric": "900.1 万 热度",
+      "score": 9129602,
+      "metric": "913.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
+      "collectedAt": "2026-07-22T19:46:01.422Z"
     },
     {
-      "id": "douyin-2580803",
+      "id": "douyin-2581518",
       "platform": "douyin",
-      "title": "九门提档至7月30日",
-      "url": "https://www.douyin.com/hot/2580803",
+      "title": "哈兰德亚马尔身价涨至2.2亿欧",
+      "url": "https://www.douyin.com/hot/2581518",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8994737,
-      "metric": "899.5 万 热度",
+      "score": 9110205,
+      "metric": "911.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:52.566Z"
+      "collectedAt": "2026-07-22T19:46:01.422Z"
     },
     {
-      "id": "reddit-167x6xd",
+      "id": "reddit-1cxpxif",
       "platform": "reddit",
-      "title": "How do you maintain transparent packaging when exporting a PNG?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v2qdmp/how_do_you_maintain_transparent_packaging_when/",
-      "thumbnail": "https://preview.redd.it/3zqi5brphmeh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ffa94e05b1936676e9bc79895afcb7b0212c180a",
-      "author": "r/photoshop · /u/TheRocketsox",
+      "title": "Astral Galleon",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v3kgdi/astral_galleon/",
+      "thumbnail": "https://external-preview.redd.it/N3UzbHV2ejcxdGVoMZfEr4IBWNRnZGUBzfoF5aaKQfhtLtYQ45J7Yokh70Xm.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0969898c5f75584de0c3e0feebaf89d22eb67abd",
+      "author": "r/midjourney · /u/Dropdeadlegs84",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:51.353Z"
+      "collectedAt": "2026-07-22T19:46:00.715Z"
     },
     {
-      "id": "reddit-1f7l7uk",
+      "id": "reddit-zch3ke",
       "platform": "reddit",
-      "title": "Trying to create a vintage \"\"cinematic film still\"\" look. What's missing from this vintage cinematic look?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v37hrl/trying_to_create_a_vintage_cinematic_film_still/",
-      "thumbnail": "https://preview.redd.it/f1cx44og2qeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1456c93a3d4c9560e3b0693543855fd34d824703",
-      "author": "r/photoshop · /u/PrincipleNational847",
+      "title": "Cyber security",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v38omn/cyber_security/",
+      "thumbnail": "https://preview.redd.it/u6gm5415eqeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df94233bc2206e34313ed5b6b2e3e88202a9430a",
+      "author": "r/midjourney · /u/Organic_Monk6570",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:51.353Z"
+      "collectedAt": "2026-07-22T19:46:00.715Z"
     },
     {
-      "id": "reddit-t7fvww",
+      "id": "reddit-686fns",
       "platform": "reddit",
-      "title": "Adobe Photoshop Elements 12",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v2yzok/adobe_photoshop_elements_12/",
-      "thumbnail": "https://preview.redd.it/9kjlztm24oeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d142de0ad66fb30a8ff95ef3c2180d2442efcfc",
-      "author": "r/photoshop · /u/Hohwuzu",
+      "title": "The Broken One.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v2zmes/the_broken_one/",
+      "thumbnail": "https://preview.redd.it/jo4louqu8oeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=b9f43037d789a7cbe4bbd74a34b8dbdd1d45f5f5",
+      "author": "r/midjourney · /u/Mordrat_The_Grey",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:51.353Z"
+      "collectedAt": "2026-07-22T19:46:00.715Z"
     },
     {
-      "id": "reddit-1wchy7k",
+      "id": "reddit-14i4b03",
       "platform": "reddit",
-      "title": "Disculpen la calidad de la foto",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v30fqd/disculpen_la_calidad_de_la_foto/",
-      "thumbnail": "https://preview.redd.it/rqdtp59veoeh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=85c6840addcd25bca33882a740a9b33ab140ac16",
-      "author": "r/photoshop · /u/Ill-Fisherman3241",
+      "title": "Sunset",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v3gln0/sunset/",
+      "thumbnail": "https://preview.redd.it/oiqmjrt7cseh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=741eb8677b549e47b32c5a9baecac680417aa4bd",
+      "author": "r/midjourney · /u/Organic_Monk6570",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:51.353Z"
+      "collectedAt": "2026-07-22T19:46:00.715Z"
     },
     {
-      "id": "reddit-83hvqx",
+      "id": "reddit-1gaacsv",
       "platform": "reddit",
-      "title": "Tinting White Balance and Colors to a Reference Hex Color",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v359vf/tinting_white_balance_and_colors_to_a_reference/",
-      "thumbnail": "https://preview.redd.it/prndqrwjhpeh1.png?width=140&amp;height=102&amp;auto=webp&amp;s=11cc6e75ffd02429658155da5389e194572fc18d",
-      "author": "r/photoshop · /u/HeapVR6",
+      "title": "Saturday Morning Fantasy",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v3pby1/saturday_morning_fantasy/",
+      "thumbnail": "https://preview.redd.it/79ngecy3vteh1.jpg?width=140&amp;height=104&amp;auto=webp&amp;s=c627246a14130befe1ed14a5af79578134cff37f",
+      "author": "r/midjourney · /u/NeoShaolin47",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:51.353Z"
+      "collectedAt": "2026-07-22T19:46:00.715Z"
     },
     {
-      "id": "reddit-16s0514",
+      "id": "reddit-15xcp9o",
       "platform": "reddit",
-      "title": "spread sheets inside photoshop",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v2z36z/spread_sheets_inside_photoshop/",
-      "thumbnail": "https://preview.redd.it/px1aq3qp3oeh1.png?width=140&amp;height=91&amp;auto=webp&amp;s=eae6ac358818846f06ca0cf98a2d1b18da527534",
-      "author": "r/photoshop · /u/karthikeyans001",
+      "title": "The Roaring Twenties",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v3kkg3/the_roaring_twenties/",
+      "thumbnail": "https://preview.redd.it/w8oluhh91teh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=338e14da599bd5356a399e7822962fefd61a7505",
+      "author": "r/midjourney · /u/Zenchilada",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:51.353Z"
+      "collectedAt": "2026-07-22T19:46:00.715Z"
     },
     {
-      "id": "reddit-8c42ar",
+      "id": "reddit-1exom7g",
       "platform": "reddit",
-      "title": "Hey all, I recently started photoshop and I was wondering how to create this effect",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v3iwjo/hey_all_i_recently_started_photoshop_and_i_was/",
-      "thumbnail": "https://preview.redd.it/osasatogrseh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=297763030baaeaae146d25fd1e9ac52bf870d92c",
-      "author": "r/photoshop · /u/czd31095",
+      "title": "Sympathy For The Devil",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v3nymz/sympathy_for_the_devil/",
+      "thumbnail": "https://preview.redd.it/gpcbke9cmteh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=b1e8e4a64fcd73f9b3964af03da6b2211f0ce669",
+      "author": "r/midjourney · /u/Sapere_aude_69",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:51.353Z"
+      "collectedAt": "2026-07-22T19:46:00.715Z"
     },
     {
-      "id": "reddit-ws4357",
+      "id": "reddit-egj3bd",
       "platform": "reddit",
-      "title": "Some art I made in photoshop",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v36j5o/some_art_i_made_in_photoshop/",
-      "thumbnail": "https://preview.redd.it/j0zd1ufetpeh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3c2ac1a5d2813919ae50b6abb9f6ffa85770367e",
-      "author": "r/photoshop · /u/randomoldrap",
+      "title": "Polluted land",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v3hkbo/polluted_land/",
+      "thumbnail": "https://preview.redd.it/nstjf79qiseh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1fe3095664c5248912619c3a602d272a7e714ad2",
+      "author": "r/midjourney · /u/Zaicab",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-22T17:42:51.353Z"
+      "collectedAt": "2026-07-22T19:46:00.715Z"
+    },
+    {
+      "id": "reddit-elb72t",
+      "platform": "reddit",
+      "title": "La Tormenta [OC]",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v38916/la_tormenta_oc/",
+      "thumbnail": "https://preview.redd.it/ie6iho8y9qeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d353ea752108ebc412b4124ff7ee09eb260a8e3b",
+      "author": "r/midjourney · /u/Gold-Lengthiness-760",
+      "score": 2,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-22T19:46:00.715Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
