@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T21:29:51.947Z",
+  "generatedAt": "2026-07-23T23:12:56.792Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,19 +46,19 @@
   ],
   "items": [
     {
-      "id": "douyin-2582778",
+      "id": "douyin-2582806",
       "platform": "douyin",
-      "title": "中国女排3:2战胜美国晋级四强",
-      "url": "https://www.douyin.com/hot/2582778",
+      "title": "北大祝贺邓煜王虹获菲尔兹奖",
+      "url": "https://www.douyin.com/hot/2582806",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12105864,
-      "metric": "1210.6 万 热度",
+      "score": 12111444,
+      "metric": "1211.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
       "id": "douyin-2582660",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2582660",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11830126,
-      "metric": "1183.0 万 热度",
+      "score": 12102634,
+      "metric": "1210.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
       "id": "douyin-2582616",
@@ -82,13 +82,13 @@
       "url": "https://www.douyin.com/hot/2582616",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11776073,
-      "metric": "1177.6 万 热度",
+      "score": 11584997,
+      "metric": "1158.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
       "id": "douyin-2582500",
@@ -97,13 +97,13 @@
       "url": "https://www.douyin.com/hot/2582500",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11466063,
-      "metric": "1146.6 万 热度",
+      "score": 11524713,
+      "metric": "1152.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
       "id": "douyin-2581922",
@@ -112,13 +112,13 @@
       "url": "https://www.douyin.com/hot/2581922",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10834381,
-      "metric": "1083.4 万 热度",
+      "score": 10866171,
+      "metric": "1086.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
       "id": "douyin-2582137",
@@ -127,28 +127,43 @@
       "url": "https://www.douyin.com/hot/2582137",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10829010,
-      "metric": "1082.9 万 热度",
+      "score": 10771147,
+      "metric": "1077.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
-      "id": "douyin-2582806",
+      "id": "douyin-2582778",
       "platform": "douyin",
-      "title": "北大祝贺邓煜王虹获菲尔兹奖",
-      "url": "https://www.douyin.com/hot/2582806",
+      "title": "中国女排3:2战胜美国晋级四强",
+      "url": "https://www.douyin.com/hot/2582778",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9334659,
-      "metric": "933.5 万 热度",
+      "score": 9609544,
+      "metric": "961.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
+    },
+    {
+      "id": "douyin-2582708",
+      "platform": "douyin",
+      "title": "长鑫科技7月27日科创板上市",
+      "url": "https://www.douyin.com/hot/2582708",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9591915,
+      "metric": "959.2 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
       "id": "douyin-2582457",
@@ -157,28 +172,13 @@
       "url": "https://www.douyin.com/hot/2582457",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9218590,
-      "metric": "921.9 万 热度",
+      "score": 9173910,
+      "metric": "917.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
-    },
-    {
-      "id": "douyin-2582104",
-      "platform": "douyin",
-      "title": "抖音网友带我逛菲尔兹奖现场",
-      "url": "https://www.douyin.com/hot/2582104",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9192869,
-      "metric": "919.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
       "id": "douyin-2582797",
@@ -187,13 +187,13 @@
       "url": "https://www.douyin.com/hot/2582797",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9179412,
-      "metric": "917.9 万 热度",
+      "score": 9160818,
+      "metric": "916.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
       "id": "douyin-2582459",
@@ -202,188 +202,188 @@
       "url": "https://www.douyin.com/hot/2582459",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9139360,
-      "metric": "913.9 万 热度",
+      "score": 9108747,
+      "metric": "910.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
-      "id": "douyin-2582158",
+      "id": "douyin-2582801",
       "platform": "douyin",
-      "title": "周星驰路演现场给小影迷唱生日歌",
-      "url": "https://www.douyin.com/hot/2582158",
+      "title": "抖音网友祝贺邓煜王虹获奖",
+      "url": "https://www.douyin.com/hot/2582801",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9115327,
-      "metric": "911.5 万 热度",
+      "score": 9060712,
+      "metric": "906.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.947Z"
+      "collectedAt": "2026-07-23T23:12:56.791Z"
     },
     {
-      "id": "reddit-1884uru",
+      "id": "reddit-1apsv0r",
       "platform": "reddit",
-      "title": "Amateur feedback request",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v41w2y/amateur_feedback_request/",
-      "thumbnail": "https://preview.redd.it/pyz8y7bqbweh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5dd753f3ae844a8ff01fa1add21689a9c909dbf",
-      "author": "r/graphic_design · /u/waterbedbone",
+      "title": "Intelligence",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4acxa/intelligence/",
+      "thumbnail": "https://preview.redd.it/o85tpi6plyeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=218af82501929dc3b57dcb4ce1730aa3d66c9b89",
+      "author": "r/midjourney · /u/Zaicab",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.232Z"
+      "collectedAt": "2026-07-23T23:12:55.439Z"
     },
     {
-      "id": "reddit-i3vd62",
+      "id": "reddit-pxwd8y",
       "platform": "reddit",
-      "title": "This is my Thermal Camera Design \"Lovers Bite\"!!!",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4ksv8/this_is_my_thermal_camera_design_lovers_bite/",
-      "thumbnail": "https://preview.redd.it/41s1abhgm0fh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=77ad53d767941ee304e1db433d6ab32780136ad0",
-      "author": "r/graphic_design · /u/ComfyKing_",
+      "title": "Pomegranate - Sci-Fi Film (30 min)",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4o3u6/pomegranate_scifi_film_30_min/",
+      "thumbnail": "https://external-preview.redd.it/ZzFjMTBpZ3o2MWZoMS8Eb4QRGb7nO3vSwPAkQ_Yz3dyEU9U-ycDqzxPGaS-q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ab24870241bdcd47a23aec3dd294a0f2e058012",
+      "author": "r/midjourney · /u/gossip_goblin",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.232Z"
+      "collectedAt": "2026-07-23T23:12:55.439Z"
     },
     {
-      "id": "reddit-rhsomk",
+      "id": "reddit-19y8cfn",
       "platform": "reddit",
-      "title": "Yamine Yamal Poster",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v445j9/yamine_yamal_poster/",
-      "thumbnail": "https://preview.redd.it/9mndnilkwweh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6171fcf1fb4995c8a157cc3876cf1974608e0cb7",
-      "author": "r/graphic_design · /u/ApartmentAccording99",
+      "title": "D&D - Comic Strip Style",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4i4mo/dd_comic_strip_style/",
+      "thumbnail": "https://preview.redd.it/nc5p169950fh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=0b974b2d0d537ac35c393d38dfd286cdf2666816",
+      "author": "r/midjourney · /u/Zenchilada",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.232Z"
+      "collectedAt": "2026-07-23T23:12:55.439Z"
     },
     {
-      "id": "reddit-1e0hqmg",
+      "id": "reddit-1ag979v",
       "platform": "reddit",
-      "title": "I designed esoteric chocolate bars",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4dxdv/i_designed_esoteric_chocolate_bars/",
-      "thumbnail": "https://preview.redd.it/vo4ygqx3ezeh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=f9944363897031504a94604ead3e372954ca2c25",
-      "author": "r/graphic_design · /u/DiscountLarge9618",
+      "title": "Exchange Tower Event",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v43g17/exchange_tower_event/",
+      "thumbnail": "https://external-preview.redd.it/YzM1c2ZjdDFxd2VoMe59CskWRxQy_wmr8zvOSwXbS8Z78iuS6sYF6e7oZ5y2.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9779b45cb016078f4521f28e159ba436cf242972",
+      "author": "r/midjourney · /u/metr0punk",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.232Z"
+      "collectedAt": "2026-07-23T23:12:55.439Z"
     },
     {
-      "id": "reddit-jxpfc3",
+      "id": "reddit-jrth2e",
       "platform": "reddit",
-      "title": "logo for a productivity suite — critiques?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v44qb7/logo_for_a_productivity_suite_critiques/",
-      "thumbnail": "https://preview.redd.it/8tptj2ny0xeh1.png?width=140&amp;height=93&amp;auto=webp&amp;s=55540dda30ad74f2a1a381df807f8be3448468fd",
-      "author": "r/graphic_design · /u/akrsnu",
+      "title": "The Odyssey #165",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v45rzi/the_odyssey_165/",
+      "thumbnail": "https://preview.redd.it/h9sol0q2cxeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d0c9ae7e509a5b3b520bb1cd05e3755ac98a7719",
+      "author": "r/midjourney · /u/Slave_Human",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.232Z"
+      "collectedAt": "2026-07-23T23:12:55.439Z"
     },
     {
-      "id": "reddit-1of9gnx",
+      "id": "reddit-1irpzx8",
       "platform": "reddit",
-      "title": "How can I improve logo/concept?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4j5as/how_can_i_improve_logoconcept/",
-      "thumbnail": "https://preview.redd.it/krs2nfe3c0fh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da29e54977d8c5ff2617e85c0988c069261e2cf7",
-      "author": "r/graphic_design · /u/3hreeringz",
+      "title": "Serene nature",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4e5fk/serene_nature/",
+      "thumbnail": "https://preview.redd.it/90pzikvofzeh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=626cc49f62db42b95ff461b811c52013cfb6f59f",
+      "author": "r/midjourney · /u/Sharp_Alternative845",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.232Z"
+      "collectedAt": "2026-07-23T23:12:55.439Z"
     },
     {
-      "id": "reddit-1rckd1p",
+      "id": "reddit-f3gmml",
       "platform": "reddit",
-      "title": "Hierarchy Will Save Us",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4mdit/hierarchy_will_save_us/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/occasionallyjeffrey",
+      "title": "A Fusion of Japanese and Maya-Aztec Styles",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4aj95/a_fusion_of_japanese_and_mayaaztec_styles/",
+      "thumbnail": "https://preview.redd.it/roiee6i3nyeh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=849197c0efa5c693747f1d3fde17a4841e719a61",
+      "author": "r/midjourney · /u/WorkLucky4366",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.232Z"
+      "collectedAt": "2026-07-23T23:12:55.439Z"
     },
     {
-      "id": "reddit-d5l34x",
+      "id": "reddit-g04vdn",
       "platform": "reddit",
-      "title": "Let's hear some success stories!",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v40bzk/lets_hear_some_success_stories/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/publicappeal_",
+      "title": "The Lighting Skeletons.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4e4tn/the_lighting_skeletons/",
+      "thumbnail": "https://preview.redd.it/vpfs6fjlfzeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f3031aa45a7cd427ceb0c4022e19db82849df4a0",
+      "author": "r/midjourney · /u/Mordrat_The_Grey",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.232Z"
+      "collectedAt": "2026-07-23T23:12:55.439Z"
     },
     {
-      "id": "reddit-1jkcdut",
+      "id": "reddit-mv2em",
       "platform": "reddit",
-      "title": "How to design for someone that doesn't know what they want?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v3xiqg/how_to_design_for_someone_that_doesnt_know_what/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/Key-Ad7306",
+      "title": "Alumbrado [OC]",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v474cs/alumbrado_oc/",
+      "thumbnail": "https://preview.redd.it/4qtn4o9ipxeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=92c5f717e12270d66a15af1f6d69085218c4ccca",
+      "author": "r/midjourney · /u/Gold-Lengthiness-760",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.232Z"
+      "collectedAt": "2026-07-23T23:12:55.439Z"
     },
     {
-      "id": "reddit-9f2wav",
+      "id": "reddit-9nr17d",
       "platform": "reddit",
-      "title": "How passionate do I have to be?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4btn0/how_passionate_do_i_have_to_be/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/Motor-Membership7625",
+      "title": "MJ video kept putting crawling noise over paper textures, here's how I sorted it",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v47174/mj_video_kept_putting_crawling_noise_over_paper/",
+      "thumbnail": "https://external-preview.redd.it/aGtncDAzY2lveGVoMd5t7g4JQPVMRF7g-8SfZkljvvX6fTU-4sVVuK0lKD_h.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e536639b3e7d22c888588d9a72b79a2174198294",
+      "author": "r/midjourney · /u/TimelySituation4714",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T21:29:51.232Z"
+      "collectedAt": "2026-07-23T23:12:55.439Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
