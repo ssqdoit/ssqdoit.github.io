@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T17:48:46.200Z",
+  "generatedAt": "2026-07-23T19:47:38.865Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,34 +46,34 @@
   ],
   "items": [
     {
+      "id": "douyin-2582660",
+      "platform": "douyin",
+      "title": "邓煜王虹获菲尔兹奖",
+      "url": "https://www.douyin.com/hot/2582660",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11797702,
+      "metric": "1179.8 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-23T19:47:38.865Z"
+    },
+    {
       "id": "douyin-2582500",
       "platform": "douyin",
       "title": "贵州人私藏的豆豉火锅有多香",
       "url": "https://www.douyin.com/hot/2582500",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11714163,
-      "metric": "1171.4 万 热度",
+      "score": 11591559,
+      "metric": "1159.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
-    },
-    {
-      "id": "douyin-2581922",
-      "platform": "douyin",
-      "title": "夏日度假限定motd",
-      "url": "https://www.douyin.com/hot/2581922",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11689621,
-      "metric": "1169.0 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
+      "collectedAt": "2026-07-23T19:47:38.865Z"
     },
     {
       "id": "douyin-2582616",
@@ -82,28 +82,28 @@
       "url": "https://www.douyin.com/hot/2582616",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11637607,
-      "metric": "1163.8 万 热度",
+      "score": 11417930,
+      "metric": "1141.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
+      "collectedAt": "2026-07-23T19:47:38.865Z"
     },
     {
-      "id": "douyin-2582660",
+      "id": "douyin-2581922",
       "platform": "douyin",
-      "title": "邓煜王虹获菲尔兹奖",
-      "url": "https://www.douyin.com/hot/2582660",
+      "title": "夏日度假限定motd",
+      "url": "https://www.douyin.com/hot/2581922",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11616331,
-      "metric": "1161.6 万 热度",
+      "score": 11297386,
+      "metric": "1129.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
+      "collectedAt": "2026-07-23T19:47:38.865Z"
     },
     {
       "id": "douyin-2582457",
@@ -112,43 +112,28 @@
       "url": "https://www.douyin.com/hot/2582457",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10905183,
-      "metric": "1090.5 万 热度",
+      "score": 10532648,
+      "metric": "1053.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
+      "collectedAt": "2026-07-23T19:47:38.865Z"
     },
     {
-      "id": "douyin-2582809",
+      "id": "douyin-2582806",
       "platform": "douyin",
-      "title": "邓煜王虹获菲尔兹奖意味着什么",
-      "url": "https://www.douyin.com/hot/2582809",
+      "title": "北大祝贺邓煜王虹获菲尔兹奖",
+      "url": "https://www.douyin.com/hot/2582806",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10423590,
-      "metric": "1042.4 万 热度",
+      "score": 10324219,
+      "metric": "1032.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
-    },
-    {
-      "id": "douyin-2582104",
-      "platform": "douyin",
-      "title": "抖音网友带我逛菲尔兹奖现场",
-      "url": "https://www.douyin.com/hot/2582104",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9203808,
-      "metric": "920.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
+      "collectedAt": "2026-07-23T19:47:38.865Z"
     },
     {
       "id": "douyin-2582137",
@@ -157,43 +142,28 @@
       "url": "https://www.douyin.com/hot/2582137",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9168088,
-      "metric": "916.8 万 热度",
+      "score": 9192115,
+      "metric": "919.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
+      "collectedAt": "2026-07-23T19:47:38.865Z"
     },
     {
-      "id": "douyin-2581157",
+      "id": "douyin-2582104",
       "platform": "douyin",
-      "title": "今年菲尔兹奖候选人都在研究啥",
-      "url": "https://www.douyin.com/hot/2581157",
+      "title": "抖音网友带我逛菲尔兹奖现场",
+      "url": "https://www.douyin.com/hot/2582104",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9142860,
-      "metric": "914.3 万 热度",
+      "score": 9190257,
+      "metric": "919.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
-    },
-    {
-      "id": "douyin-2582797",
-      "platform": "douyin",
-      "title": "重庆山体崩塌致11死50失联",
-      "url": "https://www.douyin.com/hot/2582797",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9080676,
-      "metric": "908.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
+      "collectedAt": "2026-07-23T19:47:38.865Z"
     },
     {
       "id": "douyin-2582459",
@@ -202,13 +172,43 @@
       "url": "https://www.douyin.com/hot/2582459",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9045344,
-      "metric": "904.5 万 热度",
+      "score": 9142974,
+      "metric": "914.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
+      "collectedAt": "2026-07-23T19:47:38.865Z"
+    },
+    {
+      "id": "douyin-2582797",
+      "platform": "douyin",
+      "title": "重庆山体崩塌致11死50失联",
+      "url": "https://www.douyin.com/hot/2582797",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9118725,
+      "metric": "911.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-23T19:47:38.865Z"
+    },
+    {
+      "id": "douyin-2581157",
+      "platform": "douyin",
+      "title": "今年菲尔兹奖候选人都在研究啥",
+      "url": "https://www.douyin.com/hot/2581157",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9065958,
+      "metric": "906.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-23T19:47:38.865Z"
     },
     {
       "id": "douyin-2582007",
@@ -217,173 +217,173 @@
       "url": "https://www.douyin.com/hot/2582007",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8682017,
-      "metric": "868.2 万 热度",
+      "score": 9013825,
+      "metric": "901.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:46.200Z"
+      "collectedAt": "2026-07-23T19:47:38.865Z"
     },
     {
-      "id": "reddit-1gaacsv",
+      "id": "reddit-66jc93",
       "platform": "reddit",
-      "title": "Saturday Morning Fantasy",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v3pby1/saturday_morning_fantasy/",
-      "thumbnail": "https://preview.redd.it/79ngecy3vteh1.jpg?width=140&amp;height=104&amp;auto=webp&amp;s=c627246a14130befe1ed14a5af79578134cff37f",
-      "author": "r/midjourney · /u/NeoShaolin47",
+      "title": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gpka/flux_3_real_world_models_towards_multimodal_flow/",
+      "thumbnail": "",
+      "author": "r/StableDiffusion · /u/stephen370",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:44.732Z"
+      "collectedAt": "2026-07-23T19:47:38.105Z"
     },
     {
-      "id": "reddit-1apsv0r",
+      "id": "reddit-nwemy7",
       "platform": "reddit",
-      "title": "Intelligence",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v4acxa/intelligence/",
-      "thumbnail": "https://preview.redd.it/o85tpi6plyeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=218af82501929dc3b57dcb4ce1730aa3d66c9b89",
-      "author": "r/midjourney · /u/Zaicab",
+      "title": "FLUX3 - TEST 2",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4hpim/flux3_test_2/",
+      "thumbnail": "https://external-preview.redd.it/dGd4Z3V5bTMzMGZoMX9XIgxu3yfqknF07N9TrLXWpEUfe8Rw9al7FWG6E2hH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e6d8c6d079b1d038292e6388e61722eb2a4f590",
+      "author": "r/StableDiffusion · /u/Extension-Yard1918",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:44.732Z"
+      "collectedAt": "2026-07-23T19:47:38.106Z"
     },
     {
-      "id": "reddit-1ag979v",
+      "id": "reddit-1syc5rc",
       "platform": "reddit",
-      "title": "Exchange Tower Event",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v43g17/exchange_tower_event/",
-      "thumbnail": "https://external-preview.redd.it/YzM1c2ZjdDFxd2VoMe59CskWRxQy_wmr8zvOSwXbS8Z78iuS6sYF6e7oZ5y2.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9779b45cb016078f4521f28e159ba436cf242972",
-      "author": "r/midjourney · /u/metr0punk",
+      "title": "TRELLIS.2 can now generate a high-quality 3D asset in under 7 minutes on a 6 GB VRAM CUDA GPU. No ComfyUI Node Nightmare.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4k3je/trellis2_can_now_generate_a_highquality_3d_asset/",
+      "thumbnail": "https://external-preview.redd.it/cjY5bThwa2VoMGZoMaL2TvRuZZxeBKJL_4ohhwdXrAYi5nD48Y7MVJ8CnxLM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=df26401934829cc9f74590447f5377094e4f28ec",
+      "author": "r/StableDiffusion · /u/intisarstorage2",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:44.732Z"
+      "collectedAt": "2026-07-23T19:47:38.106Z"
     },
     {
-      "id": "reddit-jrth2e",
+      "id": "reddit-15mr5qq",
       "platform": "reddit",
-      "title": "The Odyssey #165",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v45rzi/the_odyssey_165/",
-      "thumbnail": "https://preview.redd.it/h9sol0q2cxeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d0c9ae7e509a5b3b520bb1cd05e3755ac98a7719",
-      "author": "r/midjourney · /u/Slave_Human",
+      "title": "Mix Studio - A Free Open Source AI Workspace for ComfyUI. Generate from Your Desktop or Phone with 1-Click Installs for Krea 2, Flux 2 Klein, Qwen Image Edit, LTX 2.3, Wan 2.2, SCA",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v3rjy1/mix_studio_a_free_open_source_ai_workspace_for/",
+      "thumbnail": "https://preview.redd.it/xoj7l3xyzteh1.gif?frame=1&amp;width=140&amp;height=113&amp;auto=webp&amp;s=1d1e24cb452b5329593a5c9ff7b97d0fbbc37b43",
+      "author": "r/StableDiffusion · /u/blackmixture",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:44.732Z"
+      "collectedAt": "2026-07-23T19:47:38.106Z"
     },
     {
-      "id": "reddit-19y8cfn",
+      "id": "reddit-1xzi1op",
       "platform": "reddit",
-      "title": "D&D - Comic Strip Style",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v4i4mo/dd_comic_strip_style/",
-      "thumbnail": "https://preview.redd.it/nc5p169950fh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=0b974b2d0d537ac35c393d38dfd286cdf2666816",
-      "author": "r/midjourney · /u/Zenchilada",
+      "title": "LTX's \"Clean Plate\" applied to a classic \"Donnie Darko\"('99) highschool hallway tracking-shot montage - (Before/After)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gssv/ltxs_clean_plate_applied_to_a_classic_donnie/",
+      "thumbnail": "https://external-preview.redd.it/YWQycDk4a2F4emVoMbCW1dWg7wnQtvRrZ_OWusroLb3wyq2yepAVN8TF7Sft.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fcab62b5ce6c84ef1287fb16d37b398569d6346d",
+      "author": "r/StableDiffusion · /u/JackKerawock",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:44.732Z"
+      "collectedAt": "2026-07-23T19:47:38.106Z"
     },
     {
-      "id": "reddit-1irpzx8",
+      "id": "reddit-1274wth",
       "platform": "reddit",
-      "title": "Serene nature",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v4e5fk/serene_nature/",
-      "thumbnail": "https://preview.redd.it/90pzikvofzeh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=626cc49f62db42b95ff461b811c52013cfb6f59f",
-      "author": "r/midjourney · /u/Sharp_Alternative845",
+      "title": "New to AI generation! Any recommandations to get similar results?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gvxt/new_to_ai_generation_any_recommandations_to_get/",
+      "thumbnail": "https://preview.redd.it/qizamibvxzeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=474d299bcf637508da50ad6b8927c498c12a439d",
+      "author": "r/StableDiffusion · /u/Ok_Lake3893",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:44.732Z"
+      "collectedAt": "2026-07-23T19:47:38.106Z"
     },
     {
-      "id": "reddit-f3gmml",
+      "id": "reddit-urnrn",
       "platform": "reddit",
-      "title": "A Fusion of Japanese and Maya-Aztec Styles",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v4aj95/a_fusion_of_japanese_and_mayaaztec_styles/",
-      "thumbnail": "https://preview.redd.it/roiee6i3nyeh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=849197c0efa5c693747f1d3fde17a4841e719a61",
-      "author": "r/midjourney · /u/WorkLucky4366",
+      "title": "FLUX3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4hnx0/flux3/",
+      "thumbnail": "https://external-preview.redd.it/ZndzeTBhZHYyMGZoMVgiVMfFMPA9EuM1xlKLrzLYLaSsD7VpFdc-Jn0MJV7D.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f195816b85c637f0c54b6792eb07be81da83899",
+      "author": "r/StableDiffusion · /u/Extension-Yard1918",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:44.732Z"
+      "collectedAt": "2026-07-23T19:47:38.106Z"
     },
     {
-      "id": "reddit-39hcnu",
+      "id": "reddit-1wotith",
       "platform": "reddit",
-      "title": "Tales of Aztleau - One of Many",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v3tmd6/tales_of_aztleau_one_of_many/",
-      "thumbnail": "https://external-preview.redd.it/OGVld2cwcjFtdWVoMeIP2R4-iUXEkNhlQ-EJ_CffF_9kNqn-HsLeRW7RDD1o.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6d4dc17480c849efdf6646cf4f467f4f000813e",
-      "author": "r/midjourney · /u/Advanced-Power-1775",
+      "title": "Flux 3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4i6se/flux_3/",
+      "thumbnail": "https://external-preview.redd.it/d2hocDdvODU2MGZoMWzrne8qrpeHLxlV4opbDw6ENFpQoaXKmkx7LybJtZUn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=761fbc7341a0d85f1b848d5db9c6f2977421b9fd",
+      "author": "r/StableDiffusion · /u/jungseungoh97",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:44.732Z"
+      "collectedAt": "2026-07-23T19:47:38.106Z"
     },
     {
-      "id": "reddit-g04vdn",
+      "id": "reddit-i49caq",
       "platform": "reddit",
-      "title": "The Lighting Skeletons.",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v4e4tn/the_lighting_skeletons/",
-      "thumbnail": "https://preview.redd.it/vpfs6fjlfzeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f3031aa45a7cd427ceb0c4022e19db82849df4a0",
-      "author": "r/midjourney · /u/Mordrat_The_Grey",
+      "title": "Krea 2 Depth LoRA — first impressions + how to get the best results",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4a1t8/krea_2_depth_lora_first_impressions_how_to_get/",
+      "thumbnail": "https://external-preview.redd.it/Wmxk0McLplhcddzq4cv2-9FN6JaH80s8bv_WkEtdalI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=34be2210ff31b9e4394a3142da364f67fefe3d19",
+      "author": "r/StableDiffusion · /u/iiTzMYUNG",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:44.732Z"
+      "collectedAt": "2026-07-23T19:47:38.106Z"
     },
     {
-      "id": "reddit-mv2em",
+      "id": "reddit-qno9q2",
       "platform": "reddit",
-      "title": "Alumbrado [OC]",
-      "url": "https://www.reddit.com/r/midjourney/comments/1v474cs/alumbrado_oc/",
-      "thumbnail": "https://preview.redd.it/4qtn4o9ipxeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=92c5f717e12270d66a15af1f6d69085218c4ccca",
-      "author": "r/midjourney · /u/Gold-Lengthiness-760",
+      "title": "SCAIL-2/SAM 3 Tracking Help",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v3veq7/scail2sam_3_tracking_help/",
+      "thumbnail": "https://external-preview.redd.it/M2J5Y24yajZ5dWVoMS0gpup5iorG68VIsES5ZOs5nujPPdWy3BWO1myuuXlS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ccfc32c0e4ce33ee1316947f1613d838e1cfdea5",
+      "author": "r/StableDiffusion · /u/Delightful_Disciple",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/midjourney",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T17:48:44.732Z"
+      "collectedAt": "2026-07-23T19:47:38.106Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
