@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T19:47:38.865Z",
+  "generatedAt": "2026-07-23T21:29:51.947Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,34 +46,34 @@
   ],
   "items": [
     {
+      "id": "douyin-2582778",
+      "platform": "douyin",
+      "title": "中国女排3:2战胜美国晋级四强",
+      "url": "https://www.douyin.com/hot/2582778",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 12105864,
+      "metric": "1210.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-23T21:29:51.947Z"
+    },
+    {
       "id": "douyin-2582660",
       "platform": "douyin",
       "title": "邓煜王虹获菲尔兹奖",
       "url": "https://www.douyin.com/hot/2582660",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11797702,
-      "metric": "1179.8 万 热度",
+      "score": 11830126,
+      "metric": "1183.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
-    },
-    {
-      "id": "douyin-2582500",
-      "platform": "douyin",
-      "title": "贵州人私藏的豆豉火锅有多香",
-      "url": "https://www.douyin.com/hot/2582500",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11591559,
-      "metric": "1159.2 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
+      "collectedAt": "2026-07-23T21:29:51.947Z"
     },
     {
       "id": "douyin-2582616",
@@ -82,13 +82,28 @@
       "url": "https://www.douyin.com/hot/2582616",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11417930,
-      "metric": "1141.8 万 热度",
+      "score": 11776073,
+      "metric": "1177.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
+      "collectedAt": "2026-07-23T21:29:51.947Z"
+    },
+    {
+      "id": "douyin-2582500",
+      "platform": "douyin",
+      "title": "贵州人私藏的豆豉火锅有多香",
+      "url": "https://www.douyin.com/hot/2582500",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 11466063,
+      "metric": "1146.6 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-23T21:29:51.947Z"
     },
     {
       "id": "douyin-2581922",
@@ -97,43 +112,13 @@
       "url": "https://www.douyin.com/hot/2581922",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11297386,
-      "metric": "1129.7 万 热度",
+      "score": 10834381,
+      "metric": "1083.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
-    },
-    {
-      "id": "douyin-2582457",
-      "platform": "douyin",
-      "title": "我的世界进入大彩电时代",
-      "url": "https://www.douyin.com/hot/2582457",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10532648,
-      "metric": "1053.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
-    },
-    {
-      "id": "douyin-2582806",
-      "platform": "douyin",
-      "title": "北大祝贺邓煜王虹获菲尔兹奖",
-      "url": "https://www.douyin.com/hot/2582806",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10324219,
-      "metric": "1032.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
+      "collectedAt": "2026-07-23T21:29:51.947Z"
     },
     {
       "id": "douyin-2582137",
@@ -142,13 +127,43 @@
       "url": "https://www.douyin.com/hot/2582137",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9192115,
-      "metric": "919.2 万 热度",
+      "score": 10829010,
+      "metric": "1082.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
+      "collectedAt": "2026-07-23T21:29:51.947Z"
+    },
+    {
+      "id": "douyin-2582806",
+      "platform": "douyin",
+      "title": "北大祝贺邓煜王虹获菲尔兹奖",
+      "url": "https://www.douyin.com/hot/2582806",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9334659,
+      "metric": "933.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-23T21:29:51.947Z"
+    },
+    {
+      "id": "douyin-2582457",
+      "platform": "douyin",
+      "title": "我的世界进入大彩电时代",
+      "url": "https://www.douyin.com/hot/2582457",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9218590,
+      "metric": "921.9 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-23T21:29:51.947Z"
     },
     {
       "id": "douyin-2582104",
@@ -157,28 +172,13 @@
       "url": "https://www.douyin.com/hot/2582104",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9190257,
-      "metric": "919.0 万 热度",
+      "score": 9192869,
+      "metric": "919.3 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
-    },
-    {
-      "id": "douyin-2582459",
-      "platform": "douyin",
-      "title": "让老手艺活下来传下去",
-      "url": "https://www.douyin.com/hot/2582459",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9142974,
-      "metric": "914.3 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
+      "collectedAt": "2026-07-23T21:29:51.947Z"
     },
     {
       "id": "douyin-2582797",
@@ -187,203 +187,203 @@
       "url": "https://www.douyin.com/hot/2582797",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9118725,
-      "metric": "911.9 万 热度",
+      "score": 9179412,
+      "metric": "917.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
+      "collectedAt": "2026-07-23T21:29:51.947Z"
     },
     {
-      "id": "douyin-2581157",
+      "id": "douyin-2582459",
       "platform": "douyin",
-      "title": "今年菲尔兹奖候选人都在研究啥",
-      "url": "https://www.douyin.com/hot/2581157",
+      "title": "让老手艺活下来传下去",
+      "url": "https://www.douyin.com/hot/2582459",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9065958,
-      "metric": "906.6 万 热度",
+      "score": 9139360,
+      "metric": "913.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
+      "collectedAt": "2026-07-23T21:29:51.947Z"
     },
     {
-      "id": "douyin-2582007",
+      "id": "douyin-2582158",
       "platform": "douyin",
-      "title": "王楚钦乒超首秀不敌徐海东",
-      "url": "https://www.douyin.com/hot/2582007",
+      "title": "周星驰路演现场给小影迷唱生日歌",
+      "url": "https://www.douyin.com/hot/2582158",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9013825,
-      "metric": "901.4 万 热度",
+      "score": 9115327,
+      "metric": "911.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.865Z"
+      "collectedAt": "2026-07-23T21:29:51.947Z"
     },
     {
-      "id": "reddit-66jc93",
+      "id": "reddit-1884uru",
       "platform": "reddit",
-      "title": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gpka/flux_3_real_world_models_towards_multimodal_flow/",
-      "thumbnail": "",
-      "author": "r/StableDiffusion · /u/stephen370",
+      "title": "Amateur feedback request",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v41w2y/amateur_feedback_request/",
+      "thumbnail": "https://preview.redd.it/pyz8y7bqbweh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5dd753f3ae844a8ff01fa1add21689a9c909dbf",
+      "author": "r/graphic_design · /u/waterbedbone",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.105Z"
+      "collectedAt": "2026-07-23T21:29:51.232Z"
     },
     {
-      "id": "reddit-nwemy7",
+      "id": "reddit-i3vd62",
       "platform": "reddit",
-      "title": "FLUX3 - TEST 2",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4hpim/flux3_test_2/",
-      "thumbnail": "https://external-preview.redd.it/dGd4Z3V5bTMzMGZoMX9XIgxu3yfqknF07N9TrLXWpEUfe8Rw9al7FWG6E2hH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e6d8c6d079b1d038292e6388e61722eb2a4f590",
-      "author": "r/StableDiffusion · /u/Extension-Yard1918",
+      "title": "This is my Thermal Camera Design \"Lovers Bite\"!!!",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v4ksv8/this_is_my_thermal_camera_design_lovers_bite/",
+      "thumbnail": "https://preview.redd.it/41s1abhgm0fh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=77ad53d767941ee304e1db433d6ab32780136ad0",
+      "author": "r/graphic_design · /u/ComfyKing_",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.106Z"
+      "collectedAt": "2026-07-23T21:29:51.232Z"
     },
     {
-      "id": "reddit-1syc5rc",
+      "id": "reddit-rhsomk",
       "platform": "reddit",
-      "title": "TRELLIS.2 can now generate a high-quality 3D asset in under 7 minutes on a 6 GB VRAM CUDA GPU. No ComfyUI Node Nightmare.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4k3je/trellis2_can_now_generate_a_highquality_3d_asset/",
-      "thumbnail": "https://external-preview.redd.it/cjY5bThwa2VoMGZoMaL2TvRuZZxeBKJL_4ohhwdXrAYi5nD48Y7MVJ8CnxLM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=df26401934829cc9f74590447f5377094e4f28ec",
-      "author": "r/StableDiffusion · /u/intisarstorage2",
+      "title": "Yamine Yamal Poster",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v445j9/yamine_yamal_poster/",
+      "thumbnail": "https://preview.redd.it/9mndnilkwweh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6171fcf1fb4995c8a157cc3876cf1974608e0cb7",
+      "author": "r/graphic_design · /u/ApartmentAccording99",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.106Z"
+      "collectedAt": "2026-07-23T21:29:51.232Z"
     },
     {
-      "id": "reddit-15mr5qq",
+      "id": "reddit-1e0hqmg",
       "platform": "reddit",
-      "title": "Mix Studio - A Free Open Source AI Workspace for ComfyUI. Generate from Your Desktop or Phone with 1-Click Installs for Krea 2, Flux 2 Klein, Qwen Image Edit, LTX 2.3, Wan 2.2, SCA",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v3rjy1/mix_studio_a_free_open_source_ai_workspace_for/",
-      "thumbnail": "https://preview.redd.it/xoj7l3xyzteh1.gif?frame=1&amp;width=140&amp;height=113&amp;auto=webp&amp;s=1d1e24cb452b5329593a5c9ff7b97d0fbbc37b43",
-      "author": "r/StableDiffusion · /u/blackmixture",
+      "title": "I designed esoteric chocolate bars",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v4dxdv/i_designed_esoteric_chocolate_bars/",
+      "thumbnail": "https://preview.redd.it/vo4ygqx3ezeh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=f9944363897031504a94604ead3e372954ca2c25",
+      "author": "r/graphic_design · /u/DiscountLarge9618",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.106Z"
+      "collectedAt": "2026-07-23T21:29:51.232Z"
     },
     {
-      "id": "reddit-1xzi1op",
+      "id": "reddit-jxpfc3",
       "platform": "reddit",
-      "title": "LTX's \"Clean Plate\" applied to a classic \"Donnie Darko\"('99) highschool hallway tracking-shot montage - (Before/After)",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gssv/ltxs_clean_plate_applied_to_a_classic_donnie/",
-      "thumbnail": "https://external-preview.redd.it/YWQycDk4a2F4emVoMbCW1dWg7wnQtvRrZ_OWusroLb3wyq2yepAVN8TF7Sft.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fcab62b5ce6c84ef1287fb16d37b398569d6346d",
-      "author": "r/StableDiffusion · /u/JackKerawock",
+      "title": "logo for a productivity suite — critiques?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v44qb7/logo_for_a_productivity_suite_critiques/",
+      "thumbnail": "https://preview.redd.it/8tptj2ny0xeh1.png?width=140&amp;height=93&amp;auto=webp&amp;s=55540dda30ad74f2a1a381df807f8be3448468fd",
+      "author": "r/graphic_design · /u/akrsnu",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.106Z"
+      "collectedAt": "2026-07-23T21:29:51.232Z"
     },
     {
-      "id": "reddit-1274wth",
+      "id": "reddit-1of9gnx",
       "platform": "reddit",
-      "title": "New to AI generation! Any recommandations to get similar results?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gvxt/new_to_ai_generation_any_recommandations_to_get/",
-      "thumbnail": "https://preview.redd.it/qizamibvxzeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=474d299bcf637508da50ad6b8927c498c12a439d",
-      "author": "r/StableDiffusion · /u/Ok_Lake3893",
+      "title": "How can I improve logo/concept?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v4j5as/how_can_i_improve_logoconcept/",
+      "thumbnail": "https://preview.redd.it/krs2nfe3c0fh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da29e54977d8c5ff2617e85c0988c069261e2cf7",
+      "author": "r/graphic_design · /u/3hreeringz",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.106Z"
+      "collectedAt": "2026-07-23T21:29:51.232Z"
     },
     {
-      "id": "reddit-urnrn",
+      "id": "reddit-1rckd1p",
       "platform": "reddit",
-      "title": "FLUX3",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4hnx0/flux3/",
-      "thumbnail": "https://external-preview.redd.it/ZndzeTBhZHYyMGZoMVgiVMfFMPA9EuM1xlKLrzLYLaSsD7VpFdc-Jn0MJV7D.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f195816b85c637f0c54b6792eb07be81da83899",
-      "author": "r/StableDiffusion · /u/Extension-Yard1918",
+      "title": "Hierarchy Will Save Us",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v4mdit/hierarchy_will_save_us/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/occasionallyjeffrey",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.106Z"
+      "collectedAt": "2026-07-23T21:29:51.232Z"
     },
     {
-      "id": "reddit-1wotith",
+      "id": "reddit-d5l34x",
       "platform": "reddit",
-      "title": "Flux 3",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4i6se/flux_3/",
-      "thumbnail": "https://external-preview.redd.it/d2hocDdvODU2MGZoMWzrne8qrpeHLxlV4opbDw6ENFpQoaXKmkx7LybJtZUn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=761fbc7341a0d85f1b848d5db9c6f2977421b9fd",
-      "author": "r/StableDiffusion · /u/jungseungoh97",
+      "title": "Let's hear some success stories!",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v40bzk/lets_hear_some_success_stories/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/publicappeal_",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.106Z"
+      "collectedAt": "2026-07-23T21:29:51.232Z"
     },
     {
-      "id": "reddit-i49caq",
+      "id": "reddit-1jkcdut",
       "platform": "reddit",
-      "title": "Krea 2 Depth LoRA — first impressions + how to get the best results",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4a1t8/krea_2_depth_lora_first_impressions_how_to_get/",
-      "thumbnail": "https://external-preview.redd.it/Wmxk0McLplhcddzq4cv2-9FN6JaH80s8bv_WkEtdalI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=34be2210ff31b9e4394a3142da364f67fefe3d19",
-      "author": "r/StableDiffusion · /u/iiTzMYUNG",
+      "title": "How to design for someone that doesn't know what they want?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v3xiqg/how_to_design_for_someone_that_doesnt_know_what/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Key-Ad7306",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.106Z"
+      "collectedAt": "2026-07-23T21:29:51.232Z"
     },
     {
-      "id": "reddit-qno9q2",
+      "id": "reddit-9f2wav",
       "platform": "reddit",
-      "title": "SCAIL-2/SAM 3 Tracking Help",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v3veq7/scail2sam_3_tracking_help/",
-      "thumbnail": "https://external-preview.redd.it/M2J5Y24yajZ5dWVoMS0gpup5iorG68VIsES5ZOs5nujPPdWy3BWO1myuuXlS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ccfc32c0e4ce33ee1316947f1613d838e1cfdea5",
-      "author": "r/StableDiffusion · /u/Delightful_Disciple",
+      "title": "How passionate do I have to be?",
+      "url": "https://www.reddit.com/r/graphic_design/comments/1v4btn0/how_passionate_do_i_have_to_be/",
+      "thumbnail": "",
+      "author": "r/graphic_design · /u/Motor-Membership7625",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/graphic_design",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-23T19:47:38.106Z"
+      "collectedAt": "2026-07-23T21:29:51.232Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
