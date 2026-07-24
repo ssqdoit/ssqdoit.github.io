@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T03:46:20.847Z",
+  "generatedAt": "2026-07-24T06:40:49.100Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -40,7 +40,7 @@
       "label": "Reddit",
       "status": "live",
       "message": "公开社区日榜",
-      "count": 9,
+      "count": 10,
       "mode": "public-api"
     }
   ],
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2582983",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 12042730,
-      "metric": "1204.3 万 热度",
+      "score": 11599217,
+      "metric": "1159.9 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.846Z"
+      "collectedAt": "2026-07-24T06:40:49.100Z"
     },
     {
       "id": "douyin-2582500",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2582500",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11377321,
-      "metric": "1137.7 万 热度",
+      "score": 11425299,
+      "metric": "1142.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.846Z"
+      "collectedAt": "2026-07-24T06:40:49.100Z"
     },
     {
       "id": "douyin-2583104",
@@ -82,43 +82,43 @@
       "url": "https://www.douyin.com/hot/2583104",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11291535,
-      "metric": "1129.2 万 热度",
+      "score": 11165748,
+      "metric": "1116.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.846Z"
+      "collectedAt": "2026-07-24T06:40:49.100Z"
     },
     {
-      "id": "douyin-2582867",
+      "id": "douyin-2583178",
       "platform": "douyin",
-      "title": "马克龙致电祝贺王虹获奖",
-      "url": "https://www.douyin.com/hot/2582867",
+      "title": "跟知识博主看懂挂谷猜想",
+      "url": "https://www.douyin.com/hot/2583178",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11076676,
-      "metric": "1107.7 万 热度",
+      "score": 11115918,
+      "metric": "1111.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.847Z"
+      "collectedAt": "2026-07-24T06:40:49.100Z"
     },
     {
-      "id": "douyin-2582457",
+      "id": "douyin-2582352",
       "platform": "douyin",
-      "title": "我的世界进入大彩电时代",
-      "url": "https://www.douyin.com/hot/2582457",
+      "title": "豆包帮我拍广告大片",
+      "url": "https://www.douyin.com/hot/2582352",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10371032,
-      "metric": "1037.1 万 热度",
+      "score": 10441588,
+      "metric": "1044.2 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.847Z"
+      "collectedAt": "2026-07-24T06:40:49.100Z"
     },
     {
       "id": "douyin-2582806",
@@ -127,13 +127,28 @@
       "url": "https://www.douyin.com/hot/2582806",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10358613,
-      "metric": "1035.9 万 热度",
+      "score": 10339856,
+      "metric": "1034.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.847Z"
+      "collectedAt": "2026-07-24T06:40:49.100Z"
+    },
+    {
+      "id": "douyin-2583185",
+      "platform": "douyin",
+      "title": "A股",
+      "url": "https://www.douyin.com/hot/2583185",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9243686,
+      "metric": "924.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-24T06:40:49.100Z"
     },
     {
       "id": "douyin-2582459",
@@ -142,43 +157,43 @@
       "url": "https://www.douyin.com/hot/2582459",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9227013,
-      "metric": "922.7 万 热度",
+      "score": 9144572,
+      "metric": "914.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.847Z"
-    },
-    {
-      "id": "douyin-2582104",
-      "platform": "douyin",
-      "title": "抖音网友带我逛菲尔兹奖现场",
-      "url": "https://www.douyin.com/hot/2582104",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9184059,
-      "metric": "918.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.847Z"
+      "collectedAt": "2026-07-24T06:40:49.100Z"
     },
     {
       "id": "douyin-2582531",
       "platform": "douyin",
-      "title": "保罗乔治出发中国",
+      "title": "保罗乔治抵达中国",
       "url": "https://www.douyin.com/hot/2582531",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9170142,
-      "metric": "917.0 万 热度",
+      "score": 9137143,
+      "metric": "913.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.847Z"
+      "collectedAt": "2026-07-24T06:40:49.100Z"
+    },
+    {
+      "id": "douyin-2583257",
+      "platform": "douyin",
+      "title": "国务院成立六蓝水库溃坝调查组",
+      "url": "https://www.douyin.com/hot/2583257",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9103410,
+      "metric": "910.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-24T06:40:49.100Z"
     },
     {
       "id": "douyin-2582854",
@@ -187,187 +202,188 @@
       "url": "https://www.douyin.com/hot/2582854",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9143669,
-      "metric": "914.4 万 热度",
+      "score": 9057231,
+      "metric": "905.7 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.847Z"
+      "collectedAt": "2026-07-24T06:40:49.100Z"
     },
     {
-      "id": "douyin-2582729",
+      "id": "douyin-2582966",
       "platform": "douyin",
-      "title": "AL战胜JDG",
-      "url": "https://www.douyin.com/hot/2582729",
+      "title": "中方对多艘菲船只采取管制措施",
+      "url": "https://www.douyin.com/hot/2582966",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9129878,
-      "metric": "913.0 万 热度",
+      "score": 8903582,
+      "metric": "890.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.847Z"
+      "collectedAt": "2026-07-24T06:40:49.100Z"
     },
     {
-      "id": "douyin-2582158",
-      "platform": "douyin",
-      "title": "周星驰路演现场给小影迷唱生日歌",
-      "url": "https://www.douyin.com/hot/2582158",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9091459,
-      "metric": "909.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:20.847Z"
-    },
-    {
-      "id": "reddit-w4zjzb",
+      "id": "reddit-pxwd8y",
       "platform": "reddit",
-      "title": "Photo manipulation",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v4r5tc/photo_manipulation/",
-      "thumbnail": "https://preview.redd.it/do3u9hgoq1fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed71219c28655ee1350a2cd5459af2013a9009a3",
-      "author": "r/photoshop · /u/2-Pac-",
+      "title": "Pomegranate - Sci-Fi Film (30 min)",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4o3u6/pomegranate_scifi_film_30_min/",
+      "thumbnail": "https://external-preview.redd.it/ZzFjMTBpZ3o2MWZoMS8Eb4QRGb7nO3vSwPAkQ_Yz3dyEU9U-ycDqzxPGaS-q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ab24870241bdcd47a23aec3dd294a0f2e058012",
+      "author": "r/midjourney · /u/gossip_goblin",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:19.974Z"
+      "collectedAt": "2026-07-24T06:40:48.068Z"
     },
     {
-      "id": "reddit-x43f7c",
+      "id": "reddit-1apsv0r",
       "platform": "reddit",
-      "title": "Brush settings in editor",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v4pw1g/brush_settings_in_editor/",
-      "thumbnail": "https://preview.redd.it/0mmpeibfi1fh1.gif?width=320&amp;crop=smart&amp;s=80c539901c652e71644c6b2c6542bcde09250d15",
-      "author": "r/photoshop · /u/naughty-knifeman",
+      "title": "Intelligence",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4acxa/intelligence/",
+      "thumbnail": "https://preview.redd.it/o85tpi6plyeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=218af82501929dc3b57dcb4ce1730aa3d66c9b89",
+      "author": "r/midjourney · /u/Zaicab",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:19.974Z"
+      "collectedAt": "2026-07-24T06:40:48.068Z"
     },
     {
-      "id": "reddit-4309st",
+      "id": "reddit-19y8cfn",
       "platform": "reddit",
-      "title": "How to achieve this soft painted/pop art look?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v4zlcn/how_to_achieve_this_soft_paintedpop_art_look/",
-      "thumbnail": "https://preview.redd.it/y94kvgv9j3fh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ef5757b48a9b63a83f79e491c23d9b6b3c23ff27",
-      "author": "r/photoshop · /u/eggylist",
+      "title": "D&D - Comic Strip Style",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4i4mo/dd_comic_strip_style/",
+      "thumbnail": "https://preview.redd.it/nc5p169950fh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=0b974b2d0d537ac35c393d38dfd286cdf2666816",
+      "author": "r/midjourney · /u/Zenchilada",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:19.974Z"
+      "collectedAt": "2026-07-24T06:40:48.068Z"
     },
     {
-      "id": "reddit-wwuz1q",
+      "id": "reddit-1kvog08",
       "platform": "reddit",
-      "title": "First Concert Poster",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v46ahq/first_concert_poster/",
-      "thumbnail": "https://preview.redd.it/huxyrsk5hxeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=874d54302c190ce6aaac10447f2bf8da6b0537e4",
-      "author": "r/photoshop · /u/Holiday-Tap8147",
+      "title": "Some weird people I met in space. It's a wonder I survived. - Part 2 (plus some bonus space snapshots)",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4v52c/some_weird_people_i_met_in_space_its_a_wonder_i/",
+      "thumbnail": "https://preview.redd.it/3xkooey3i2fh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=57fcd695d5f4b64d60d1dbbd8b387e8dbea3af8b",
+      "author": "r/midjourney · /u/dropthedrawing",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:19.974Z"
+      "collectedAt": "2026-07-24T06:40:48.068Z"
     },
     {
-      "id": "reddit-1wx8z5a",
+      "id": "reddit-1irpzx8",
       "platform": "reddit",
-      "title": "Eyedropper tool is driving me INSANE",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v4brme/eyedropper_tool_is_driving_me_insane/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/RealTypophobia",
+      "title": "Serene nature",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4e5fk/serene_nature/",
+      "thumbnail": "https://preview.redd.it/90pzikvofzeh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=626cc49f62db42b95ff461b811c52013cfb6f59f",
+      "author": "r/midjourney · /u/Sharp_Alternative845",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:19.974Z"
+      "collectedAt": "2026-07-24T06:40:48.068Z"
     },
     {
-      "id": "reddit-ldrea2",
+      "id": "reddit-f3gmml",
       "platform": "reddit",
-      "title": "Adobe 2023 or another version compatible with macOS Monterey required.",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v4acfk/adobe_2023_or_another_version_compatible_with/",
-      "thumbnail": "",
-      "author": "r/photoshop · /u/y2kthatgirl",
+      "title": "A Fusion of Japanese and Maya-Aztec Styles",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4aj95/a_fusion_of_japanese_and_mayaaztec_styles/",
+      "thumbnail": "https://preview.redd.it/roiee6i3nyeh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=849197c0efa5c693747f1d3fde17a4841e719a61",
+      "author": "r/midjourney · /u/WorkLucky4366",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:19.974Z"
+      "collectedAt": "2026-07-24T06:40:48.068Z"
     },
     {
-      "id": "reddit-mp3fh7",
+      "id": "reddit-1mml1py",
       "platform": "reddit",
-      "title": "Error when using brushes or eraser",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v49czh/error_when_using_brushes_or_eraser/",
-      "thumbnail": "https://preview.redd.it/boean1ifcyeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60390415db1b3dee5926995785bac642ed49bf10",
-      "author": "r/photoshop · /u/man_with_beard_",
+      "title": "We did not have good intentions.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4uwr4/we_did_not_have_good_intentions/",
+      "thumbnail": "https://preview.redd.it/p0d0jl1eh2fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=37724b66288dd1181aebd1662f079ee66320edc4",
+      "author": "r/midjourney · /u/Big_Addendum_9920",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:19.974Z"
+      "collectedAt": "2026-07-24T06:40:48.068Z"
     },
     {
-      "id": "reddit-nqfh9z",
+      "id": "reddit-g04vdn",
       "platform": "reddit",
-      "title": "Anyone know a brush similar to this or just like this on photoshop?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v4o2ag/anyone_know_a_brush_similar_to_this_or_just_like/",
-      "thumbnail": "https://preview.redd.it/zqhz6vhq61fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc6fba38f441f4c0a9438f8309233d7f61e8a4f1",
-      "author": "r/photoshop · /u/ILOVEROBLIX34577556",
+      "title": "The Lighting Skeletons.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4e4tn/the_lighting_skeletons/",
+      "thumbnail": "https://preview.redd.it/vpfs6fjlfzeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f3031aa45a7cd427ceb0c4022e19db82849df4a0",
+      "author": "r/midjourney · /u/Mordrat_The_Grey",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:19.974Z"
+      "collectedAt": "2026-07-24T06:40:48.068Z"
     },
     {
-      "id": "reddit-ctbm8k",
+      "id": "reddit-ep9i6b",
       "platform": "reddit",
-      "title": "Why can't I generate mockups in PS like ChatGPT?",
-      "url": "https://www.reddit.com/r/photoshop/comments/1v4z4vk/why_cant_i_generate_mockups_in_ps_like_chatgpt/",
-      "thumbnail": "https://preview.redd.it/ylk790b0f3fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f886b30088e938ed4e2e958bea0d082b23ffcc0",
-      "author": "r/photoshop · /u/ashkirk",
+      "title": "yes. weird.",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v4xuxl/yes_weird/",
+      "thumbnail": "https://external-preview.redd.it/YxLeU9qKJYFHKZsvlKZXyd4ApnLvTFuIl5_MY662RfY.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fee3ab320c8cff3efcd8c9bf76fd8be1d3f4f026",
+      "author": "r/midjourney · /u/DeusExMagicka",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/photoshop",
+        "r/midjourney",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T03:46:19.974Z"
+      "collectedAt": "2026-07-24T06:40:48.068Z"
+    },
+    {
+      "id": "reddit-mv2em",
+      "platform": "reddit",
+      "title": "Alumbrado [OC]",
+      "url": "https://www.reddit.com/r/midjourney/comments/1v474cs/alumbrado_oc/",
+      "thumbnail": "https://preview.redd.it/4qtn4o9ipxeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=92c5f717e12270d66a15af1f6d69085218c4ccca",
+      "author": "r/midjourney · /u/Gold-Lengthiness-760",
+      "score": 1,
+      "metric": "社区日榜",
+      "tags": [
+        "r/midjourney",
+        "Reddit RSS"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-24T06:40:48.068Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
