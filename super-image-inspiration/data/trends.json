@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T10:28:59.848Z",
+  "generatedAt": "2026-07-24T14:14:53.491Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -46,64 +46,64 @@
   ],
   "items": [
     {
-      "id": "douyin-2583588",
-      "platform": "douyin",
-      "title": "中国男篮vs喀麦隆男篮",
-      "url": "https://www.douyin.com/hot/2583588",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 11556586,
-      "metric": "1155.7 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
-    },
-    {
       "id": "douyin-2582983",
       "platform": "douyin",
       "title": "台风“红霞”或于明晚登陆我国",
       "url": "https://www.douyin.com/hot/2582983",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11410036,
-      "metric": "1141.0 万 热度",
+      "score": 11781149,
+      "metric": "1178.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
+      "collectedAt": "2026-07-24T14:14:53.491Z"
     },
     {
-      "id": "douyin-2583143",
+      "id": "douyin-2583588",
       "platform": "douyin",
-      "title": "上半年我国汽车出口超6000亿元",
-      "url": "https://www.douyin.com/hot/2583143",
+      "title": "中国男篮113:79喀麦隆男篮",
+      "url": "https://www.douyin.com/hot/2583588",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11138397,
-      "metric": "1113.8 万 热度",
+      "score": 11196458,
+      "metric": "1119.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
+      "collectedAt": "2026-07-24T14:14:53.491Z"
     },
     {
-      "id": "douyin-2583185",
+      "id": "douyin-2584138",
       "platform": "douyin",
-      "title": "A股",
-      "url": "https://www.douyin.com/hot/2583185",
+      "title": "“十五五”消费市场迎重大变化",
+      "url": "https://www.douyin.com/hot/2584138",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11101803,
-      "metric": "1110.2 万 热度",
+      "score": 10969733,
+      "metric": "1097.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
+      "collectedAt": "2026-07-24T14:14:53.491Z"
+    },
+    {
+      "id": "douyin-2583330",
+      "platform": "douyin",
+      "title": "消暑这件事交给周五",
+      "url": "https://www.douyin.com/hot/2583330",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10964067,
+      "metric": "1096.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-24T14:14:53.491Z"
     },
     {
       "id": "douyin-2583698",
@@ -112,13 +112,28 @@
       "url": "https://www.douyin.com/hot/2583698",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10396455,
-      "metric": "1039.6 万 热度",
+      "score": 10340821,
+      "metric": "1034.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
+      "collectedAt": "2026-07-24T14:14:53.491Z"
+    },
+    {
+      "id": "douyin-2583989",
+      "platform": "douyin",
+      "title": "证监会原副主席方星海被查",
+      "url": "https://www.douyin.com/hot/2583989",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10334346,
+      "metric": "1033.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-24T14:14:53.491Z"
     },
     {
       "id": "douyin-2583150",
@@ -127,43 +142,13 @@
       "url": "https://www.douyin.com/hot/2583150",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10375671,
-      "metric": "1037.6 万 热度",
+      "score": 9228370,
+      "metric": "922.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
-    },
-    {
-      "id": "douyin-2583257",
-      "platform": "douyin",
-      "title": "国务院成立六蓝水库溃坝调查组",
-      "url": "https://www.douyin.com/hot/2583257",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 9208356,
-      "metric": "920.8 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
-    },
-    {
-      "id": "douyin-2582531",
-      "platform": "douyin",
-      "title": "保罗乔治抵达中国",
-      "url": "https://www.douyin.com/hot/2582531",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8955030,
-      "metric": "895.5 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
+      "collectedAt": "2026-07-24T14:14:53.491Z"
     },
     {
       "id": "douyin-2583178",
@@ -172,13 +157,28 @@
       "url": "https://www.douyin.com/hot/2583178",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8924830,
-      "metric": "892.5 万 热度",
+      "score": 9157957,
+      "metric": "915.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
+      "collectedAt": "2026-07-24T14:14:53.491Z"
+    },
+    {
+      "id": "douyin-2582577",
+      "platform": "douyin",
+      "title": "夏天从玩水的那一刻开始",
+      "url": "https://www.douyin.com/hot/2582577",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8885409,
+      "metric": "888.5 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-24T14:14:53.491Z"
     },
     {
       "id": "douyin-2582352",
@@ -187,203 +187,203 @@
       "url": "https://www.douyin.com/hot/2582352",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8697922,
-      "metric": "869.8 万 热度",
+      "score": 8755037,
+      "metric": "875.5 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
+      "collectedAt": "2026-07-24T14:14:53.491Z"
     },
     {
-      "id": "douyin-2583535",
+      "id": "douyin-2583237",
       "platform": "douyin",
-      "title": "外交部回应美新一轮关税措施",
-      "url": "https://www.douyin.com/hot/2583535",
+      "title": "当我学会用颜色搭配时",
+      "url": "https://www.douyin.com/hot/2583237",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8616590,
-      "metric": "861.7 万 热度",
+      "score": 8406077,
+      "metric": "840.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
+      "collectedAt": "2026-07-24T14:14:53.491Z"
     },
     {
-      "id": "douyin-2582867",
+      "id": "douyin-2583959",
       "platform": "douyin",
-      "title": "马克龙致电祝贺王虹获奖",
-      "url": "https://www.douyin.com/hot/2582867",
+      "title": "中国海警水炮驱离菲侵权船只",
+      "url": "https://www.douyin.com/hot/2583959",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8408255,
-      "metric": "840.8 万 热度",
+      "score": 8208295,
+      "metric": "820.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:59.848Z"
+      "collectedAt": "2026-07-24T14:14:53.491Z"
     },
     {
-      "id": "reddit-i3vd62",
+      "id": "reddit-13zky2m",
       "platform": "reddit",
-      "title": "This is my Thermal Camera Design \"Lovers Bite\"!!!",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4ksv8/this_is_my_thermal_camera_design_lovers_bite/",
-      "thumbnail": "https://preview.redd.it/41s1abhgm0fh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=77ad53d767941ee304e1db433d6ab32780136ad0",
-      "author": "r/graphic_design · /u/ComfyKing_",
+      "title": "Krea 2 : styles (wildcards update)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4u26q/krea_2_styles_wildcards_update/",
+      "thumbnail": "https://preview.redd.it/a6i8367wa2fh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=63e92c9d83436e7d9a69eaa8e278462551d6439a",
+      "author": "r/StableDiffusion · /u/Dear-Spend-2865",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:58.832Z"
+      "collectedAt": "2026-07-24T14:14:52.601Z"
     },
     {
-      "id": "reddit-1fpb6em",
+      "id": "reddit-1syc5rc",
       "platform": "reddit",
-      "title": "\"Corporate Memphis\" design style on future euro banknote design proposals 🤮",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4tpww/corporate_memphis_design_style_on_future_euro/",
-      "thumbnail": "https://preview.redd.it/ib40zk2t72fh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=897c5ca9ddc219631f7652d8835caa4c5ad7e912",
-      "author": "r/graphic_design · /u/Affectionate-Mango19",
+      "title": "TRELLIS.2 can now generate a high-quality 3D asset in under 7 minutes on a 6 GB VRAM CUDA GPU. No ComfyUI Node Nightmare.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4k3je/trellis2_can_now_generate_a_highquality_3d_asset/",
+      "thumbnail": "https://external-preview.redd.it/cjY5bThwa2VoMGZoMaL2TvRuZZxeBKJL_4ohhwdXrAYi5nD48Y7MVJ8CnxLM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=df26401934829cc9f74590447f5377094e4f28ec",
+      "author": "r/StableDiffusion · /u/intisarstorage2",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:58.832Z"
+      "collectedAt": "2026-07-24T14:14:52.601Z"
     },
     {
-      "id": "reddit-1rckd1p",
+      "id": "reddit-1yymckt",
       "platform": "reddit",
-      "title": "Hierarchy Will Save Us",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4mdit/hierarchy_will_save_us/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/occasionallyjeffrey",
+      "title": "Better Flux 3 example 3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4os1j/better_flux_3_example_3/",
+      "thumbnail": "https://external-preview.redd.it/eDZsNjlncjViMWZoMQnuuF_gvcJ32w3U58aMn6feDK_M8Dsog6d5t8ELmEPc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2b95715c9456ccb3094aecb83d2719c9440e4f5",
+      "author": "r/StableDiffusion · /u/Different_Fix_2217",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:58.832Z"
+      "collectedAt": "2026-07-24T14:14:52.601Z"
     },
     {
-      "id": "reddit-1e0hqmg",
+      "id": "reddit-nwemy7",
       "platform": "reddit",
-      "title": "I designed esoteric chocolate bars",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4dxdv/i_designed_esoteric_chocolate_bars/",
-      "thumbnail": "https://preview.redd.it/vo4ygqx3ezeh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=f9944363897031504a94604ead3e372954ca2c25",
-      "author": "r/graphic_design · /u/DiscountLarge9618",
+      "title": "FLUX3 - TEST 2",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4hpim/flux3_test_2/",
+      "thumbnail": "https://external-preview.redd.it/dGd4Z3V5bTMzMGZoMX9XIgxu3yfqknF07N9TrLXWpEUfe8Rw9al7FWG6E2hH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e6d8c6d079b1d038292e6388e61722eb2a4f590",
+      "author": "r/StableDiffusion · /u/Extension-Yard1918",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:58.832Z"
+      "collectedAt": "2026-07-24T14:14:52.601Z"
     },
     {
-      "id": "reddit-eavd1i",
+      "id": "reddit-66jc93",
       "platform": "reddit",
-      "title": "Fictional visual identity I created for an Arabic restaurant.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4xlwd/fictional_visual_identity_i_created_for_an_arabic/",
-      "thumbnail": "https://preview.redd.it/jcrikg2c23fh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=450848b0a702f4708f48445ab8fa5589e9977d73",
-      "author": "r/graphic_design · /u/pelucioo",
+      "title": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gpka/flux_3_real_world_models_towards_multimodal_flow/",
+      "thumbnail": "",
+      "author": "r/StableDiffusion · /u/stephen370",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:58.832Z"
+      "collectedAt": "2026-07-24T14:14:52.601Z"
     },
     {
-      "id": "reddit-ogqxlh",
+      "id": "reddit-1274wth",
       "platform": "reddit",
-      "title": "Hello, I am a film poster designer and I did this poster for a film about a story set in the Spanish Civil War. The film follows a family who welcome a charismatic stranger in thei",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4q81f/hello_i_am_a_film_poster_designer_and_i_did_this/",
-      "thumbnail": "https://preview.redd.it/1idtm5hlk1fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59cc596787cda6c6fac7e402e4b020978988749e",
-      "author": "r/graphic_design · /u/Puzzleheaded_Age3563",
+      "title": "New to AI generation! Any recommandations to get similar results?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gvxt/new_to_ai_generation_any_recommandations_to_get/",
+      "thumbnail": "https://preview.redd.it/qizamibvxzeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=474d299bcf637508da50ad6b8927c498c12a439d",
+      "author": "r/StableDiffusion · /u/Ok_Lake3893",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:58.832Z"
+      "collectedAt": "2026-07-24T14:14:52.601Z"
     },
     {
-      "id": "reddit-1of9gnx",
+      "id": "reddit-1xzi1op",
       "platform": "reddit",
-      "title": "How can I improve logo/concept?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4j5as/how_can_i_improve_logoconcept/",
-      "thumbnail": "https://preview.redd.it/krs2nfe3c0fh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da29e54977d8c5ff2617e85c0988c069261e2cf7",
-      "author": "r/graphic_design · /u/3hreeringz",
+      "title": "LTX's \"Clean Plate\" applied to a classic \"Donnie Darko\"('99) highschool hallway tracking-shot montage - (Before/After)",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gssv/ltxs_clean_plate_applied_to_a_classic_donnie/",
+      "thumbnail": "https://external-preview.redd.it/YWQycDk4a2F4emVoMbCW1dWg7wnQtvRrZ_OWusroLb3wyq2yepAVN8TF7Sft.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fcab62b5ce6c84ef1287fb16d37b398569d6346d",
+      "author": "r/StableDiffusion · /u/JackKerawock",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:58.832Z"
+      "collectedAt": "2026-07-24T14:14:52.601Z"
     },
     {
-      "id": "reddit-1s3dxig",
+      "id": "reddit-o10gbs",
       "platform": "reddit",
-      "title": "Recent Designs I made so Far",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4uqvl/recent_designs_i_made_so_far/",
-      "thumbnail": "https://preview.redd.it/x8b12i17g2fh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d4b3e5b81ad533673051e9b8eb46c21e82905e76",
-      "author": "r/graphic_design · /u/Capital_Ad_363",
+      "title": "KREA 2 Turbo Style Gallery",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4u1bu/krea_2_turbo_style_gallery/",
+      "thumbnail": "https://preview.redd.it/xbivr7lfa2fh1.png?width=140&amp;height=53&amp;auto=webp&amp;s=fa445b5ec96007035bd494ef585ed2515c739f37",
+      "author": "r/StableDiffusion · /u/xMaybeIamALion",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:58.832Z"
+      "collectedAt": "2026-07-24T14:14:52.601Z"
     },
     {
-      "id": "reddit-gmk4h5",
+      "id": "reddit-6wy2oq",
       "platform": "reddit",
-      "title": "Silly poster(s) I made while bored in class.",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4fhfw/silly_posters_i_made_while_bored_in_class/",
-      "thumbnail": "https://preview.redd.it/6b218h1gmzeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=3c6f10508775a697945b76709542ab70ed9a2446",
-      "author": "r/graphic_design · /u/Appropriate-Put5871",
+      "title": "Best of both worlds",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4nu0d/best_of_both_worlds/",
+      "thumbnail": "https://preview.redd.it/q6vn48jn31fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f8e4ef678cdd882319dd8eb93d61cc918dc8955",
+      "author": "r/StableDiffusion · /u/GolgBoddoleZer",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:58.832Z"
+      "collectedAt": "2026-07-24T14:14:52.601Z"
     },
     {
-      "id": "reddit-9f2wav",
+      "id": "reddit-mwp111",
       "platform": "reddit",
-      "title": "How passionate do I have to be?",
-      "url": "https://www.reddit.com/r/graphic_design/comments/1v4btn0/how_passionate_do_i_have_to_be/",
-      "thumbnail": "",
-      "author": "r/graphic_design · /u/Motor-Membership7625",
+      "title": "Nvidia releases Qwen-Image-Flash",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v580dh/nvidia_releases_qwenimageflash/",
+      "thumbnail": "https://preview.redd.it/k1y0daomr5fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=56fe06b10c5a0aa0b3330e8bfb84b8cc3786dd49",
+      "author": "r/StableDiffusion · /u/Dante_77A",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/graphic_design",
+        "r/StableDiffusion",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T10:28:58.832Z"
+      "collectedAt": "2026-07-24T14:14:52.601Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
