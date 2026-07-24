@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T14:14:53.491Z",
+  "generatedAt": "2026-07-24T15:48:01.113Z",
   "refreshMinutes": 120,
   "sources": [
     {
@@ -52,13 +52,13 @@
       "url": "https://www.douyin.com/hot/2582983",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11781149,
-      "metric": "1178.1 万 热度",
+      "score": 11743779,
+      "metric": "1174.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
+      "collectedAt": "2026-07-24T15:48:01.113Z"
     },
     {
       "id": "douyin-2583588",
@@ -67,13 +67,13 @@
       "url": "https://www.douyin.com/hot/2583588",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 11196458,
-      "metric": "1119.6 万 热度",
+      "score": 11366497,
+      "metric": "1136.6 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
+      "collectedAt": "2026-07-24T15:48:01.113Z"
     },
     {
       "id": "douyin-2584138",
@@ -82,13 +82,13 @@
       "url": "https://www.douyin.com/hot/2584138",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10969733,
-      "metric": "1097.0 万 热度",
+      "score": 11339571,
+      "metric": "1134.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
+      "collectedAt": "2026-07-24T15:48:01.113Z"
     },
     {
       "id": "douyin-2583330",
@@ -97,43 +97,13 @@
       "url": "https://www.douyin.com/hot/2583330",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 10964067,
-      "metric": "1096.4 万 热度",
+      "score": 11023603,
+      "metric": "1102.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
-    },
-    {
-      "id": "douyin-2583698",
-      "platform": "douyin",
-      "title": "重庆举行反诈工作新闻发布会",
-      "url": "https://www.douyin.com/hot/2583698",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10340821,
-      "metric": "1034.1 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
-    },
-    {
-      "id": "douyin-2583989",
-      "platform": "douyin",
-      "title": "证监会原副主席方星海被查",
-      "url": "https://www.douyin.com/hot/2583989",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 10334346,
-      "metric": "1033.4 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
+      "collectedAt": "2026-07-24T15:48:01.113Z"
     },
     {
       "id": "douyin-2583150",
@@ -142,13 +112,43 @@
       "url": "https://www.douyin.com/hot/2583150",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9228370,
-      "metric": "922.8 万 热度",
+      "score": 10413688,
+      "metric": "1041.4 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
+      "collectedAt": "2026-07-24T15:48:01.113Z"
+    },
+    {
+      "id": "douyin-2583989",
+      "platform": "douyin",
+      "title": "证监会原副主席方星海被查",
+      "url": "https://www.douyin.com/hot/2583989",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 10374070,
+      "metric": "1037.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-24T15:48:01.113Z"
+    },
+    {
+      "id": "douyin-2583043",
+      "platform": "douyin",
+      "title": "长征三号乙火箭发射与闪电同框",
+      "url": "https://www.douyin.com/hot/2583043",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 9173908,
+      "metric": "917.4 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-24T15:48:01.113Z"
     },
     {
       "id": "douyin-2583178",
@@ -157,13 +157,13 @@
       "url": "https://www.douyin.com/hot/2583178",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 9157957,
+      "score": 9157873,
       "metric": "915.8 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
+      "collectedAt": "2026-07-24T15:48:01.113Z"
     },
     {
       "id": "douyin-2582577",
@@ -172,13 +172,13 @@
       "url": "https://www.douyin.com/hot/2582577",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8885409,
-      "metric": "888.5 万 热度",
+      "score": 9010123,
+      "metric": "901.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
+      "collectedAt": "2026-07-24T15:48:01.113Z"
     },
     {
       "id": "douyin-2582352",
@@ -187,13 +187,28 @@
       "url": "https://www.douyin.com/hot/2582352",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8755037,
-      "metric": "875.5 万 热度",
+      "score": 8969966,
+      "metric": "897.0 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
+      "collectedAt": "2026-07-24T15:48:01.113Z"
+    },
+    {
+      "id": "douyin-2583916",
+      "platform": "douyin",
+      "title": "华山论剑复活赛",
+      "url": "https://www.douyin.com/hot/2583916",
+      "thumbnail": "",
+      "author": "抖音热点榜",
+      "score": 8962524,
+      "metric": "896.3 万 热度",
+      "tags": [
+        "抖音热榜"
+      ],
+      "publishedAt": null,
+      "collectedAt": "2026-07-24T15:48:01.113Z"
     },
     {
       "id": "douyin-2583237",
@@ -202,188 +217,173 @@
       "url": "https://www.douyin.com/hot/2583237",
       "thumbnail": "",
       "author": "抖音热点榜",
-      "score": 8406077,
-      "metric": "840.6 万 热度",
+      "score": 8570607,
+      "metric": "857.1 万 热度",
       "tags": [
         "抖音热榜"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
+      "collectedAt": "2026-07-24T15:48:01.113Z"
     },
     {
-      "id": "douyin-2583959",
-      "platform": "douyin",
-      "title": "中国海警水炮驱离菲侵权船只",
-      "url": "https://www.douyin.com/hot/2583959",
-      "thumbnail": "",
-      "author": "抖音热点榜",
-      "score": 8208295,
-      "metric": "820.8 万 热度",
-      "tags": [
-        "抖音热榜"
-      ],
-      "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:53.491Z"
-    },
-    {
-      "id": "reddit-13zky2m",
+      "id": "reddit-4309st",
       "platform": "reddit",
-      "title": "Krea 2 : styles (wildcards update)",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4u26q/krea_2_styles_wildcards_update/",
-      "thumbnail": "https://preview.redd.it/a6i8367wa2fh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=63e92c9d83436e7d9a69eaa8e278462551d6439a",
-      "author": "r/StableDiffusion · /u/Dear-Spend-2865",
+      "title": "How to achieve this soft painted/pop art look?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v4zlcn/how_to_achieve_this_soft_paintedpop_art_look/",
+      "thumbnail": "https://preview.redd.it/y94kvgv9j3fh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ef5757b48a9b63a83f79e491c23d9b6b3c23ff27",
+      "author": "r/photoshop · /u/eggylist",
       "score": 10,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:52.601Z"
+      "collectedAt": "2026-07-24T15:48:00.219Z"
     },
     {
-      "id": "reddit-1syc5rc",
+      "id": "reddit-dcvhgh",
       "platform": "reddit",
-      "title": "TRELLIS.2 can now generate a high-quality 3D asset in under 7 minutes on a 6 GB VRAM CUDA GPU. No ComfyUI Node Nightmare.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4k3je/trellis2_can_now_generate_a_highquality_3d_asset/",
-      "thumbnail": "https://external-preview.redd.it/cjY5bThwa2VoMGZoMaL2TvRuZZxeBKJL_4ohhwdXrAYi5nD48Y7MVJ8CnxLM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=df26401934829cc9f74590447f5377094e4f28ec",
-      "author": "r/StableDiffusion · /u/intisarstorage2",
+      "title": "Head in the cosmos",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v5e75e/head_in_the_cosmos/",
+      "thumbnail": "https://preview.redd.it/ax0vn8wu17fh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=d78b7fc2abd368ba37fe6d6cf40ad6776047a5ba",
+      "author": "r/photoshop · /u/franrrod80",
       "score": 9,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:52.601Z"
+      "collectedAt": "2026-07-24T15:48:00.219Z"
     },
     {
-      "id": "reddit-1yymckt",
+      "id": "reddit-w4zjzb",
       "platform": "reddit",
-      "title": "Better Flux 3 example 3",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4os1j/better_flux_3_example_3/",
-      "thumbnail": "https://external-preview.redd.it/eDZsNjlncjViMWZoMQnuuF_gvcJ32w3U58aMn6feDK_M8Dsog6d5t8ELmEPc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2b95715c9456ccb3094aecb83d2719c9440e4f5",
-      "author": "r/StableDiffusion · /u/Different_Fix_2217",
+      "title": "Photo manipulation",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v4r5tc/photo_manipulation/",
+      "thumbnail": "https://preview.redd.it/do3u9hgoq1fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed71219c28655ee1350a2cd5459af2013a9009a3",
+      "author": "r/photoshop · /u/2-Pac-",
       "score": 8,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:52.601Z"
+      "collectedAt": "2026-07-24T15:48:00.219Z"
     },
     {
-      "id": "reddit-nwemy7",
+      "id": "reddit-x43f7c",
       "platform": "reddit",
-      "title": "FLUX3 - TEST 2",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4hpim/flux3_test_2/",
-      "thumbnail": "https://external-preview.redd.it/dGd4Z3V5bTMzMGZoMX9XIgxu3yfqknF07N9TrLXWpEUfe8Rw9al7FWG6E2hH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e6d8c6d079b1d038292e6388e61722eb2a4f590",
-      "author": "r/StableDiffusion · /u/Extension-Yard1918",
+      "title": "Brush settings in editor",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v4pw1g/brush_settings_in_editor/",
+      "thumbnail": "https://preview.redd.it/0mmpeibfi1fh1.gif?width=320&amp;crop=smart&amp;s=80c539901c652e71644c6b2c6542bcde09250d15",
+      "author": "r/photoshop · /u/naughty-knifeman",
       "score": 7,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:52.601Z"
+      "collectedAt": "2026-07-24T15:48:00.220Z"
     },
     {
-      "id": "reddit-66jc93",
+      "id": "reddit-1s4am7v",
       "platform": "reddit",
-      "title": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gpka/flux_3_real_world_models_towards_multimodal_flow/",
-      "thumbnail": "",
-      "author": "r/StableDiffusion · /u/stephen370",
+      "title": "I made a game for Photoshop - Oh No My Filters!",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v58ddw/i_made_a_game_for_photoshop_oh_no_my_filters/",
+      "thumbnail": "https://external-preview.redd.it/9FacC5WDe6QTsmNv5I50Tv--Y_PYi3LTyfromgESEs8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=68d0b42985f9db7f7e9621b4bf460c7cdda0e514",
+      "author": "r/photoshop · /u/goodboy-ninja",
       "score": 6,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:52.601Z"
+      "collectedAt": "2026-07-24T15:48:00.220Z"
     },
     {
-      "id": "reddit-1274wth",
+      "id": "reddit-1hymr6k",
       "platform": "reddit",
-      "title": "New to AI generation! Any recommandations to get similar results?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gvxt/new_to_ai_generation_any_recommandations_to_get/",
-      "thumbnail": "https://preview.redd.it/qizamibvxzeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=474d299bcf637508da50ad6b8927c498c12a439d",
-      "author": "r/StableDiffusion · /u/Ok_Lake3893",
+      "title": "How much are you actually using Photoshop’s AI tools these days?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v5cvj8/how_much_are_you_actually_using_photoshops_ai/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/AK_Bravo",
       "score": 5,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:52.601Z"
+      "collectedAt": "2026-07-24T15:48:00.220Z"
     },
     {
-      "id": "reddit-1xzi1op",
+      "id": "reddit-1x5xb9b",
       "platform": "reddit",
-      "title": "LTX's \"Clean Plate\" applied to a classic \"Donnie Darko\"('99) highschool hallway tracking-shot montage - (Before/After)",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4gssv/ltxs_clean_plate_applied_to_a_classic_donnie/",
-      "thumbnail": "https://external-preview.redd.it/YWQycDk4a2F4emVoMbCW1dWg7wnQtvRrZ_OWusroLb3wyq2yepAVN8TF7Sft.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fcab62b5ce6c84ef1287fb16d37b398569d6346d",
-      "author": "r/StableDiffusion · /u/JackKerawock",
+      "title": "PSA: Photoshop Neural Filters failing with \"we've temporarily disabled this filter because of an error\"? Check your Windows username for non-English characters.",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v5a7nh/psa_photoshop_neural_filters_failing_with_weve/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/Momshero",
       "score": 4,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:52.601Z"
+      "collectedAt": "2026-07-24T15:48:00.220Z"
     },
     {
-      "id": "reddit-o10gbs",
+      "id": "reddit-g4m1hr",
       "platform": "reddit",
-      "title": "KREA 2 Turbo Style Gallery",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4u1bu/krea_2_turbo_style_gallery/",
-      "thumbnail": "https://preview.redd.it/xbivr7lfa2fh1.png?width=140&amp;height=53&amp;auto=webp&amp;s=fa445b5ec96007035bd494ef585ed2515c739f37",
-      "author": "r/StableDiffusion · /u/xMaybeIamALion",
+      "title": "Why is my background black?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v4vmzz/why_is_my_background_black/",
+      "thumbnail": "https://preview.redd.it/q2aeyvgwm2fh1.png?width=140&amp;height=113&amp;auto=webp&amp;s=f244ece9dc17917c595db576c10a0213c1b8cd5f",
+      "author": "r/photoshop · /u/kktrinh",
       "score": 3,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:52.601Z"
+      "collectedAt": "2026-07-24T15:48:00.220Z"
     },
     {
-      "id": "reddit-6wy2oq",
+      "id": "reddit-ic5nlk",
       "platform": "reddit",
-      "title": "Best of both worlds",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v4nu0d/best_of_both_worlds/",
-      "thumbnail": "https://preview.redd.it/q6vn48jn31fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f8e4ef678cdd882319dd8eb93d61cc918dc8955",
-      "author": "r/StableDiffusion · /u/GolgBoddoleZer",
+      "title": "Running Photoshop on windows server",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v4t6xi/running_photoshop_on_windows_server/",
+      "thumbnail": "",
+      "author": "r/photoshop · /u/Working_Border5980",
       "score": 2,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:52.601Z"
+      "collectedAt": "2026-07-24T15:48:00.220Z"
     },
     {
-      "id": "reddit-mwp111",
+      "id": "reddit-nqfh9z",
       "platform": "reddit",
-      "title": "Nvidia releases Qwen-Image-Flash",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1v580dh/nvidia_releases_qwenimageflash/",
-      "thumbnail": "https://preview.redd.it/k1y0daomr5fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=56fe06b10c5a0aa0b3330e8bfb84b8cc3786dd49",
-      "author": "r/StableDiffusion · /u/Dante_77A",
+      "title": "Anyone know a brush similar to this or just like this on photoshop?",
+      "url": "https://www.reddit.com/r/photoshop/comments/1v4o2ag/anyone_know_a_brush_similar_to_this_or_just_like/",
+      "thumbnail": "https://preview.redd.it/zqhz6vhq61fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc6fba38f441f4c0a9438f8309233d7f61e8a4f1",
+      "author": "r/photoshop · /u/ILOVEROBLIX34577556",
       "score": 1,
       "metric": "社区日榜",
       "tags": [
-        "r/StableDiffusion",
+        "r/photoshop",
         "Reddit RSS"
       ],
       "publishedAt": null,
-      "collectedAt": "2026-07-24T14:14:52.601Z"
+      "collectedAt": "2026-07-24T15:48:00.220Z"
     }
   ],
   "note": "热点来自公开信息与已授权 API，仅用于创意研究，请前往原平台核实。"
